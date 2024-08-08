@@ -1,0 +1,221 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+@use "./variables.scss" as *;
+
+// Custom Line Separator
+
+hr {
+    overflow: visible;
+    padding: 0;
+    margin: 3.5em auto;
+    border: none;
+    color: var(--gray);
+    text-align: center;
+    width: 60%;
+    border-color: var(--gray);
+
+    &:after {
+        content: "* * *";
+        display: inline-block;
+        margin: -1em 0 0.5em;
+        font-size: 1.5em;
+        padding: 0.5em 1em;
+        background: var(--light);
+    }
+}
+
+// Table Hover Highlight
+
+.table-container>table {
+    margin: 0;
+    padding: 0;
+
+    tr:hover td {
+        background-color: var(--highlight);
+    }
+}
+
+// Heading Link Highlight
+
+article {
+    > :is(h1, h2, h3, h4, h5, h6) {
+        >a {
+            &.internal {
+                background-color: var(--highlight);
+                color: var(--secondary);
+
+                &:hover {
+                    color: var(--tertiary);
+                }
+            }
+        }
+    }
+}
+
+// External Link Styles
+
+article {
+    a {
+        &.external {
+            text-decoration: underline;
+        }
+    }
+}
+
+// Heading Sizes
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.3rem;
+}
+
+h4,
+h5,
+h6 {
+    font-size: 1.15rem;
+}
+
+// Popover Element Show Delay
+
+a:hover .popover,
+.popover:hover {
+    animation-delay: 0.6s;
+}
+
+// Tracker Table Styles
+
+[data-slug^="tracker-index/"][data-slug$="tracker"] {
+    --cards-min-width: 180px;
+    --cards-max-width: 1fr;
+    --cards-mobile-width: 120px;
+    --cards-image-height: 400px;
+    --cards-aspect-ratio: 2/3;
+    --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
+
+    --cards-background: transparent;
+    --cards-background-hover: #040404;
+    --cards-border: #282726;
+    --cards-border-hover: rgb(61, 69, 68);
+    --image-muted: 0.7;
+
+    @media (max-width: 400pt) {
+        [data-slug^="tracker-index/"][data-slug$="tracker"] {
+            --cards-min-width: var(--cards-mobile-width);
+        }
+    }
+
+    table {
+        tbody {
+            padding: 0.5rem 0;
+            display: grid;
+            grid-template-columns: var(--cards-columns);
+            grid-column-gap: 0.75rem;
+            grid-row-gap: 0.75rem;
+        }
+
+        >tbody {
+            >tr {
+                border: 1px solid var(--cards-border);
+                display: flex;
+                flex-direction: column;
+                border-radius: 6px;
+                transition: box-shadow 0.15s linear;
+                max-width: var(--cards-max-width);
+                line-height: 1.5rem;
+
+                &:hover {
+                    background-color: var(--cards-background-hover);
+                    border: 1px solid var(--cards-border-hover);
+                    box-shadow: 0 4px 6px 0px rgba(0, 0, 0, 0.05), 0 1px 3px 1px rgba(0, 0, 0, 0.025);
+                    transition: box-shadow 0.15s linear;
+
+                    >td:not(:last-child) {
+                        border-bottom: 1px solid var(--cards-border-hover);
+                    }
+                }
+
+                >td {
+                    white-space: initial;
+                    flex: 1 1 0;
+
+                    &:not(:last-child) {
+                        border-bottom: 1px solid var(--cards-border);
+                    }
+
+                    a {
+                        &.internal {
+                            background-color: var(--cards-background);
+                        }
+                    }
+
+                    >ul {
+                        width: 100%;
+                        padding: 0.1em 0;
+                        margin: 0 auto;
+                        list-style: disc inside;
+                    }
+
+                    &:has(img) {
+                        padding: 0;
+                        display: block;
+                        margin: 0;
+                        width: 100%;
+                    }
+
+                    img {
+                        aspect-ratio: var(--cards-aspect-ratio);
+                        width: 100%;
+                        max-height: var(--cards-image-height);
+                        vertical-align: bottom;
+                        opacity: var(--image-muted);
+
+                        &:hover {
+                            opacity: 1;
+                        }
+                    }
+                }
+            }
+        }
+
+        thead {
+            display: none;
+        }
+    }
+
+    @media (max-width: 400pt) {
+        table tbody>tr>td:not(:first-child) {
+            font-size: 80%;
+        }
+    }
+
+    @media (min-width: 400pt) {
+        .cards-cols-4 {
+            --cards-columns: repeat(4, minmax(0, 1fr));
+        }
+    }
+}
+
+[data-slug^="tracker-index/"][data-slug$="list"] {
+    table {
+        display: block;
+        overflow-x: auto;
+        max-width: fit-content;
+        white-space: nowrap;
+        counter-reset: rowNumber;
+
+        tr {
+            td:first-child {
+                counter-increment: rowNumber;
+            }
+
+            td:first-child::before {
+                content: counter(rowNumber) ".";
+            }
+        }
+
+    }
+}

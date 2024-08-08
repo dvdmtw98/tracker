@@ -5,7 +5,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2024-07-28 18:01:22 -0500
+updated: 2024-08-07 12:47:24 -0500
 cssclasses:
   - numbered-rows
   - wide-table
@@ -77,7 +77,6 @@ cssclasses:
 |     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                                         | Patrick Radden Keefe | 2018      | Crime<br>History<br>Irish               | 441   |
 |     | [Tracers in the Dark](https://www.goodreads.com/book/show/60462182-tracers-in-the-dark)                                         | Andy Greenberg       | 2022      | Crime<br>Technology<br>Business         | 367   |
 |     | [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)     | Dale Carnegie        | 1936      | Self-Help<br>Communication              | 288   |
-|     | [Countdown to Zero Day](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)                                     | Kim Zetter           | 2014      | Technology<br>Politics<br>Espionage<br> | 406   |
-|     | [This Is How They Tell Me the World Ends](https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends) | Nicole Perlroth      | 2021      | Technology<br>Politics<br>War           | 528   |
+|     | [Countdown to Zero Day](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)                                     | eKim Zetter          | 2014      | Technology<br>Politics<br>Espionage<br> | 406   |
 
 ### Comics

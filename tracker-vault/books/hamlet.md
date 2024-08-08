@@ -1,5 +1,5 @@
 ---
-name: Hamlet
+name: The Tragedy of Hamlet, Prince of Denmark
 author: William Shakespeare
 published: 1600
 type: Fiction
