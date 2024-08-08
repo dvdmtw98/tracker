@@ -24,7 +24,7 @@ genre:
 <% result.getValue('genre').bullets %>
 rating: 🌑🌑🌑🌑🌑
 status: Reading
-created: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss ZZ") %>
+date: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss ZZ") %>
 updated: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss ZZ") %>
 ---
 

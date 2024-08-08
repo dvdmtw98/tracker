@@ -9,7 +9,7 @@ genre:
   - Politics
 rating: 🌕🌕🌕🌕🌗
 status: Completed
-created: 2024-07-08 23:18:34 -0500
+date: 2024-07-08 23:18:34 -0500
 updated: 2024-07-08 23:22:04 -0500
 ---
 

@@ -10,7 +10,7 @@ genre:
   - Literary Fiction
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-created: 2024-06-07 11:14:57 -0500
+date: 2024-06-07 11:14:57 -0500
 updated: 2024-06-18 16:44:38 -0500
 ---
 

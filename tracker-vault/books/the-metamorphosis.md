@@ -9,7 +9,7 @@ genre:
   - Horror
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-created: 2024-07-20 11:04:07 -0500
+date: 2024-07-20 11:04:07 -0500
 updated: 2024-07-20 11:07:07 -0500
 ---
 

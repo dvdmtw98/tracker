@@ -9,7 +9,7 @@ genre:
   - Mystery
 rating: 🌑🌑🌑🌑🌑
 status: Reading
-created: 2024-08-01 21:20:40 -0500
+date: 2024-08-01 21:20:40 -0500
 updated: 2024-08-01 21:22:13 -0500
 ---
 

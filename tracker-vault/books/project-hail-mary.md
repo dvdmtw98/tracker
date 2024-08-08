@@ -9,7 +9,7 @@ genre:
   - Science Fiction
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-created: 2024-03-16 18:23:36 -0500
+date: 2024-03-16 18:23:36 -0500
 updated: 2024-06-16 16:57:14 -0500
 ---
 

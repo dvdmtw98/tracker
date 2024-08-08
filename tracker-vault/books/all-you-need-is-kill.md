@@ -9,7 +9,7 @@ genre:
   - Adventure
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-created: 2024-06-07 23:21:09 -0500
+date: 2024-06-07 23:21:09 -0500
 updated: 2024-06-16 16:54:27 -0500
 ---
 

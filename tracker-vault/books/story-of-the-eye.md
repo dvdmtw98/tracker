@@ -9,7 +9,7 @@ genre:
   - Philosophy
 rating: 🌕🌕🌗🌑🌑
 status: Completed
-created: 2024-07-28 18:01:18 -0500
+date: 2024-07-28 18:01:18 -0500
 updated: 2024-07-28 18:03:18 -0500
 ---
 

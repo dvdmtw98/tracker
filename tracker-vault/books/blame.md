@@ -10,7 +10,7 @@ genre:
   - Post-Apocalyptic
 rating: 🌕🌕🌕🌕🌗
 status: Completed
-created: 2024-03-17 09:32:58 -0500
+date: 2024-03-17 09:32:58 -0500
 updated: 2024-07-21 23:28:12 -0500
 ---
 

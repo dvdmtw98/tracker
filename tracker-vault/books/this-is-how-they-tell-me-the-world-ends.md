@@ -9,7 +9,7 @@ genre:
   - Politics
 rating: 🌑🌑🌑🌑🌑
 status: Reading
-created: 2024-08-01 22:45:22 -0500
+date: 2024-08-01 22:45:22 -0500
 updated: 2024-08-01 22:47:13 -0500
 ---
 

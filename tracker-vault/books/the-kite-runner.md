@@ -10,7 +10,7 @@ genre:
   - Classics
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-created: 2024-06-24 10:13:35 -0500
+date: 2024-06-24 10:13:35 -0500
 updated: 2024-06-24 10:16:48 -0500
 ---
 
