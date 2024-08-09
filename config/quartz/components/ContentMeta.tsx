@@ -37,12 +37,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
 
         if (fileData.dates.created) {
           cfg.defaultDateType = "created"
-          createdTimeStr = `Created: ${formatDate(getDate(cfg, fileData)!)}`
+          createdTimeStr = formatDate(getDate(cfg, fileData)!)
         }
 
         if (fileData.dates.modified) {
           cfg.defaultDateType = "modified"
-          modifiedTimeStr = `Modified: ${formatDate(getDate(cfg, fileData)!)}`
+          modifiedTimeStr = formatDate(getDate(cfg, fileData)!)
         }
 
         cfg.defaultDateType = cfgDefaultDataType
@@ -61,27 +61,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       if (fileData.relativePath?.startsWith("books/")) {
         const frontMatter = fileData.frontmatter
 
-        const authorStr = `Author: ${frontMatter?.author}`
-        const publishedStr = `Published: ${frontMatter?.published}`
-        const typeStr = `Type: ${frontMatter?.type}`
-        const ratingStr = `Rating: ${frontMatter?.rating}`
-        const statusStr = `Status: ${frontMatter?.status}`
-
         return (
           <p class={classNames(displayClass, "content-meta")}>
-            {authorStr}<br />
-            {publishedStr}<br />
-            {typeStr}<br />
-            {ratingStr}<br />
-            {statusStr}<br />
-            {createdTimeStr}<br />
-            {modifiedTimeStr}
+            <span class="content-meta-title">Author: </span>{frontMatter?.author}<br />
+            <span class="content-meta-title">Published: </span>{frontMatter?.published}<br />
+            <span class="content-meta-title">Type: </span>{frontMatter?.type}<br />
+            <span class="content-meta-title">Rating: </span>{frontMatter?.rating}<br />
+            <span class="content-meta-title">Status: </span>{frontMatter?.status}<br />
+            <span class="content-meta-title">Created: </span>{createdTimeStr}<br />
+            <span class="content-meta-title">Modified: </span>{modifiedTimeStr}
           </p>
         )
       } else {
         return (
           <p class={classNames(displayClass, "content-meta")}>
-            {createdTimeStr} • {modifiedTimeStr}<br />
+            <span>Created: </span>{createdTimeStr} • <span>Modified: </span>{modifiedTimeStr}<br />
             {readingTimeStr}
           </p>
         )

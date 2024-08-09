@@ -86,7 +86,23 @@ a:hover .popover,
     animation-delay: 0.6s;
 }
 
+// Frontmatter Styles
+
+.content-meta-title {
+    color: var(--darkgray);
+}
+
 // Tracker Table Styles
+
+:root[saved-theme="dark"] {
+    --cards-background-hover: #040404;
+    --image-muted: 0.7;
+}
+
+:root[saved-theme="light"] {
+    --cards-background-hover: #dcdcdc;
+    --image-muted: 1;
+}
 
 [data-slug^="tracker-index/"][data-slug$="tracker"] {
     --cards-min-width: 180px;
@@ -97,24 +113,51 @@ a:hover .popover,
     --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
 
     --cards-background: transparent;
-    --cards-background-hover: #040404;
     --cards-border: #282726;
     --cards-border-hover: rgb(61, 69, 68);
-    --image-muted: 0.7;
 
     @media (max-width: 400pt) {
-        [data-slug^="tracker-index/"][data-slug$="tracker"] {
-            --cards-min-width: var(--cards-mobile-width);
-        }
+        --cards-min-width: var(--cards-mobile-width);
     }
 
     table {
+        thead {
+            display: none;
+        }
+
         tbody {
             padding: 0.5rem 0;
             display: grid;
             grid-template-columns: var(--cards-columns);
             grid-column-gap: 0.75rem;
             grid-row-gap: 0.75rem;
+
+            @media (min-width: 300pt) {
+                --cards-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            @media (min-width: 400pt) {
+                --cards-columns: repeat(3, minmax(0, 1fr));
+            }
+
+            @media (min-width: 500pt) {
+                --cards-columns: repeat(4, minmax(0, 1fr));
+            }
+
+            @media (min-width: 700pt) {
+                --cards-columns: repeat(5, minmax(0, 1fr));
+            }
+
+            >tr {
+                >td {
+                    &:not(:first-child) {
+                        @media (max-width: 400pt) {
+                            font-size: 80%;
+                        }
+                    }
+
+                }
+            }
         }
 
         >tbody {
@@ -179,22 +222,6 @@ a:hover .popover,
                     }
                 }
             }
-        }
-
-        thead {
-            display: none;
-        }
-    }
-
-    @media (max-width: 400pt) {
-        table tbody>tr>td:not(:first-child) {
-            font-size: 80%;
-        }
-    }
-
-    @media (min-width: 400pt) {
-        .cards-cols-4 {
-            --cards-columns: repeat(4, minmax(0, 1fr));
         }
     }
 }
