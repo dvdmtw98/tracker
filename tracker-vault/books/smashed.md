@@ -1,5 +1,6 @@
 ---
 name: "Smashed: Junji Ito Story Collection"
+altname: Smashed
 author: Junji Ito
 published: 2019
 type: Manga

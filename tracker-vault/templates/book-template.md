@@ -1,9 +1,15 @@
 <%*
 const modalForm = app.plugins.plugins.modalforms.api;
+
 const result = await modalForm.openForm('book-form');
 await tp.file.rename(result.getValue('file-name').value);
 
-const imageExtensions = [".jpg", ".jpeg", ".png", ".webp"]
+let altName = result.getValue('altname').value;
+if (!altName) {
+	altName = result.getValue('name').value;
+}
+
+const imageExtensions = [".jpg", ".png"]
 const imageName = result.getValue('cover-image').value;
 let imageFilename = "";
 
@@ -17,6 +23,7 @@ for (let extension of imageExtensions) {
 -%>
 ---
 name: "<% result.getValue('name') %>"
+name: "<% altName %>"
 author: <% result.getValue('author') %>
 published: <% result.getValue('published') %>
 type: <% result.getValue('type') %>
@@ -30,4 +37,18 @@ updated: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss ZZ") %>
 
 ![[<% imageFilename %>|300]]
 
-Book Link: [<% result.getValue('name') %>](<% result.getValue('book-url') %>)
+Book Link: [<% altName %>](<% result.getValue('book-url') %>)
+
+<%*
+tp.hooks.on_all_templates_executed(async () => {
+	await new Promise(r => setTimeout(r, 2000));
+	
+	tp.user.bookIndexGen(
+		["Fiction", "Non-Fiction", "Textbook"], "book-tracker", tp
+	);
+	
+	tp.user.bookIndexGen(
+		["Manga", "Manhwa", "Comic"], "comic-tracker", tp
+	);
+});
+-%>

@@ -1,5 +1,6 @@
 ---
 name: "Why We Sleep: Unlocking the Power of Sleep and Dreams"
+altname: Why We Sleep
 author: Matthew Walker
 published: 2017
 type: Non-Fiction
@@ -15,7 +16,7 @@ updated: 2024-06-16 16:58:53 -0500
 
 ![[why-we-sleep.jpg|300]]
 
-Book Link: [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep)
+Book Link: [Why We Sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep)
 
 ---
 

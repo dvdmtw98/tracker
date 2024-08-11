@@ -67,7 +67,7 @@ const bookIndexGenerator = (groupedBooks) => {
                 .array(sortedBooks)
                 .map((k) => [
                     dv.func.link(k.file.outlinks[0], "92"),
-                    dv.func.link(k.file.link.path, k.name),
+                    dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
                     k.author,
                     k.published,
                     k.genre,

@@ -10,9 +10,9 @@ genre:
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-03-17 09:30:03 -0500
-updated: 2024-06-16 16:58:43 -0500
+updated: 2024-08-11 10:37:28 -0500
 ---
 
-![[tomie.jpeg|300]]
+![[tomie.jpg|300]]
 
 Book Link: [Tomie](https://myanimelist.net/manga/912/Tomie)

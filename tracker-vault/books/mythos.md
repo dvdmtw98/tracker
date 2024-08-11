@@ -1,5 +1,6 @@
 ---
 name: "Mythos: The Greek Myths Reimagined"
+altname: Mythos
 author: Stephen Fry
 published: 2017
 type: Non-Fiction

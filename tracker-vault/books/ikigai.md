@@ -1,5 +1,6 @@
 ---
 name: "Ikigai: The Japanese Secret to a Long and Happy Life"
+altname: Ikigai
 author: Héctor García & Francesc Miralles
 published: 2016
 type: Non-Fiction
@@ -15,7 +16,7 @@ updated: 2024-07-14 19:06:10 -0500
 
 ![[ikigai.jpg|300]]
 
-Book Link: [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.goodreads.com/en/book/show/40534545)
+Book Link: [Ikigai](https://www.goodreads.com/en/book/show/40534545)
 
 ---
 

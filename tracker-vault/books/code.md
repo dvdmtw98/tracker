@@ -1,5 +1,6 @@
 ---
-name: "Code: The Hidden Language of Computer Hardware and Software"
+name: "Code: The Hidden Language of Computer Hardware and Software, 2nd Edition"
+altname: Code
 author: Charles Petzold
 published: 2022
 type: Non-Fiction
@@ -10,12 +11,12 @@ genre:
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-03-15 17:30:03 -0500
-updated: 2024-08-04 22:43:43 -0500
+updated: 2024-08-11 10:43:44 -0500
 ---
 
 ![[code.jpg|300]]
 
-Book URL: [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code)
+Book URL: [Code](https://www.goodreads.com/book/show/44882.Code)
 
 ### Chapter 1: Best Friend
 
@@ -203,7 +204,7 @@ A relay wired this way is called an invertor. It represents an NOT gate
 Lastly there is buffer (a relay). On its own it does not do anything  
 Buffers are used to amplify weak signals  
 
-![[truth-table-logic-gates.webp|500]]
+![[truth-table-logic-gates.png|500]]
 
 Using a NAND or NOR gates all the other gates can be created  
 

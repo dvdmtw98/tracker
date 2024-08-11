@@ -1,5 +1,6 @@
 ---
 name: The Strange Case of Dr. Jekyll and Mr. Hyde
+altname: Dr. Jekyll and Mr. Hyde
 author: Robert Louis Stevenson
 published: 1886
 type: Fiction

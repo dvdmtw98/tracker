@@ -65,6 +65,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
           <p class={classNames(displayClass, "content-meta")}>
             <span class="content-meta-title">Author: </span>{frontMatter?.author}<br />
             <span class="content-meta-title">Published: </span>{frontMatter?.published}<br />
+            <span class="content-meta-title">Genre: </span>{frontMatter?.genre.join(", ")}<br />
             <span class="content-meta-title">Type: </span>{frontMatter?.type}<br />
             <span class="content-meta-title">Rating: </span>{frontMatter?.rating}<br />
             <span class="content-meta-title">Status: </span>{frontMatter?.status}<br />
