@@ -4,10 +4,11 @@ tags:
   - show
   - list
 date: 2024-01-28 14:15:56 -0600
-updated: 2024-06-28 13:15:22 -0500
+updated: 2024-08-10 21:10:14 -0500
 cssclasses:
-  - numbered-rows
-  - wide-table
+  - table-lines
+  - table-row-numbers
+  - table-wide
 ---
 
 ### Western Shows

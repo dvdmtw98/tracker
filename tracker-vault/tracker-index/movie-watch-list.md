@@ -4,10 +4,11 @@ tags:
   - list
   - movie
 date: 2024-01-28 14:15:56 -0600
-updated: 2024-07-22 22:55:36 -0500
+updated: 2024-08-10 21:09:45 -0500
 cssclasses:
-  - numbered-rows
-  - wide-table
+  - table-lines
+  - table-row-numbers
+  - table-wide
 ---
 
 ### Western Movies
