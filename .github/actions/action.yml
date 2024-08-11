@@ -24,6 +24,11 @@ runs:
           id: setup-analytics
           shell: bash
           run:  sed -i -E "s/XXXXXX/${{ inputs.MEASUREMENT_ID }}/" quartz/quartz.config.ts 
+        - name: Setup Node
+          uses: actions/setup-node@v4
+          with:
+            node-version: 20
+            check-latest: true
         - name: Install Dependencies
           id: install-dependencies
           shell: bash
