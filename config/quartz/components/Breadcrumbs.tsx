@@ -13,7 +13,7 @@ const titleCaseTransform = (displayName: string) => {
 
   const filterWords = ["and", "of", "a", "in", "on", "the", "for", "to"];
 
-  if (displayName.includes("-")) {
+  if (displayName.includes("-") || !displayName.includes(" ")) {
     const words = displayName.split("-");
     const titleCaseWords = words.map((word, index) => {
       if (filterWords.includes(word) && index !== 0) {

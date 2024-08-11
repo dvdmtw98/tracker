@@ -6,7 +6,7 @@ const titleCaseTransform: Options["mapFn"] = (node) => {
 
   const filterWords = ["and", "of", "a", "in", "on", "the", "for", "to"];
 
-  if (node.file === null || node.file.relativePath?.startsWith("books/") || node.displayName.includes("-")) {
+  if (node.file === null || node.file.relativePath?.startsWith("books/")) {
     const words = node.displayName.split("-");
     const titleCaseWords = words.map((word, index) => {
       if (filterWords.includes(word) && index !== 0) {
