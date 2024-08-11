@@ -9,7 +9,7 @@ cssclasses:
   - cards
   - cards-2-3
   - cards-cols-4
-  - wide-table
+  - cards-align-bottom
 ---
 
 ### Manga (16)

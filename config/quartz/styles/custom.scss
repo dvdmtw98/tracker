@@ -27,12 +27,18 @@ hr {
 
 // Table Hover Highlight
 
-.table-container>table {
-    margin: 0;
-    padding: 0;
+.table-container {
+    >table {
+        margin: 0;
+        padding: 0;
 
-    tr:hover td {
-        background-color: var(--highlight);
+        tr:hover td {
+            background-color: var(--highlight);
+        }
+
+        >* {
+            line-height: 1.5rem;
+        }
     }
 }
 
@@ -94,17 +100,17 @@ a:hover .popover,
 
 // Tracker Table Styles
 
-:root[saved-theme="dark"] {
-    --cards-background-hover: #040404;
-    --image-muted: 0.7;
-}
+.cards {
+    :root[saved-theme="dark"] {
+        --cards-background-hover: #040404;
+        --image-muted: 0.7;
+    }
 
-:root[saved-theme="light"] {
-    --cards-background-hover: #dcdcdc;
-    --image-muted: 1;
-}
+    :root[saved-theme="light"] {
+        --cards-background-hover: #dcdcdc;
+        --image-muted: 1;
+    }
 
-[data-slug^="tracker-index/"][data-slug$="tracker"] {
     --cards-min-width: 180px;
     --cards-max-width: 1fr;
     --cards-mobile-width: 120px;
@@ -121,6 +127,8 @@ a:hover .popover,
     }
 
     table {
+        margin: auto;
+
         thead {
             display: none;
         }
@@ -168,7 +176,6 @@ a:hover .popover,
                 border-radius: 6px;
                 transition: box-shadow 0.15s linear;
                 max-width: var(--cards-max-width);
-                line-height: 1.5rem;
 
                 &:hover {
                     background-color: var(--cards-background-hover);
@@ -226,12 +233,17 @@ a:hover .popover,
     }
 }
 
-[data-slug^="tracker-index/"][data-slug$="list"] {
+.table-wide {
     table {
         display: block;
         overflow-x: auto;
         max-width: fit-content;
         white-space: nowrap;
+    }
+}
+
+.table-row-numbers {
+    table {
         counter-reset: rowNumber;
 
         tr {
@@ -244,5 +256,20 @@ a:hover .popover,
             }
         }
 
+    }
+}
+
+.table-lines {
+    table {
+        tr {
+            td {
+                border-left: 1px solid var(--lightgray);
+                border-bottom: 1px solid var(--lightgray);
+
+                &:last-of-type {
+                    border-right: 1px solid var(--lightgray);
+                }
+            }
+        }
     }
 }
