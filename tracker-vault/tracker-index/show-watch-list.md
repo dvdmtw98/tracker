@@ -4,7 +4,7 @@ tags:
   - show
   - list
 date: 2024-01-28 14:15:56 -0600
-updated: 2024-08-10 21:10:14 -0500
+updated: 2024-08-11 21:24:10 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -53,5 +53,4 @@ cssclasses:
 |     | Shirobako                              | 2014        | 1       |
 |     | Asobi Asobase                          | 2018        | 1       |
 |     | The Apothecary Diaries                 | 2023        | 1*      |
-|     | Frieren                                | 2023        | 1*      |
 |     | Summer Time Rendering                  | 2022        | 1       |

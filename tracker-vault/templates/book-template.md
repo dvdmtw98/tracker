@@ -5,7 +5,8 @@ const result = await modalForm.openForm('book-form');
 await tp.file.rename(result.getValue('file-name').value);
 
 let altName = result.getValue('altname').value;
-if (!altName) {
+const altNameOg = result.getValue('altname').value;
+if (!altNameOg) {
 	altName = result.getValue('name').value;
 }
 
@@ -23,7 +24,9 @@ for (let extension of imageExtensions) {
 -%>
 ---
 name: "<% result.getValue('name') %>"
-name: "<% altName %>"
+<%* if (altNameOg) { -%>
+altname: "<% altNameOg %>"
+<%* } -%>
 author: <% result.getValue('author') %>
 published: <% result.getValue('published') %>
 type: <% result.getValue('type') %>
@@ -38,7 +41,6 @@ updated: <% tp.file.creation_date("YYYY-MM-DD HH:mm:ss ZZ") %>
 ![[<% imageFilename %>|300]]
 
 Book Link: [<% altName %>](<% result.getValue('book-url') %>)
-
 <%*
 tp.hooks.on_all_templates_executed(async () => {
 	await new Promise(r => setTimeout(r, 2000));

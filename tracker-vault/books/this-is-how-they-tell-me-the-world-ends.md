@@ -8,8 +8,8 @@ genre:
   - Science
   - Technology
   - Politics
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌑🌑
+status: Completed
 date: 2024-08-01 22:45:22 -0500
 updated: 2024-08-01 22:47:13 -0500
 ---

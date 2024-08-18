@@ -4,7 +4,7 @@ tags:
   - list
   - movie
 date: 2024-01-28 14:15:56 -0600
-updated: 2024-08-10 21:09:45 -0500
+updated: 2024-08-11 21:23:57 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -15,7 +15,6 @@ cssclasses:
 
 | No. | Names                                           | Release |
 | --- | ----------------------------------------------- | ------- |
-|     | A Beautiful Mind                                | 2001    |
 |     | Being John Malkovich                            | 1999    |
 |     | The Evil Dead                                   | 1981    |
 |     | 21 Grams                                        | 2003    |

@@ -5,7 +5,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2024-08-10 21:13:00 -0500
+updated: 2024-08-14 18:56:46 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -75,7 +75,6 @@ cssclasses:
 |     | [The Collector](https://www.goodreads.com/book/show/243705.The_Collector)                                                                | John Fowles                 | 1963      | • Horror<br>• Thriller<br>• Crime             | 283   |
 |     | [A Little Life](https://www.goodreads.com/book/show/22822858-a-little-life)                                                              | Hanya Yanagihara            | 2015      | • Contemporary<br>• Mental Health             | 720   |
 |     | [2666](https://www.goodreads.com/book/show/63032.2666)                                                                                   | Roberto Bolaño              | 2004      | • Mystery<br>• Contemporary<br>• Crime        | 1128  |
-|     | [Alice’s Adventures in Wonderland](https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass) | Lewis Carroll               | 1871      | • Fantasy<br>• Adventure<br>• Young Adult     | 239   |
 |     | [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina)                                                              | Leo Tolstoy                 | 1878      | • Romance<br>• Russia<br>• Historical         | 964   |
 |     | [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)                           | Cormac McCarthy             | 1985      | • Historical<br>• American<br>• Horror        | 351   |
 |     | [Moby-Dick](https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale)                                                           | Herman Melville             | 1851      | • Adventure<br>• American<br>• Classics       | 720   |
@@ -97,7 +96,6 @@ cssclasses:
 | No. | Name                                                                                                                        | Author               | Published | Genre                                         | Pages |
 | :-- | :-------------------------------------------------------------------------------------------------------------------------- | :------------------- | :-------- | :-------------------------------------------- | :---- |
 |     | [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)         | Bill Bryson          | 2003<br>  | • Science<br>• History<br>• Physics           | 544   |
-|     | [Dark Wire](https://www.goodreads.com/book/show/59644256-dark-wire)                                                         | Joseph Cox           | 2024      | • Crime<br>• Technology                       |       |
 |     | [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood)                                                   | Truman Capote        | 1959      | • Crime<br>• Mystery<br>• Thriller            | 343   |
 |     | [Number Go Up](https://www.goodreads.com/book/show/123276708-number-go-up)                                                  | Zeke Faux            | 2023      | • Crime<br>• Technology<br>• Business         | 304   |
 |     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                                     | Patrick Radden Keefe | 2018      | • Crime<br>• History<br>• Irish               | 441   |
@@ -114,7 +112,6 @@ cssclasses:
 |     | [Blood on the Tracks](https://myanimelist.net/manga/104271/Chi_no_Wadachi)                                           | Shuuzou Oshimi    | 2017      | • Drama<br>• Suspense                         | 153      |
 |     | [Claymore](https://myanimelist.net/manga/583/Claymore)                                                               | Norihiro Yagi     | 2001      | • Action<br>• Adventure<br>• Fantasy          | 159      |
 |     | [Dandadan](https://myanimelist.net/manga/135496/Dandadan)                                                            | Yukinobu Tatsu    | 2021      | • Action<br>• Supernatural<br>• Comedy        | 163*     |
-|     | [Daredevil: The Man Without Fear](https://www.goodreads.com/book/show/59973.Daredevil)                               | Frank Miller      | 1993      | • Action<br>• Thriller<br>• Mystery           | 5        |
 |     | [Girls' Last Tour](https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou)                                      | Tsukumizu         | 2014      | • Adventure<br>• Dystopian<br>• Slice of Life | 47       |
 |     | [Golden Kamuy](https://myanimelist.net/manga/85968/Golden_Kamuy)                                                     | Satoru Noda       | 2014      | • Action<br>• Adventure                       | 314      |
 |     | [Goodnight Punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)                                                | Inio Asano        | 2007      | • Drama<br>• Slice of Life<br>• Psychological | 147      |
@@ -125,7 +122,7 @@ cssclasses:
 |     | [Spirit Circle](https://myanimelist.net/manga/38071/Spirit_Circle)                                                   | Satoshi Mizukami  | 2012      | • Action<br>• Adventure<br>• Supernatural     | 45       |
 |     | [The Climber](https://myanimelist.net/manga/7375/Kokou_no_Hito)                                                      | Shinichi Sakamoto | 2007      | • Drama<br>• Psychological                    | 170      |
 |     | [The Flowers of Evil](https://myanimelist.net/manga/24705/Aku_no_Hana)                                               | Shuuzou Oshimi    | 2009      | • Drama<br>• Romance<br>• Psychological       | 58       |
-|     | [The Girl From the Other Side: Siúil, a Rún](https://myanimelist.net/manga/93972/Totsukuni_no_Shoujo)                | Nagabe            | 2015      | • Fantasy<br>• Gothic<br>• Mystery            | 53       |
+|     | [The Girl From the Other Side](https://myanimelist.net/manga/93972/Totsukuni_no_Shoujo)                              | Nagabe            | 2015      | • Fantasy<br>• Gothic<br>• Mystery            | 53       |
 
 ### Manhwa
 
@@ -137,7 +134,8 @@ cssclasses:
 
 ### Comic
 
-| No. | Name                                                                                   | Author           | Published | Genre                               | Chapters |
-| :-- | :------------------------------------------------------------------------------------- | :--------------- | :-------- | :---------------------------------- | :------- |
-|     | [Daredevil: The Man Without Fear](https://www.goodreads.com/book/show/59973.Daredevil) | Frank Miller     | 1993      | • Action<br>• Thriller<br>• Mystery | 5        |
-|     | [Y: The Last Man](https://www.goodreads.com/book/show/44512946-y)                      | Brian K. Vaughan | 2008      | • Fantasy<br>• Dystopia             | 60       |
+| No. | Name                                                                                   | Author           | Published | Genre                                | Chapters |
+| :-- | :------------------------------------------------------------------------------------- | :--------------- | :-------- | :----------------------------------- | :------- |
+|     | [Daredevil: The Man Without Fear](https://www.goodreads.com/book/show/59973.Daredevil) | Frank Miller     | 1993      | • Action<br>• Thriller<br>• Mystery  | 5        |
+|     | [Y: The Last Man](https://www.goodreads.com/book/show/44512946-y)                      | Brian K. Vaughan | 2008      | • Fantasy<br>• Dystopia              | 60       |
+|     | [Maus: A Survivor’s Tale](https://www.goodreads.com/book/show/15195.The_Complete_Maus) | Art Spiegelman   | 1980      | • Historical<br>• War<br>• Biography | 2        |
