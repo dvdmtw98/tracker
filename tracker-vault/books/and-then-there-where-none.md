@@ -7,6 +7,7 @@ genre:
   - Mystery
   - Crime
   - Thriller
+  - Suspense
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-03-16 21:33:12 -0500

@@ -8,10 +8,11 @@ genre:
   - Fantasy
   - Adventure
   - Young Adult
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+  - Classics
+rating: 🌕🌕🌕🌗🌑
+status: Completed
 date: 2024-08-14 18:53:14 -0500
-updated: 2024-08-17 18:31:51 -0500
+updated: 2024-08-18 17:20:05 -0500
 ---
 
 ![[alices-adventures-in-wonderland.jpg|300]]
@@ -154,3 +155,85 @@ Book Link: [Alice’s Adventures in Wonderland](https://www.goodreads.com/book/s
 	- Queen gives Alice direction on how to get to the eight square
 	- In the eight square she can become Queen. Queen vanishes
 - ### Chapter 3: Looking-Glass Insects
+	- Alice made it to the train where the conductor asked for ticked
+	- Alice said she does not have any ticket
+	- In her cabin where various animal passengers
+	- One of them was a insect (Gant)
+	- There was a river on the way and the train had to jump over it
+	- When the train jumped Alice fell out of the train and was in the woods
+	- The Gant and Alice talked about different types of insects
+	- Alice saw another wood and went into it and forgot her name
+	- Once out of the woods she remembered her name again
+- ### Chapter 4: Tweedledum and Tweedledee
+	- Dum and Dee great Alice and they dance by holding each others had
+	- Dum and Dee sing the “Walrus and Carpenter” song to Alice
+	- Alice hears a loud voice, Dee and Dum tells her its the Red King sleeping
+	- Dum saw a rattle and confirmed that she could see a rattle
+	- Dum informed it was a new rattle that was spoiled by Dee
+	- They decide they need to fight. They find all kinds of items to wear
+	- When they were about to fight a monstrous cow appear and they run away
+	- Alice hides behind a tree in the woods. A shawl comes flying by
+- ### Chapter 5: Wool and Water
+	- Alice catches the shawl and notices the White Queen looking for it
+	- Alice handed her the shawl and helped fix her cloths
+	- The Queen starts screaming and tells Alice she is about to prick her hand
+	- The Queen says her memory words both ways (knows about future events)
+	- The Queen looses the shawl again and crosses a brook to catch it
+	- The Queen turns into a sheep knitting cloths and Alice is in a shop
+	- The show has numerous items that move away when Alice reaches them
+	- Sheep asks Alice if she can row and hand her the two knitting needles
+	- The needles turn in oars and they are in a boat
+	- The river contains rushes (plants) which Alice tries to catch
+	- They soon are back in the show. Sheep asks what does Alice want to buy
+	- Alice buys a egg. Sheep says its at the end of the shop on a chair
+	- As Alice gets closer the chair and everything around it turns into trees
+- ### Chapter 6: Humpty Dumpty
+	- The egg got larger and larger and started looking more like a human
+	- Alice spoke with Humpty Dumpty. He explained how he is good with words
+	- Alice asks him to explain the meaning of Jabberwocky
+	- He explains the meaning of the words in the first verse
+	- Humpty Dumpty sings Alice a song and then closes his eye
+	- Alice leaves him and hears a loud crash in the forest
+- ### Chapter 7: The Lion and the Unicorn
+	- Alice sees thousands of soldiers running through the woods
+	- Alice meets the White King who says sent away and the soldiers and horses
+	- Alice spot an messenger return. King says he had two messengers
+	- Messenger says the Lion and Unicorn are at it again
+	- The go to the town were the Lion and Unicorn and fighting
+	- They meet the second messenger who is having tea with bread and butter
+	- The fighting stops for the day the King orders for bread to be brought out
+	- Then a cake is bought out which is handed to Alice for distribution
+	- The cake pieces seem to return whenever its cut
+	- Unicorn tells Alice the correct way to cut a looking-glass cake
+	- Long drums start playing. Alice crosses a brook and covers her ears
+- ### Chapter 8: It’s My Own Invention
+	- When Alice opened her eyes everything leaving the cake tray vanished
+	- Alice taught she was dreaming or rather the Red King was dreaming
+	- The Right Knight appears and says that Alice is his prisoner
+	- The White Knight appears and says he will save Alice
+	- They have a fight and in the end White King wins
+	- Alice tells the Knight she wants to become a Queen
+	- The Knight guides Alice to the edge of the woods and leaves
+	- Alice crosses the brook (Square 8) and finds a golden crown on her head
+- ### Chapter 9: Queen Alice
+	- Alice meets the White and Red Queen
+	- They tell Alice she needs to take an exam to become the Queen
+	- They also say Alice will be holding a feast for them
+	- They ask Alice questions which she cannot answer and fall asleep
+	- Alice walks away and finds door with her name on it
+	- Alice hears songs being sung for her from inside
+	- Alice opens the door and is seated between the Queens
+	- Alice is introduced to dishes, who great her and are then taken away
+	- Alice to told to give and speech before which strange things happen
+	- Alice is annoyed and pulls the tablecloth to upsets everything
+	- The Red Queen turns into dolls which Alice picks up
+- ### Chapter 10: Shaking
+	- Alice shook the Red Queen doll and its turned softer and rounder
+- ### Chapter 11: Waking
+	- Alice notices the doll was a cat after all
+- ### Chapter 12: Which Dreamed It?
+	- Alice asks her black kitten if she was the Red Queen
+	- Similarly she asks Snowdrop (White kitten) if she was the White Queen
+	- She asks Dinah if she was Humpty Dumpty
+	- Alice asks Red Queen (cat) to settle once and for all who’s dream it was
+	- Cat keeps licking feet (Alice thinks it could have been the Red kings dream)

@@ -7,6 +7,7 @@ genre:
   - Historical
   - Drama
   - Literary Fiction
+  - Contemporary
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-07-21 14:37:52 -0500

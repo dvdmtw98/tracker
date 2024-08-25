@@ -7,6 +7,7 @@ genre:
   - Mystery
   - Thriller
   - Crime
+  - Adventure
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-03-16 21:28:37 -0500

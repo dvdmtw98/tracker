@@ -4,9 +4,9 @@ author: Georges Bataille
 published: 1928
 type: Fiction
 genre:
-  - Horror
   - Erotica
   - Philosophy
+  - Horror
 rating: 🌕🌕🌗🌑🌑
 status: Completed
 date: 2024-07-28 18:01:18 -0500
