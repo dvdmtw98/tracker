@@ -11,7 +11,7 @@ genre:
 rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: 2024-08-18 18:26:05 -0500
-updated: 2024-08-24 17:33:00 -0500
+updated: 2024-08-31 19:13:04 -0500
 ---
 
 ![[lolita.jpg|300]]
@@ -31,8 +31,8 @@ Book Link: [Lolita](https://www.goodreads.com/book/show/7604.Lolita)
 ### Part One
 
 - #### Chapter 1
-	- HH talks about his love for Lolita
-	- Explains how writing came about - Attempt to **justify** oneself to others
+	- HH talks about his love for Dolores
+	- HH explains he is writing this to to **explain** his POV to reads/jury
 - #### Chapter 2
 	- HH mentions father was a easy going person
 	- Mother died when he was young. Aunt Sybil took over mothers role
@@ -40,14 +40,14 @@ Book Link: [Lolita](https://www.goodreads.com/book/show/7604.Lolita)
 	- Explains he was a **normal** boy with **no perverse taught** when **young**
 - #### Chapter 3
 	- HH talks about Annabel (daughter of aunt’s friend) his first love
-	- Cannot remember her appearance anymore (replaced by Lolita)
+	- Cannot remember her appearance anymore (replaced by Dolores)
 	- Explains how madly and deeply in love they were
 	- End of relation - Annabel dies of typhus
 - #### Chapter 4
 	- HH believes that Annabel is the reason he was not able to love anyone
-	- Tries to find a link between his love for Annabel and obsession for Lolita  
+	- Tries to find a link between his love for Annabel and obsession for Dolores  
 	- Explains vividly (smells, sights, feelings) the secret hookup with Annabel
-	- Trying to represent his love for Lolita as **innocent**
+	- Trying to represent his love for Dolores as **innocent**
 - #### Chapter 5
 	- HH mentions that he has normal interactions with women his age
 	- For sexual gratification he would turns to prostitutes (not dating)
@@ -61,7 +61,7 @@ Book Link: [Lolita](https://www.goodreads.com/book/show/7604.Lolita)
 	- Wonders what happens to nymphets he never touched
 	- Talks about this sexual experience with Monique (underage prostitute)
 	- Mentions how he gets bored by the 3rd time (becomes women like)
-	- Does not consider the girl arranged by the madam to not be a nymphet
+	- Does not consider the girl arranged by the madam to be a nymphlet
 - #### Chapter 7
 	- Decides to marry to try and calm his sexual desires
 	- Marries a Polish girl (Valeria) who is an artist
@@ -85,48 +85,48 @@ Book Link: [Lolita](https://www.goodreads.com/book/show/7604.Lolita)
 	- HH attributes it to his passion for the girl
 	- Is offered boarding at an neighbors house (Mrs. Haze)
 	- At first HH is not interested in the house as to him its tasteless
-	- In the garden meets Lolita sunbathing and is immediately in love
-	- HH believes Lolita is the reincarnation of Annabel
+	- In the garden meets Dolores sunbathing and is immediately in love
+	- HH believes Dolores is the reincarnation of Annabel
 - #### Chapter 11
 	- HH talks about the diary that he kept that described his stay at the Haze’s
 	- This chapter covers 2 weeks of the stay
-	- HH tires to come up with scenarios to be along with Lolita
+	- HH tires to come up with scenarios to be along with Dolores
 	- It always fails as Mrs. Haze is around (Mrs. Haze has feelings for HH)
-	- In the diary HH describes Lolita in excruciating detail (feel, smell, shape, etc.)
-	- HH tires to imagine the Lolita is inviting his sexual interest
-	- HH has a few moments with Lolita licking her eyes, Lolita sitting in his lap
+	- In the diary HH describes Dolores in excruciating detail (feel, smell, shape)
+	- HH tires to imagine the Dolores is inviting his sexual interest
+	- HH has a intimate moments with Dolores (licking her eyes, Dolores sitting in his lap)
 - #### Chapter 12
-	- By the end of the diary HH is frustrated that he cannot get close to Lolita
+	- By the end of the diary HH is frustrated that he cannot get close to Dolores
 	- HH imagines his desires as a devil
 	- The devil tempts him and then takes away the opportunity when its close
 - #### Chapter 13
-	- Picnic to beach is cancelled as Lolita’s friend is sick  
-	- Lolita refuses to go to church out of anger
-	- Lolita and HH have a play fight over a apple and magazine
-	- Lolita stretches her legs over HH’s lap
-	- HH takes advantage of this and organisms (masturbates) secretly
-	- HH sings one of Lolita’s favorite songs to distract her
-	- HH touch’s Lolita’s inner thigh and she gets up and leaves the room
+	- Picnic to beach is cancelled as Dolores friend is sick  
+	- Dolores refuses to go to church out of anger
+	- Dolores and HH have a play fight over a apple and magazine
+	- Dolores stretches her legs over HH’s lap
+	- HH takes advantage of this and masturbates secretly
+	- HH sings one of Dolores favorite songs to distract her
+	- HH touch’s Dolores inner thigh and she gets up and leaves the room
 - #### Chapter 14
-	- HH is happy that he was able to “enjoy” Lolita without her knowing
-	- He believes the Lolita that he imagined is different than the real one
+	- HH is happy that he was able to “enjoy” Dolores without her knowing
+	- He believes the Dolores that he imagined is different than the real one
 	- Mrs. Haze tries to flirt with HH (candlelight dinner) but he is not interested
-	- Mrs. Haze informs HH that Lolita is going to a Summer camp
+	- Mrs. Haze informs HH that Dolores is going to a Summer camp
 	- HH is upset and fakes a toothache to go to this room
 - #### Chapter 15
-	- Lolita is unwillingly sent to Summer Camp
+	- Dolores is unwillingly sent to Summer Camp
 	- HH thinks of pretending to be a girl and camping outside Camp Q
-	- Before leaving Lolita comes running and kisses HH
+	- Before leaving Dolores comes running and kisses HH
 	- HH is unreliable narrator did she actually kiss or was it just a hug
 - #### Chapter 16
-	- Once Lolita leaves HH goes to her room to look through her cloths
+	- Once Dolores leaves HH goes to her room to look through her cloths
 	- HH finds a ad pinned over the bed of a actor with HH written beside it
 	- Louise (maid) shows up and hands HH an love letter from Mrs. Haze
 	- Haze instructs HH to leave the house if he does not love her
 - #### Chapter 17
-	- HH is at first disgusted by the letter but things of all the opportunities it open
-	- By marrying Mrs. Haze he can always be with Lolita (stepdaughter)
-	- He things of ways he can molest Lolita (sleeping pills)
+	- HH is disgusted by the letter but thinks of all the opportunities it brings
+	- By marrying Mrs. Haze he can always be with Dolores (stepdaughter)
+	- He things of ways he can molest Dolores (sleeping pills)
 	- Gets drunks and starts lawing the yard (acting like a husband)
 	- Neighbor's gardener is surprised to see HH being so active
 - #### Chapter 18
@@ -141,11 +141,182 @@ Book Link: [Lolita](https://www.goodreads.com/book/show/7604.Lolita)
 	- HH is upset at Haze for hating her daughter who he sees as his own
 - #### Chapter 20
 	- Haze and HH go to the Hourglass lake for swimming
-	- Haze tells HH that she plans to send Lolita to a boarding school
+	- Haze tells HH that she plans to send Dolores to a boarding school
 	- HH is upset and goes into the woods saying he need to go to the car
-	- Thinks of ways to prevent this without revealing his love for Lolita
-	- He seems two young girls coming from the bathroom (reminds of Lolita)
+	- Thinks of ways to prevent this without revealing his love for Dolores
+	- He seems two young girls coming from the bathroom (reminds of Dolores)
 	- He comes back and joins Haze in the lake. Thinks of killing her
 	- Almost goes through with the plan but decides against it
 	- Jean Farlow shows up and says she show them while painting in the woods
 - #### Chapter 21
+	- HH is upset at the fact the Haze is going to send Dolores to boarding school
+	- HH tries the silent treatment and emotional manipulation nothing works
+	- HH tries to find a way to asset himself in the household
+	- Finally gets a opportunity and asserts dominance (England trip)
+	- HH starts spending time in his studio. Haze tries to win back his affection
+	- Haze talks about going to a quaint hotel named Enchanted Huntress
+	- Haze asks HH why one of the drawers is locked. HH says has love letters
+	- HH is not worried Haze will find the keys to the drawer
+- #### Chapter 22
+	- HH goes to the doctor for medicines saying he has insomnia
+	- HH wants to use the sleeping meds on Dolly when she returns
+	- When HH returns he finds Haze in a disgusted. Calls him a monster
+	- HH realizes Haze has read his diary. Tells Haze that she is hallucinating
+	- Tries to convince Haze that everything written was part of his novel
+	- HH goes to kitchen to make then a drink
+	- On the way to living room, phone rings. Leslie says Haze is dead
+	- HH comes to the living room and does not find Haze
+- #### Chapter 23
+	- Haze was hit by a car that was trying to avoid a dog while turning
+	- HH is handed the 3 letters that Haze was going to post
+	- HH destroys the letters by shredding them in his pocket
+	- The letters were for Dolores, a boarding school and HH
+	- The Farlow’s stay with HH to console him. HH makes up a secret affair
+	- Convinces them that Dolores is actually his daughter
+	- Informs them Dolores is on a hike and cannot be reached for 5-days
+	- Beale (car driver) visits HH to prove that he is innocent
+- #### Chapter 24
+	- The Farlow’s help him load his car to go and fetch Dolores
+	- HH is cornered by Jean Farlow who tries to kiss him unsuccessfully
+- #### Chapter 25
+	- HH goes to Camp Q to pickup Dolly but is worried
+	- HH thinks someone will figure out that he is not Dolores legal guardian
+	- Mrs. Holes (camp coordinator) informs about hike that ends tomorrow
+	- HH wonders if his imagination is turning his wishes into reality
+	- HH spends the entire day shopping for items he things Dolly would life
+	- Makes a reservation at the Enchanted Huntress
+- #### Chapter 26
+	- Back in the prison HH is worried about his health
+	- He is not sure if the dates of the events are correct (unreliable narrator)
+	- His health is the reason to try and complete the book in a hurry
+- #### Chapter 27
+	- HH picks up Dolly from Camp Q and heads to Enchanted Hunters
+	- HH tells Dolly that her mother is sick and is being taken to a hospital
+	- During the trip Dolly takes on a teasing, childishly flirtatious attitude
+	- Dolly does hint that she has done something sexual at the camp
+	- Once at the hotel HH shows Dolly the suitcase and is overjoyed. They kiss
+	- After dinner HH gives Dolores the sleeping pills and locks her in the room
+- #### Chapter 28
+	- HH leave the room and walks around waiting for Dolores to fall asleep
+	- He speaks to the Jury and tries to justify his actions and motivations
+	- He mentions that Dolores was not as innocent as she pretends
+	- A figure in the shadow enquires about Dolores. HH heads back to the room
+- #### Chapter 29
+	- When HH returns to the room he is shocked to find Dolores awake
+	- HH comes to the conclusion that the pills would have been fake
+	- While sleeping HH tries to get as close to Dolly as possible (touch, feel)
+	- Dolores wakes up the next morning and to HHs surprise initiates sex
+	- HH does not stop Dolores (even if this is what really happened)
+	- HH concludes that Dolores was already corrupted by American culture 
+	- HH informs the reader he is not interested in the sex
+	- He is merely interested in the perilous magic of nymphet's
+- #### Chapter 30
+	- HH envisions repainting the murals of the hotel to suit his erotic fantasies
+- #### Chapter 31
+	- HH ones again tries to justify his actions by talking about Roman laws
+	- How in certain states in the US marriage was still allowed at the age of 12
+	- Finally, HH says that he was not even Dolly’s first lover
+- #### Chapter 32
+	- During breakfast Dolores tells HH about her first sexual encounter
+	- Barbara would have intercourse with Charlie (Holmes son) at camp Q
+	- Dolores eventually grew curious and also had intercourse with Charlie
+	- On the way Dolores jokingly (or not jokingly) accuses HH of rape
+	- Dolores calls HH many names and says she wants to call her mother
+	- Eventually HH tells Dooly that her mother is dead
+- #### Chapter 33
+	- Dolores is shocked at this. HH buys her many things to calm her down
+	- In the motel HH books separate rooms to stay
+	- In the night Dolores comes to HH for comfort
+	- HH notes that Dolores has nowhere else to go
+	- Dolores has comes a outsider like HH (no school, no friends, no family)
+
+### Part Two
+
+- #### Chapter 1
+	- Over the next year Dolores and HH travel all over the States
+	- Along the journey they become experts in hotels/motels
+	- HH threats Dolores saying that he would send her to a boarding school
+	- HH says if Dolores reveals their relationship she would become an orphan
+	- In the end they reach a town called Beardsley
+- #### Chapter 2
+	- HH describes in detail the places they visited during their travels
+	- HH mentions that this was to keep Dolores happy (ignoring Dolores feelings)
+	- Makes Dolores perform sexual acts constantly with him
+	- Sends Dolores to tennis lessons to experience normal life
+	- Not possible as HH does not want Dolores to interact with anyone
+	- Dolores is not able to form relationships with people, friends, teachers
+	- HH deprives Dolores of a normal childhood. Dolores starts to get angry at HH
+- #### Chapter 3
+	- HH continues to explain the journey across the States
+	- HH tries to recreate the Annabel beach romance with Dolores but is repulsed
+	- HH explains the close encountered- In forest, movie theater and by cops
+	- HH starts researching on legal guardianship
+	- Decides not to continue with the process as to not tempt fate
+	- All the travels financially strains HH so decides to settle down
+	- With friends help (Gaston Godin) finds job as French professor at Beardsley 
+	- Decides to enroll Dolores in Beardsley Women’s College
+	- Revels that Dolores cries herself to sleep everyday when HH acts asleep
+- #### Chapter 4
+	- Speaking with Ms. Pratt, HH is shocked to learn about the modern curriculum
+	- The education includes practical skills, dating, marriage and house making
+	- HH being a scholar is against this idea but reluctantly enrolls Dolores
+	- HH is worried about “dating”. HH is jealousy and want Dolores to himself
+- #### Chapter 5
+	- HH is anxious about neighbors and cannot have normal interactions
+	- HH is worried that they will find out about HH and Dolores’s relation
+	- He is especially worried about a spinster who asks too much questions
+- #### Chapter 6
+	- HH’s only really friend is Godin who got him the job
+	- Godin might also be a pedophile (always surrounded by young boys)
+	- HH hates him since even though they are similar the town likes Godin
+	- HH considers Godin to be a fake scholar and has lowly views of him
+	- Godin is self-centered and mistakes Lolita has having sisters
+- #### Chapter 7
+	- Dolores comes up with ways to earn more money from HH (pocket money)
+	- The money is give in return for performing sexual and affectionate favors
+	- HH has turned Dolores into  a unwilling prostitute
+	- HH finds Dolores’s money hiding space and takes them all away
+	- HH is worried that Dolores will earn enough money and runaway from him
+	- Dolores grows clever and starts hiding them in places HH cannot find
+- #### Chapter 8
+	- HH is worried about Dolores socializing with her schoolmates
+	- HH is shocked to read what is considered normal for teenagers in America
+	- HH is jealously terrified of Dolly going on dates
+	- He is relieved to find out that Dolores is not interested in the boys around her
+	- HH reflects on his constant anxiety of someone noticing his fraud
+- #### Chapter 9
+	- Dolly becomes friend with girls at her school
+	- HH is pleased when they come home. HH considered one of them a nymphet
+	- Dolly’s closest friend (Mona) is smart and claims to have affair with a marine
+	- HH is worried that Dolores had reviled their relation to Mona
+	- HH does Mona to try to get an idea of Dolly’s school life
+	- HH does not want Dolly to have anything else important in her life than him
+- #### Chapter 10
+	- HH tells us that Dolores has developed contempt and distain for him
+	- Tells us that Dolly views HH’s approach towards her to always want sex
+	- HH is trying to win our sympathy by making Dolly look like the cruel mistress
+- #### Chapter 11
+	- HH is called to Mrs. Pratts office. Dolly was getting bad grades
+	- Mrs. Pratt is worried about Dolly’s behavior at school
+	- She is worried that Dolores is sexually and socially repressed
+	- Says this is because HH is old-fashioned and should loosen his restrictions
+	- Mrs. Pratt insists HH to allow Dolly to participate in a play
+	- The play has the same name as the hotel were HH raped Dolly
+	- HH worried that Mrs. Pratt is onto him reluctantly agrees
+	- HH visits Dolores in her class and for a few-cents asks for a hand-job
+	- HH himself is shocked at his boldness
+- #### Chapter 12
+	- Dolores becomes ill with fever and on recovering has a party with boys
+	- Every 10-20 mins HH comes down to check on what the kids are doing
+	- The party is a failure as one girl does not show up and no one can dance
+	- Dolores says that boys disgust her. HH is happy with this and buys her gifts
+	- Dolly is antisocial because of all the abuse she had experienced
+- #### Chapter 13
+	- Dolores begins practicing for the play
+	- HH things of the coincidence of the name of the play and hotel
+	- HH thinks the name is related to some local folklore that he does not know
+	- HH is pleased when Dolores becomes up the connection
+	- There is a special rehearsal for the play but Dolly does not want HH
+	- Dolores says she wants HH to see it only on the opening night
+	- Dolly’s behavior is unexpected considering her hatred for HH
+- #### Chapter 14
