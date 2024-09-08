@@ -4,10 +4,10 @@ author: George Orwell
 published: 1945
 type: Fiction
 genre:
-  - Dystopia
   - Fantasy
   - Classics
   - Literary Fiction
+  - Satire
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-06-18 17:53:13 -0500

@@ -7,6 +7,7 @@ genre:
   - Crime
   - Physiological
   - Classics
+  - Literary Fiction
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-03-16 21:34:43 -0500

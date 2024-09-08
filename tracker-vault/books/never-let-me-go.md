@@ -1,0 +1,234 @@
+---
+name: Never Let Me Go
+author: Kazuo Ishiguro
+published: 2005
+type: Fiction
+genre:
+  - Contemporary
+  - Dystopian
+  - Speculative Fiction
+  - Classics
+rating: 🌑🌑🌑🌑🌑
+status: Reading
+date: 2024-09-02 15:14:25 -0500
+updated: 2024-09-07 19:07:23 -0500
+---
+
+![[never-let-me-go.jpg|300]]
+
+Book Link: [Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go)
+
+## Part 1
+
+- #### Chapter 1
+	- Kathy works as a caregiver about to complete 12 years then resign
+	- From Hailsham (School/Orphanage)
+	- Takes care of donors. Sometimes gets to choose the donor
+	- Gets Ruth and Tommy (old friends) as donors
+	- Thinks about the time at school when Tommy was bullied (football)
+	- Kathy and friends watched the incident from their pavilion window
+	- Once the boys leave Tommy throws a angry tantrum
+	- On the way to their room Kathy speaks with Tommy and pacifies him
+- #### Chapter 2
+	- Kathy talks with Ruth about the past after her first donation
+	- Informs us about “Exchanges” that are held 4 times a year
+	- Students made things and sold it at Exchanges for Tokens
+	- Tokens are used to buy items from other students
+	- Kathy asks Ruth wasn’t it strange what we sold when kids
+	- Kathy tries to remember when the ordeal with Tommy started
+	- Elephant painting that guardian (teacher) taught had deeper meaning
+	- Tommy gets angry easily which kids use to bully and tease him
+	- Eventually the bullying stopped when Tommy learns to control anger
+	- Kathy tries to understand from Tommy why the sudden change
+- #### Chapter 3
+	- Tommy tells Kathy Ms. Clare told him its okay if he cant produce good art
+	- Tommy was surprised as Ms. Clare was shaking with anger when speaking
+	- Ms. Clare tells Tommy that there are a lot of things that they are not taught
+	- Kathy thinks of incidents with Ms. Clare from the past that felt out of place
+	- (Kathy thinks about the Madame). Madame comes and takes the best art
+	- The art is taken to the Gallery. No one had seen the gallery
+	- Cannot ask questions about the Gallery
+	- Everyone is scared of the Madame as she seems proud and scary
+	- (Madame is an outsider. Hailsham is surrounded by fields)
+	- (Vans and lorries bring supplies from the outside. No contact with outside)
+	- Ruth believes that the Madame is scared of them. They test theory
+	- They realize that Madame is in fact scared of them. Don’t know why
+- #### Chapter 4
+	- Kathy talks about the token controversy
+	- Students wants tokens for the items that were taken by the Madame
+	- Ms. Emily (head guardian) said they would receive tokens but only a few
+	- Not everyone was happy with the idea.
+	- Remembers Ms. Clare asking them one reading day about the controversy
+	- Some one asks about the Gallery. Ms. Clare give a vague answer
+	- Informs that one day they would understand the importance of it
+	- Kathy then informs us about Sales which are used to buy thins from outside
+	- Sales occurred once a month. Tokens were used for purchases
+	- Everyone highly respects Ms. Emily. Also scared of her reprimands
+	- Thinks about when she meet Ruth for the first time
+	- Talks about playing horse riding with her. Made Ms. Geraldine’s secret guard
+- #### Chapter 5
+	- Kathy talks about the secret guard group that was formed by Ruth
+	- It was all an fantasy that was created by Ruth
+	- Their goal was to find people trying to kidnap Ms. Geraldine
+	- Never did anything about people they suspected as being spies
+	- Kathy brings up the chess controversy were Ruth says she knows chess
+	- When Kathy asked Ruth to teach her she realized she did not know chess
+	- Kathy then discusses the pencil box incident
+	- Ruth implied that it was a gift from Ms. Geraldine
+	- Kathy figures out later that its an lie (Tell Ruth she checked Sale register)
+- #### Chapter 6
+	- Kathy feels really bad about hurting Ruth’s feeling
+	- Kathy tries to find ways to cheer Ruth up. Eventually does art at class
+	- Student asks Ruth were the pencil box was from and Kathy said its a secret
+	- Ruth looks for ways to pay Kathy back for the favor
+	- Kathy talks about Norfolk and how Ms. Emily did not have any images for it
+	- Joke of them considering it the Lost Corner of England
+	- Talks about her favorite song “Never Let Me Go”. Singer smoking on cover
+	- Talks about the cigarette incident. Student asking Ms. Lucy about smoking
+	- Ms. Lucy says she smoked when young but its more dangerous for them
+	- How Kathy imagined that the song was about the singer protecting her baby
+	- Madame sees Kathy dancing using pillow as baby. Starts sobbing
+	- We are informed that the students at Hailsham are unable to have children
+	- Kathy looses the disk. Informs us a lot of thieving used to occur at Hailsham
+	- Ruth uses this opportunity to get even with Kathy. Gets her a random disk
+	- Kathy is happy about the gesture. Informs us that Ruth is gone
+- #### Chapter 7
+	- Ms. Lucy not like other guardians. Its about oddities at Hailsham
+	- Informs them that their life’s have been predetermined for them
+	- Tells that that they have been told and not told about things on purpose
+	- Kathy and Tommy discuss about this how they always mask information
+- #### Chapter 8
+	- Kathy talks about her playing a secret game
+	- Imagines that she is living in a large house with only a few kids
+	- Hears hissing sound coming from Room 22. Finds Ms. Lucy in room
+	- Goes near her notices that she is scribbling on paper (cause of noise)
+	- Incident with Tommy and Ms. Lucy (discovers about it later)
+	- Tommy’s mood changed and looked sad and hurt all the time
+	- Calendar incident with Tommy (Patricia good at draw)
+	- Tommy and Ruth were a couple and had broken during the same time
+	- Kathy talks about trying to have sex with Harry (just to experience it)
+- #### Chapter 9
+	- Cause of break-up Kathy does not go through with it
+	- Others suggest Kathy should get together with Tommy
+	- Talks about Walkman's arriving at Hailsham and they would share it
+	- Ruth asks Kathy to speak with Tommy so that they could get back together
+	- Ruth believes that Tommy will listen to Tommy no matter what happens
+	- Ruth and Tommy get back together
+	- Tommy tells Kathy about his interaction with Ms. Lucy
+	- Ms. Lucy tells Tommy to forget everything she said and to focus on art
+	- In passing tells Tommy that art is used as evidence
+	- Next day students are informed that Ms. Lucy is leaving Hailsham
+
+## Part 2
+
+- #### Part 10
+	- After Hailsham 8 of the kids where sent to Cottages. Other different places
+	- Cottages where remains of farms and was converted to living spaces
+	- The kids were tasked to various tasks to keep the Cottages in shape
+	- Did not have any fixed schedule and activities like Hailsham
+	- The older students (veterans) at Cottage would travel away for a few days
+	- The new commers were not allowed to go far from the Cottage
+	- Soon realize that things are done differently
+	- Couples don't go around showing their affection in public
+	- Kathy understands that the veterans copy their behavior from TV
+	- Kathy was reading a book under a tree. Ruth comes and tries to spoil book
+	- Ruth does that to other students as well to show that she has already read it
+	- Ruth would often make up white lies in front of the veterans to look smart
+	- Ruth and Kathy have a fit. Kathy walks away
+	- Ruth tells Kathy that she wasn’t been slow knowing some of the veterans
+- #### Part 11
+	- Early days at Cottage was strange. Kathy and Ruth always fighting
+	- At night they would confide in each other about what they were experiencing
+	- Kathy had multiple one-night stands at Cottage
+	- Kathy wasn’t planning for it to occur that way
+	- Kathy confided in Ruth about her urge to always touch herself
+	- Kathy expected these conversations to be secret
+	- Ruth bringing up the one-night stands made Kathy angry
+	- Veterans would go out on “courses” that had to do with their future careers
+	- Talks about the porno mags that were found at the cottages
+	- Keffers confiscated all the magazines to destroy but leaves it behind
+	- Kathy takes them and goes in boiler barn to look at them
+	- Tommy joins Kathy and asks why she is looking at the magazines
+	- Kathy says she is trying to please herself. Tommy says she is lying
+	- Tommy says her has a sad expression when looking at the mags.
+	- Tommy asks for reason. Kathy checks all of them and leaves the barn
+- #### Part 12
+	- Kathy tells us about “possible”. The person from whom they are clones
+	- One of the veteran couple claimed to have seen Ruth’s possible
+	- They did not know much about possible that that they were based on them
+	- Ruth wants to meet her possible who is an office employee
+	- Kathy is skeptical about this as Ruth had said before this is her dream future
+	- Chrissie was star struck with Hailsham and wanted to know more about them
+	- Chrissie, Rodney along with Tommy, Kathy and Ruth went to Norfolk
+- #### Part 13
+	- They go on the trip. During trip Ruth talks non-stop with the veterans
+	- They stop at a cafe for food. Veterans bring up deferrals
+	- Something only Hailsham students can request. Defers donations.
+	- If two students can prove they are really in love they can ask for deferral
+	- Kathy realizes this was the real reason for the trip
+	- Tommy says they do not know much anything about these deferrals
+	- Ruth says they could get going on finding her possible
+- #### Part 14
+	- They stop at a shop to buy birthday cards in bulk
+	- Kathy finds Chrissie talking with Ruth about the deferral
+	- They get angry when they realize Kathy as seen them
+	- Rodney takes them down multiple wrong roads
+	- Eventually they find the office. And Rodney shows them the possible
+	- They all agree that the possible does look a lot like Ruth
+	- People from office notice then staring they walk away and wait in a alley
+	- See the possible walk out from the office. They trail her to a art shop
+	- The possible speaks with the owner
+	- They overhear the conversation and are shocked
+	- The possible leaves. The owner speaks with them about art
+	- Everyone walks out in a sullen mood. The veteran's try to cheer Ruth
+	- Ruth finally says that allow of them are modelled after trash
+	- To lighten the mood the veterans say they should visit one of their friends
+	- Kathy says she will not join them as the friend they shouldn’t meet carers
+	- Tommy stays back with Kathy
+- #### Part 15
+	- Kathy and Tommy start walking down the street
+	- Tommy tells Kathy that he wanted to buy her a gift at the shop
+	- Tommy says he does not know how to find it and needs her help
+	- Tells Kathy he was looking for the tape that had gone missing at Hailsham
+	- They find a 2ns hand store that sells the tape. Tommy buys it for Kathy
+	- They walk but a hill and Tommy bring up the deferrals
+	- He says he has a theory as to why the Madame would collect the best art
+	- Informs Ms. Emily had also let slip about it been used to look at their soul
+	- Says he thinks its used to judge their souls to see if they are actually in love
+	- Says that he thinks that is why Ms. Lucy told him she was wrong
+	- Kathy thinks about the incident with Madame (listening to music)
+	- Thinks Madame would have taught she was dancing with a lover (pillow)
+	- They walk back down to their car. Tommy asks Kathy about the porno mags
+	- Asks if she thinks her possible is a adult star and was searching for her
+	- Kathy tells him about how she fills like having sex all the time
+	- Tommy tells him its okay and he feels the same sometimes and its natural
+	- Ruth and the veterans return. Ruth seems to be in a happy mood
+	- Ruth tries to make up with them by nonstop talking with them
+- #### Part 16
+	- After reaching the Cottages none of them discussed about the trip
+	- One day Tommy shows Kathy the animals that he has drawing
+	- Kathy likes them and says to continue drawing them
+	- More and more veterans leave to start with their training courses
+	- Kathy and Ruth continue their nightly discussions
+	- Ruth finds the tape. Kathy explain how she found it
+	- Laughs at Tommy and its animal drawings
+	- Finds Ruth and Tommy talking behind a abandoned church
+	- Ruth says Tommy was telling her about the Gallery theory
+	- Ruth tells Tommy they think that his drawings are not good
+	- Kathy does not say anything and walks off
+- #### Part 17
+	- After the event at the church there was rift between them all
+	- Kathy asks Ruth to go on a walk with her. They rest at a abandoned bus stop
+	- Kathy tells Ruth that they should discuss about what happened
+	- Ruth agrees with everything Kathy says and that he reconciled with Tommy
+	- Ruth tells Kathy that she is not sure if they would last as a couple forever
+	- Tells Kathy at Tommy is not romantically interested in her
+	- They discuss about a incident that occurred at Hailsham
+	- Ruth pretends to not remember the event. Kathy is angry
+	- Kathy makes up her mind to become a carer
+	- Speaks with Keffers and starts the process. Tries to avoid Tommy and Ruth
+	- Eventually leaves the Cottages
+
+## Part 3
+
+- #### Part 18

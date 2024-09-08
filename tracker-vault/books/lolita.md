@@ -8,10 +8,10 @@ genre:
   - Drama
   - Psychological
   - Classics
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2024-08-18 18:26:05 -0500
-updated: 2024-08-31 19:13:04 -0500
+updated: 2024-09-02 10:18:08 -0500
 ---
 
 ![[lolita.jpg|300]]
@@ -315,8 +315,192 @@ Book Link: [Lolita](https://www.goodreads.com/book/show/7604.Lolita)
 	- Dolores begins practicing for the play
 	- HH things of the coincidence of the name of the play and hotel
 	- HH thinks the name is related to some local folklore that he does not know
-	- HH is pleased when Dolores becomes up the connection
+	- HH is pleased when Dolores brings up the same connection
 	- There is a special rehearsal for the play but Dolly does not want HH
 	- Dolores says she wants HH to see it only on the opening night
 	- Dolly’s behavior is unexpected considering her hatred for HH
 - #### Chapter 14
+	- HH comes to know that Dolores has been missing her piano classes
+	- HH becomes anxious and almost looses a chess match with Gaton
+	- When confronted Dolly says that she was practicing for a plan with Mona
+	- HH does not believe it, accuses Dolly of lying and telling Mona about them
+	- HH and Dolores getting in a screaming match
+	- Dolores accuses HH of being a rapist. The phone rings and Dolly runs out
+	- HH goes out on foot to find Dolores. He finds she at a payphone speaking
+	- Dolores tells HH that she wants to leave Beardsley and wants to go on trip
+	- Dolores says that this time she gets to decide the destinations
+	- On reaching home Dolores ask HH to carry her as she is feeling romantic
+- #### Chapter 15
+	- HH tells the school at he has been called for work by Hollywood
+	- On the way they meet the drama coach. She says its a shame Dolly left play
+	- Coach says that the play author was highly praising Dolores
+	- This hints that Dolly has become a good actress
+	- Dolores brushes away the HHs enquiry of the author by sayings its a women
+	- HH tells Dolores he is happy she has given up on the play but wonders why
+	- HH thinks the change in Dolores is just a sudden change in mind
+- #### Chapter 16
+	- They head west and pass through a town close to Dolly’s hometown
+	- At gas station Dolores goes away to use the restrooms
+	- HH tells us in hindsight he thinks that she was using the telephone
+	- They rest at a motel were HH goes to buys groceries
+	- On returning finds Dolores to have a certain “glow”
+	- Thinks that she had sex with someone and strips her to smell her
+- #### Chapter 17
+	- HH grows suspicious of Dolores road trip plan
+	- HH decides to stay in the motel for one more day
+	- HH gets the feeling that fate is somehow closing in on him
+	- HH checks his gun that belonged to Mr. Haze
+	- Informs us he is a bad shooter but as some practice shooting with Farlow
+- #### Chapter 18
+	- HH and Dolores head west on their trip. They are followed by a red car
+	- HH thinking that they are being followed by a detective
+	- HH starts having hallucinations - confusing between reality and dream
+	- At gas station HH finds Dolores talking to a old man (red car driver)
+	- HH starts to suspect they are being followed by someone Dolly knows
+	- HH is shocked by Dolly’s good mood and teasing attitude
+	- They stop at a town to watch a play by Clare Quilty & Vivian Darkbloom
+	- HH finds Dolores beaming at the play authors on the stage
+	- Enquires about Quilty (poster in bedroom) but is deflected by Dolly
+- #### Chapter 19
+	- They reach Wace were HH has setup PO Box. Dolly receives letter from Mona
+	- HH suspicious that Dolores is talking with other behind his back
+	- Reads the letters, finds out Mona is moving to Europe. Dolly vanishes
+	- Dolores returns after sometime. HH questions her. Dolly says she met friend
+	- HH does not beleive her. HH searches for paper with the followers plate
+	- Shocked to see that it has been modified. Signs of erasure
+	- HH starts seeing the follower in all the vehicles on the highway
+	- Stops because of flat tire. Follower stops as well. HH leave to confront driver
+	- Dolores starts their car acting like trying to escape. HH stops the car
+	- Follower vanishes into the traffic on the highway
+- #### Chapter 20
+	- HH regrets having allowed Dolores to learn acting
+	- Reminisces over Dolores and her tennis skills
+	- Thinks she would have become a champion if not for his interference (rape)
+	- Dolly and HH play tennis at the Champion Hotel. 2 by-standers as to join
+	- HH is summoned by a long-distance call. Turns out to be fake
+	- HH goes back to the court to find a man bantering with Dolly
+	- HH returns to the court in tears and asks for explanation but receives none
+- #### Chapter 21
+	- Each passing day HH becomes more and more anxious
+	- HH is worried that Dolores will leave him and run away any day
+	- At a motel pool, HH notices a man staring at Dolores
+	- He feels like he knows this man from previous encounter's
+	- This could be hallucination's or Quilty
+	- HH is shocked to find that Dolores is aware of the gaze and is happy
+	- HH suddenly fells ill and vomits. Kinds Dolly looking with calculating eyes
+	- Dolores and Quilty might have poisoned HH’s drink
+- #### Chapter 22
+	- Dolores falls ill and is admitted at the hospital
+	- HH spends sleepless nights at the motel. Alone for first time in 2 years
+	- Receives call saying Dolores is recovering quickly. Visits Dolly 8 times
+	- HH feels like the staff at the hospital is conspiring against him
+	- HH also falls ill. Receives call to pickup Dolores. Informs will come tomorrow
+	- Next day receives a call saying Dolly was picked up by her uncle
+	- HH gets angry goes to the hospital and makes a scene
+	- Calms down realizing he can get arrests and swears to track and kill stranger
+- #### Chapter 23
+	- HH spends a long time trying to find the stranger
+	- HH searches the registers of numerous motel only to find mocking entries
+	- HH realizes that the stranger had anticipated his investigation
+	- HH understands that Dolores meet the person at Beardsley
+	- He knows about their relationship and was aware of the road trip
+	- Understands that Dolores planned the kidnapping with the stranger
+	- HH realizes the person is similar to him in personality and understanding
+	- In the end HH returns back to Beardsley
+- #### Chapter 24
+	- HH things he has narrowed down the suspect to a art teacher
+	- By at the last moment realizes its a mistake and its someone else
+	- Hires a private detective who looks for 2 years but does not find anything
+- #### Chapter 25
+	- Without HH has fallen into despair
+	- Over the next years HH donates all of Dolores’s belongings
+	- HH writes a song urging Dolly to reveal herself
+	- After the loss of Dolly, HHs pleasure for young girls have dimmed
+- #### Chapter 26
+	- HH meets a women called Rita who is a kind not smart alcoholic women
+	- They spend 2 years together travelling and settling in a college town
+	- The college offered him housing in recognizing of an paper he had published
+	- Rita stays in a roadside inn. HH is ashamed of her (just placeholder)
+	- Returns to Briceland (Enchanted Huntress) to look for a photo
+	- The photo should have contained HH but he is missing
+	- HH starts to wonder if his memories with Dolly are real (missing in photo)
+- #### Chapter 27
+	- HH receives two letters at his apartment
+	- One is from John Farlow who is widowed and remarried to a Spanish girl
+	- He is moving to South American. Hands over the house to someone else
+	- Ask to produce Dolly soon to claim the house (aware Dolly is missing)
+	- Second letter is from Dolly who is married and is expecting a child
+	- She is married to an engineer and is asking HH for money to move to Alaska
+	- HH thinks Dolly’s husband is the kidnapper and sets out to kill him
+- #### Chapter 28
+	- HH leaves for Coalmont where Dolly and her husband is living
+	- HH stats at a motel for the night. Next day dress well to kill husband
+	- Finally makes his way to the cottage were Dolly lives
+- #### Chapter 29
+	- Dolores welcomes HH into the house. Shows him her husband
+	- HH decides not to kill him as he understands that not the person he wants
+	- HH asks Dolly to tell him about the person that kidnapped her
+	- Dolores reluctantly tells him about Clare Quilty
+	- Dolores tells him, she knows him from his childhood (Mothers friend)
+	- Informs that he had met them at the Enchanted Huntress motel
+	- Mentions that she had met him during the special rehearsal for the play
+	- Quilty took her to a Ranch and wanted her to participate in porno movie
+	- When she refused she was thrown out. Dolly worked for years at restaurants
+	- Eventually meeting Dick. Dick does not know anything about Dolly’s past
+	- Dolores asks for the money. HH asks Dolores to come and live with him
+	- Dolores thinks HH will only give her the money in return for sexual favor
+	- HH is greatly saddened to hear his. HH gives Dolores four thousand dollars
+	- Dolores says she truly only loved Quilty. HH was only father and molester
+	- HH starts crying and asks Dolly ones more to come with him
+	- She refuses and tries to kiss him but HH moves away from her
+	- HH drives away crying bitterly
+- #### Chapter 30
+	- On the way from Coalmont HH practices using the gun
+	- His vehicle gets struck in mud and had to be pulled out
+	- To rests for the night near a small down (still crying)
+- #### Chapter 31
+	- HH thinks of a talk about religion he had with priest. Finds no comfort
+	- HH begins to realize the seriousness of what he did to Dolores
+- #### Chapter 32
+	- HH realizes how he has ruined Dolores life
+	- He thinks of her face when she sees a happiness of a normal family
+	- The hopeless expression on her face when HH was not looking
+	- Her fear when HHs physical affection would turn into lust
+	- He realizes that what he offered was just a parody of a normal family
+- #### Chapter 33
+	- HH returns to Ramsdale and wonders Mrs. Haze properly like a ghost
+	- A little girl notices him. HH says allow but girl runs away. HH looks haggard
+	- Visits the local restaurant runs into Mrs. Chatterfield
+	- Indirectly accesses him of kidnapping Dolores. Mentions about marriage
+	- Mentions about Charlie Holmes and his sex with the girls at Camp Q
+	- Visits Windmuller, the lawyer taking care of the Haze property
+	- HH arranges for the property to be transferred over to Dolores
+	- Visits Ivor Quilty to find the details about of his nephew
+- #### Chapter 34
+	- HH goes to Pavor Manor (Quilty’s house)
+	- Finds many cars parked out the house. Satisfied Clare is home
+	- Leaves the place to return in the morning to confront Clare
+- #### Chapter 35
+	- HH heads to Pavor Manor to kill. Knocks at the door but no one answers
+	- Door is unlocked heads inside. Tries to find Quilty. 
+	- Quilty walks by HH in a robe not recognizing him
+	- Heads to parkour were HH confronts Quilty and asks about Dolores
+	- Quilty pretends he does not know her. Sees the gun but not scared
+	- HH tries to shoot Quilty’s foot misses. They have a brawl for the gun
+	- HH accuses Quilty of kidnap. Quilty says he saved her from a beastly pervert
+	- HH makes Quilty read a poem on why he need to die. Quilty mock reads it
+	- Quilty runs to a different runs and warns HH to not play with life and death
+	- HH shoots and this time hits Quilty. Quilty runs and climbs up the stairs
+	- HH shoots him multiple time. Quilty makes exaggerated sounds (like a play)
+	- Quilty tumbles into his bed. HH leaves the murder weapon in the house
+	- HH is disturbed by Quilty’s lack of fear and refusal to die
+	- Heads down finds guests and informs them he killed Quilty
+	- They thinks its a joke and does not take HH seriously. HH leaves. 
+	- Quilty crawls out and dies on the floor landing (dramatically like in a play)
+- #### Chapter 36
+	- HH leaves the manor. No longer caring drives on the wrong side of the road
+	- His road is blocked by police cars. Drives up a pasture with cows
+	- HH remembers of a moment after loosing Dolores listening to kids play
+	- HH realizes that Dolores lost her childhood and that is the real tragedy
+	- HH instructs that the book should only be published once they are dead
+	- HH wishes for Dolores to have a long and happy life
