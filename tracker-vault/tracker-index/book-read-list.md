@@ -5,7 +5,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2024-08-18 19:00:15 -0500
+updated: 2024-09-08 11:08:58 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -86,7 +86,6 @@ cssclasses:
 |     | [Sherlock Holmes: The Ultimate Collection](https://www.goodreads.com/book/show/18674889-sherlock-holmes)       | Arthur Conan Doyle          | 1905      | • Mystery<br>• Crime<br>• Detective           | 2631  |
 |     | [The Bell Jar](https://www.goodreads.com/book/show/6514.The_Bell_Jar)                                          | Sylvia Plath                | 1963      | • Mental Health<br>• Psychology<br>• Classics | 294   |
 |     | [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych)                   | Leo Tolstoy                 | 1886      | • Russia<br>• Philosophy<br>• Classics        | 86    |
-|     | [The God of Small Things](https://www.goodreads.com/book/show/9777.The_God_of_Small_Things)                    | Arundhati Roy               | 1997      | • Historical<br>• Indian<br>• Contemporary    | 321   |
 
 ### Non-Fiction
 

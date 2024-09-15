@@ -8,10 +8,10 @@ genre:
   - Dystopian
   - Speculative Fiction
   - Classics
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌑
+status: Completed
 date: 2024-09-02 15:14:25 -0500
-updated: 2024-09-07 19:07:23 -0500
+updated: 2024-09-08 09:53:15 -0500
 ---
 
 ![[never-let-me-go.jpg|300]]
@@ -232,3 +232,68 @@ Book Link: [Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_
 ## Part 3
 
 - #### Part 18
+	- Kathy talks about her life as an carer
+	- Runs into Laura (Hailsham) at a car park. Talks about their life’s
+	- Laura brings up Ruth. Asks Kathy why she was not her carer
+	- Talks about Hailsham about to shut down
+	- Kathy decides to become Ruth’s carer
+	- Talk with each other but have repressed emotions
+	- Ruth brings up a beached boat. Kathy brings up Tommy
+	- Tommy in a care center near the boat. They decide to meet Tommy
+- #### Part 19
+	- They go to meet Tommy. Tommy hugs Kathy on meeting her
+	- In the car Ruth has a smile on her face and constantly looks at Tommy
+	- They eventually reach the woods with the boat
+	- They have to walk for a while (Tommy and Kathy notice Ruth is very weak)
+	- They reach the boat that is in a swap land. They take in the view
+	- They walk about some of their friends and what happened to them
+	- They make the way to their car. On the way back Kathy show Ruth a poster
+	- The poster is of an office. Kathy talks about their Norfolk trip
+	- Tommy and Kathy tell Ruth that she could have tried to work at office
+	- Ruth turns to Kathy suddenly and tells her she is sorry
+	- Tells her it should have been her and Tommy all along
+	- Had Tommy a piece of paper with the Madame’s address to ask for deferral
+	- They leave Tommy at his center and head back to Dover
+	- At Dover Ruth constantly tells Kathy to becomes Tommy’s donor
+	- Ruth has her 2nd donation and does not make it through
+- #### Part 20
+	- Kathy becomes Tommy’s carer after this 3rd donation
+	- Tommy is moved to a new large private room
+	- Kathy and Tommy start having sex with each other
+	- Start’s working on his sketches once again
+	- Kathy goes to the address given by Ruth and finds the Madame
+	- They decide they will go and talk to her to see what will happen
+- #### Part 21
+	- Kathy and Tommy head out to meet Madame
+	- They reach the town find Madame walking towards her house
+	- Follows her home. Calls out and tells them who they are
+	- Madame lets them in and tells them to wait on main room
+	- Madame speaks with someone on the top floor and comes back
+	- Asks them what have they come. Kathy and Tommy answer
+	- Madame asks questions Kathy senses is for someone else behind her
+	- Ms. Emily is rolled in on a wheelchair
+	- Madame (Marie-Claude) tells Ms. Emily have come to speak with you
+- #### Part 22
+	- Ms. Emily tells them that there is no deferrals and that its just a rumor
+	- She explains to them about the scandal that got Hailsham closed
+	- An scientist was working on creating clones that superhuman abilities
+	- This did not sit well with the normal humans
+	- Informs Hailsham was created to raise clones in a pleasant environment
+	- Tells them that the gallery was used to hold events
+	- The events were used to show to the world that clones had souls
+	- Tells Ms. Lucy was let gone because she had a different view than them
+	- She wanted all the clones to know about their true purpose in life
+	- Movers come to move some furniture's, Ms. Emily follows in an a car
+	- Madame and Kathy talk about the “Never Let Me Go” song incident
+	- On the way back Tommy says he feels that Ms. Lucy was the correct one
+	- Has a burst of rage along the way but calms done
+- #### Part 23
+	- Tommy soon starts to behave differently
+	- He starts to empathize more with the non-Hailsham donors
+	- Tommy gets notice for this fourth donation
+	- Tells Kathy that he does not want her to with his carer anymore
+	- Informs he does not want her to she him suffer during his last donation
+	- Tommy had his donation and eventually completes
+	- Kathy goes for a trip to Norfolk and finds Hailsham
+	- Reminisces about their life at Hailsham
+	- Images that she will find everything she lost there as its Norfolk
