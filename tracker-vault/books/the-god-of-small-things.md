@@ -10,7 +10,7 @@ genre:
 rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: 2024-09-08 11:04:16 -0500
-updated: 2024-09-17 19:03:45 -0500
+updated: 2024-09-24 10:51:39 -0500
 ---
 
 ![[the-god-of-small-things.jpg|300]]
@@ -53,7 +53,8 @@ flowchart TD
 ```
 
 
-#### Chapter 1
+#### Chapter 1: Paradise Pickles Preserves
+
 - We are introduced to the town of Ayemenem (Kerala, India)
 - 1993 Rahel (age 31) returns to her family home were her grant aunt lives
 - Rahel had come to meet her twin brother. Not seen each other in 23 years
@@ -105,7 +106,8 @@ flowchart TD
     classDef merge fill:#FFFFFF
 ```
 
-#### Chapter 2
+#### Chapter 2: Pappachi’s Moth
+
 - In 1969, the twins, mother, uncle and grant aunt are going to watch a movie
 - Sophie and Margaret (Englishwomen) come to visit their family in Kerala
 - Ammu does not have a surname (husband less)
@@ -170,7 +172,8 @@ flowchart TD
 - Chacko agrees and says they are milestones around his neck
 - The train passes and they drive away
 
-#### Chapter 3
+#### Chapter 3: Big Man the Laltain, Small Man the Mombatti
+
 - 1993 the Ayemenem house has become decrepit and filthy
 - Baby always watches TV
 - Estha comes home quitely and Baby predicts what he is going to do
@@ -178,7 +181,7 @@ flowchart TD
 - Watches Estha undress. Rahel touches Esthas ear, he does not respond
 - Processeds to washing his cloths
 
-#### Chapter 4
+#### Chapter 4: Abhilash Talkies
 
 - 1969 they reach the theater. They go to the men's and girls washrooms
 - Chacko is at the hotel booking their rooms for the night
@@ -215,3 +218,50 @@ flowchart TD
 - The factory workers ask for a raise but Mammachi denies them the raise
 - Chacko thinks about starting a Union of his own
 - The twins sleep while embracing each other
+
+#### Chapter 5: God’s Own Country
+
+- The story continues in 1993 were the river across the house had dried up
+- The history house has been turned into a 5-star hotel
+- Narrator mentions that small things still linger there (Rahels watch buried in dirt)
+- Rahel walks around their house and runs into Comrade Pillai
+- Rahel tells him she is divorced. Pillai shows her pictures of his son (Lenin)
+- Rahel remembers Lenin from her childhood
+- Both had object lodged up their nose and had to go to the doctor
+- Pillai shows a Rahel a photo that has the twins, Lenin and Sophie
+- It was taken few days before her death
+
+#### Chapter 6: Cochin Kangaroos
+
+- 1969 waiting at Airport for Margaret and Sophie
+- Made to wear nice cloths and told to be at their best behavior
+- Rahel digs threw trash. Estha lost in taughts about the Lemondrink man
+- They guests arrive. Everyone greats each other and only says small things
+- Estha is distracted by a famous comedian who drops his things
+- Baby tries to impress Sophie by quoting Shakespeare
+- Estha does not greet Margaret back and Ammu gets angry at him
+- Rahel disappears into a curtain and refuses to come out
+- Ammu scolds the twins for not listening to her in public
+- Chacko goes with Sophie and Margaret to collect their luggage
+- Ammu tells them to go and talk with Sophie properly
+- Sophie says that she loves Joe the most and does not consider Chacko her dad
+- They drive back him. They see a dead Elephant on the way back
+- Baby makes them sing a song to showoff their English pronunciation
+
+#### Chapter 7: Wisdom Exercise Notebooks
+
+- In 1993 Rahel goes threw Pappachi’s study
+- In her old hiding place she finds the rosary she stole from Baby
+- Estha appears in the doorway but does not say anything
+- Rahel finds that Ammu has hidden “Wisdom Exercise Books” in same place
+- It was used by the twins to practice writing when they were 6
+- Rahel reads threw the story laughts at them. Corrections by Ammu below them
+- The story shifts to a earlier time when Ammu came to Ayemenem for last time
+- She was kicked out by Chacko. Ammu was fired from a job for being too sick
+- Rahel had just been expelled from school. Ammu bought her children’s gifts
+- Ammu wants to freeze time to the period when the twins were kids
+- At lunch Mammachi suggested to Ammu not to vist anymore
+- Ammu leaves in silence and never returns
+- Ammu died alone in a lodge at the age of 31
+- She dreamed of police comming to cut her hair to mark her as a prostitute
+- Chruch would not burry her. So the body was taken to crematorium
