@@ -1,38 +1,36 @@
-name: Deploy AIO Tracker to Netlify
-run-name: Netlify Deploy by @${{ github.actor }}
+name: Deploy AIO Tracker to Cloudflare
+run-name: Cloudflare Deploy by @${{ github.actor }}
 
 on:
-    push:
-        branches: [main]
-        paths-ignore:
-            - "notes-vault/.obsidian/**"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "notes-vault/.obsidian/**"
 
 jobs:
-    digital-archive:
-        name: AIO Tracker Deployment
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout Quartz
-              id: checkout-quartz
-              uses: actions/checkout@v4
-              with:
-                  repository: jackyzha0/quartz
-                  ref: v4.3.0
-                  path: quartz
-            - name: Checkout Repository
-              id: checkout-repository
-              uses: actions/checkout@v4
-              with:
-                  path: source
-            - name: Build AIO Tracker
-              id: build-aio-tracker
-              uses: ./source/.github/actions
-              with:
-                  MEASUREMENT_ID: ${{ secrets.MEASUREMENT_ID }}
-            - name: Cloudflare Deploy
-              id: cloudflare-deploy
-              uses: cloudflare/wrangler-action@v3
-              with:
-                  apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-                  accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-                  command: pages deploy quartz/public --project-name=my-digital-tracker
+  digital-archive:
+    name: AIO Tracker Deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Quartz
+        id: checkout-quartz
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4.3.0
+          path: quartz
+      - name: Checkout Repository
+        id: checkout-repository
+        uses: actions/checkout@v4
+        with:
+          path: source
+      - name: Build AIO Tracker
+        id: build-aio-tracker
+        uses: ./source/.github/actions
+      - name: Cloudflare Deploy
+        id: cloudflare-deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy quartz/public --project-name=my-digital-tracker
