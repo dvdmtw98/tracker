@@ -10,7 +10,7 @@ genre:
 rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: 2024-09-08 11:04:16 -0500
-updated: 2024-09-24 10:51:39 -0500
+updated: 2024-11-02 20:24:27 -0500
 ---
 
 ![[the-god-of-small-things.jpg|300]]
@@ -265,3 +265,38 @@ flowchart TD
 - Ammu died alone in a lodge at the age of 31
 - She dreamed of police comming to cut her hair to mark her as a prostitute
 - Chruch would not burry her. So the body was taken to crematorium
+
+#### Chapter 8: Welcome Home, Our Sophie Mol
+
+- Mammachi is waiting at home for Sophie Mol to return. She is almost blind  
+- Thinks about her first batch of pickles and the leaking bottles
+- Mammachi thinks about Margaret who she does not like
+- Thinks about Chacho and his affairs with women from the factory (His Needs)
+- She pays the women money so in her mind she can justify them as prostitutes
+- In kitchen Kochu Maria is making a cake for Sophie Mol
+- When the car arrived everyone stops there work and gathers around the car
+- Rahel sees Velutha and goes to play with him as she is no longer required
+- Rahels feels like everyone is in a play to impress Sophie Mol
+- Rahel tells Velutha she saw him in the march he denies it
+- Kochu Maria sniffs Sophie Mol’s hand and Margaret makes an insensitive joke
+- Ammu gives a scarsactic reply. Chacko gets angry and asks for apology
+- Ammu storm off. Everyone wonders where Ammu got her rebellious behavior
+- She learnt it from her father who was nice to others but bad to his family
+- Kochu Maria cuts the cake and Mammachi instructs to give everyone a piece
+- Kochu Maria boosts to Rahel that Sophie will be the next Kochamma
+- Rahel gets angry and storms away to kill some ants
+- Sophie comes over and tells her to leave one ant lonely. She ignore her and kills it
+- The entire crowd follows Sophie. Rahel runs away
+
+#### Chapter 9: Mrs. Pillai, Mrs. Eapen, Mrs. Rajagopalan
+
+- in 1993, Rahel explored the abondoned ornamental garden
+- Remembers Sophie tells she likes Joe more than Chacko
+- And she feels lonely when the twins leave her behind
+- The twins take Sophie to meet Velutha. All dressed as ladies
+- Rahel thinks of how sweet Velutha was playing along with their fantasies
+- Rahel sees Estha in his room and things thinks of their troubled past
+- She wishes Estha could think of them as victims not perpetrators
+- She understands that the only true victim was Velutha
+- She hears the kathakali from a History House and goes towards it
+- Sees the remains of Paradise Pickles

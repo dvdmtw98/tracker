@@ -9,6 +9,7 @@ export { ObsidianFlavoredMarkdown } from "./ofm"
 export { OxHugoFlavouredMarkdown } from "./oxhugofm"
 export { SyntaxHighlighting } from "./syntax"
 export { TableOfContents } from "./toc"
+export { ImageZoom } from "./imagezoom"
 
 import rehypeExternalLinks from 'rehype-external-links'
 import { QuartzTransformerPlugin } from "../types"

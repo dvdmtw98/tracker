@@ -18,7 +18,7 @@ const config: QuartzConfig = {
         defaultDateType: "created",
         theme: {
             fontOrigin: "googleFonts",
-            cdnCaching: false,
+            cdnCaching: true,
             typography: {
                 header: "Schibsted Grotesk",
                 body: "Poppins",
@@ -69,7 +69,8 @@ const config: QuartzConfig = {
             Plugin.CrawlLinks({ markdownLinkResolution: "shortest", lazyLoad: true }),
             Plugin.Description(),
             Plugin.Latex({ renderEngine: "katex" }),
-            Plugin.ExternalLinks()
+            Plugin.ExternalLinks(),
+            Plugin.ImageZoom()
         ],
         filters: [Plugin.RemoveDrafts()],
         emitters: [
