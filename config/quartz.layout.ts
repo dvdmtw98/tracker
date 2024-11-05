@@ -56,14 +56,13 @@ export const defaultContentPageLayout: PageLayout = {
         Component.TableOfContents(),
         Component.Graph({
             localGraph: {
-                scale: 2,
-                linkDistance: 45,
-                fontSize: 0.3,
+                linkDistance: 90,
+                fontSize: 0.7,
                 showTags: false
 
             },
             globalGraph: {
-                linkDistance: 30,
+                linkDistance: 90,
                 fontSize: 0.6,
                 showTags: false
             }
@@ -87,5 +86,3 @@ export const defaultListPageLayout: PageLayout = {
     ],
     right: [],
 }
-
-
