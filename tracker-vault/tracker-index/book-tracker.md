@@ -12,7 +12,7 @@ cssclasses:
   - cards-align-bottom
 ---
 
-### Fiction (36)
+### Fiction (37)
 
 | Cover                                                               | Title                                                                                                      | Author                 | Published | Genre                                                                                         | Status    | Rating     |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------- | --------- | --------------------------------------------------------------------------------------------- | --------- | ---------- |
@@ -26,6 +26,7 @@ cssclasses:
 | ![[books/images/animal-farm.jpg\|92]]                               | [[books/animal-farm.md\|Animal Farm]]                                                                      | George Orwell          | 1945      | <ul><li>Fantasy</li><li>Classics</li><li>Literary Fiction</li><li>Satire</li></ul>            | Completed | 🌕🌕🌕🌕🌕 |
 | ![[books/images/crime-and-punishment.jpg\|92]]                      | [[books/crime-and-punishment.md\|Crime and Punishment]]                                                    | Fyodor Dostoevsky      | 1866      | <ul><li>Crime</li><li>Physiological</li><li>Classics</li><li>Literary Fiction</li></ul>       | Completed | 🌕🌕🌕🌑🌑 |
 | ![[books/images/dark-matter.jpg\|92]]                               | [[books/dark-matter.md\|Dark Matter]]                                                                      | Blake Crouch           | 2016      | <ul><li>Mystery</li><li>Thriller</li><li>Fantasy</li></ul>                                    | Completed | 🌕🌕🌕🌗🌑 |
+| ![[books/images/evil-eye.jpg\|92]]                                  | [[books/evil-eye.md\|Evil Eye]]                                                                            | Madhuri Shekar         | 2019      | <ul><li>Audiobook</li><li>Thriller</li><li>Mystery</li><li>Suspense</li></ul>                 | Completed | 🌕🌕🌕🌕🌑 |
 | ![[books/images/fahrenheit-451.jpg\|92]]                            | [[books/fahrenheit-451.md\|Fahrenheit 451]]                                                                | Ray Bradbury           | 1953      | <ul><li>Dystopian</li><li>Fantasy</li><li>Classics</li></ul>                                  | Completed | 🌕🌕🌕🌑🌑 |
 | ![[books/images/kafka-on-the-shore.jpg\|92]]                        | [[books/kafka-on-the-shore.md\|Kafka on the Shore]]                                                        | Haruki Murakami        | 2002      | <ul><li>Fantasy</li><li>Magical Realism</li><li>Adventure</li></ul>                           | Completed | 🌕🌕🌕🌕🌑 |
 | ![[books/images/lolita.jpg\|92]]                                    | [[books/lolita.md\|Lolita]]                                                                                | Vladimir Nabokov       | 1955      | <ul><li>Literary Fiction</li><li>Drama</li><li>Psychological</li><li>Classics</li></ul>       | Completed | 🌕🌕🌕🌕🌕 |
