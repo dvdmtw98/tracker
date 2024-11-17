@@ -1,6 +1,6 @@
 ---
 name: Alice’s Adventures in Wonderland & Through the Looking-Glass and What Alice Found There
-altname: Alice’s Adventures in Wonderland & Through the Looking-Glass
+altname: Alice’s Adventures in Wonderland
 author: Lewis Carroll
 published: 1871
 type: Fiction

@@ -7,7 +7,7 @@ genre:
   - Erotica
   - Philosophy
   - Horror
-rating: 🌕🌕🌗🌑🌑
+rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-07-28 18:01:18 -0500
 updated: 2024-07-28 18:03:18 -0500

@@ -5,7 +5,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2024-09-08 11:08:58 -0500
+updated: 2024-11-15 08:08:13 -0600
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -65,7 +65,6 @@ cssclasses:
 |     | [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)                | Alexandre Dumas             | 1844      | • Historical<br>• Adventure                   | 1276  |
 |     | [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)                | Mikhail Bulgakov            | 1967      | • Fantasy<br>• Magical<br>• Russian           | 372   |
 |     | [The Pillowman](https://www.goodreads.com/book/show/133974.The_Pillowman)                                      | Martin McDonagh             | 2003      | • Horror<br>• Mystery<br>• Irish              | 104   |
-|     | [The Yellow Wall-Paper](https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper)                      | Charlotte Perkins Gilman    | 1892      | • Horror<br>• Gothic                          | 64    |
 |     | [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace)                                         | Leo Tolstoy                 | 1869      | • Historical<br>• War<br>• Russia             | 1392  |
 |     | [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)                                    | Aldous Huxley               | 1932      | • Sci-Fi<br>• Fantasy<br>• Dystopia           | 268   |
 |     | [The Road](https://www.goodreads.com/book/show/6288.The_Road)                                                  | Cormac McCarthy             | 2006      | • Sci-Fi<br>• Dystopia<br>• Horror            | 241   |
@@ -75,7 +74,6 @@ cssclasses:
 |     | [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina)                                    | Leo Tolstoy                 | 1878      | • Romance<br>• Russia<br>• Historical         | 964   |
 |     | [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) | Cormac McCarthy             | 1985      | • Historical<br>• American<br>• Horror        | 351   |
 |     | [Moby-Dick](https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale)                                 | Herman Melville             | 1851      | • Adventure<br>• American<br>• Classics       | 720   |
-|     | [Carmilla](https://www.goodreads.com/book/show/48037.Carmilla)                                                 | J. Sheridan Le Fanu         | 1872      | • Horror<br>• Gothic<br>• Fantasy             | 108   |
 |     | [Dracula](https://www.goodreads.com/book/show/17245.Dracula)                                                   | Bram Stoker                 | 1897      | • Horror<br>• Fantasy<br>• Gothic             | 488   |
 |     | [Emma](https://www.goodreads.com/book/show/6969.Emma)                                                          | Jane Austen                 | 1815      | • Historical<br>• British<br>• Romance        | 474   |
 |     | [Giovanni's Room](https://www.goodreads.com/book/show/406235.Giovanni_s_Room)                                  | James Baldwin               | 1956      | • Romance<br>• American<br>• Classics         | 224   |

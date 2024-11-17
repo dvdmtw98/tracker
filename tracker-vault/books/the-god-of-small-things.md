@@ -7,10 +7,10 @@ genre:
   - Contemporary
   - Literary Fiction
   - Historical
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌑
+status: Completed
 date: 2024-09-08 11:04:16 -0500
-updated: 2024-11-02 20:24:27 -0500
+updated: 2024-11-14 15:44:54 -0600
 ---
 
 ![[the-god-of-small-things.jpg|300]]
@@ -53,7 +53,7 @@ flowchart TD
 ```
 
 
-#### Chapter 1: Paradise Pickles Preserves
+#### Chapter 1
 
 - We are introduced to the town of Ayemenem (Kerala, India)
 - 1993 Rahel (age 31) returns to her family home were her grant aunt lives
@@ -106,7 +106,7 @@ flowchart TD
     classDef merge fill:#FFFFFF
 ```
 
-#### Chapter 2: Pappachi’s Moth
+#### Chapter 2
 
 - In 1969, the twins, mother, uncle and grant aunt are going to watch a movie
 - Sophie and Margaret (Englishwomen) come to visit their family in Kerala
@@ -172,7 +172,7 @@ flowchart TD
 - Chacko agrees and says they are milestones around his neck
 - The train passes and they drive away
 
-#### Chapter 3: Big Man the Laltain, Small Man the Mombatti
+#### Chapter 3
 
 - 1993 the Ayemenem house has become decrepit and filthy
 - Baby always watches TV
@@ -181,7 +181,7 @@ flowchart TD
 - Watches Estha undress. Rahel touches Esthas ear, he does not respond
 - Processeds to washing his cloths
 
-#### Chapter 4: Abhilash Talkies
+#### Chapter 4
 
 - 1969 they reach the theater. They go to the men's and girls washrooms
 - Chacko is at the hotel booking their rooms for the night
@@ -219,7 +219,7 @@ flowchart TD
 - Chacko thinks about starting a Union of his own
 - The twins sleep while embracing each other
 
-#### Chapter 5: God’s Own Country
+#### Chapter 5
 
 - The story continues in 1993 were the river across the house had dried up
 - The history house has been turned into a 5-star hotel
@@ -231,7 +231,7 @@ flowchart TD
 - Pillai shows a Rahel a photo that has the twins, Lenin and Sophie
 - It was taken few days before her death
 
-#### Chapter 6: Cochin Kangaroos
+#### Chapter 6
 
 - 1969 waiting at Airport for Margaret and Sophie
 - Made to wear nice cloths and told to be at their best behavior
@@ -248,7 +248,7 @@ flowchart TD
 - They drive back him. They see a dead Elephant on the way back
 - Baby makes them sing a song to showoff their English pronunciation
 
-#### Chapter 7: Wisdom Exercise Notebooks
+#### Chapter 7
 
 - In 1993 Rahel goes threw Pappachi’s study
 - In her old hiding place she finds the rosary she stole from Baby
@@ -266,7 +266,7 @@ flowchart TD
 - She dreamed of police comming to cut her hair to mark her as a prostitute
 - Chruch would not burry her. So the body was taken to crematorium
 
-#### Chapter 8: Welcome Home, Our Sophie Mol
+#### Chapter 8
 
 - Mammachi is waiting at home for Sophie Mol to return. She is almost blind  
 - Thinks about her first batch of pickles and the leaking bottles
@@ -288,7 +288,7 @@ flowchart TD
 - Sophie comes over and tells her to leave one ant lonely. She ignore her and kills it
 - The entire crowd follows Sophie. Rahel runs away
 
-#### Chapter 9: Mrs. Pillai, Mrs. Eapen, Mrs. Rajagopalan
+#### Chapter 9
 
 - in 1993, Rahel explored the abondoned ornamental garden
 - Remembers Sophie tells she likes Joe more than Chacko
@@ -300,3 +300,174 @@ flowchart TD
 - She understands that the only true victim was Velutha
 - She hears the kathakali from a History House and goes towards it
 - Sees the remains of Paradise Pickles
+
+#### Chapter 10
+
+- in 1969, when cake is being served Estha goes to the Pickle Factory to think
+- Walks among the products and stirrers a cauldron of banana jam
+- Thinks about the Lemondrink man and what he could do
+- Estha has 2 taught - anything can happen at anytime and its best to be prepared
+- He wishes of a boat he could use to escape the Lemondrink man
+- Rahel comes to the factory and Estha reluctantly tells her the plan
+- Estha wants to go to the History House across the river
+- The house is supposed to have the ghost of Kari Saipu who is pinned to a tree
+- They decide to become Communists so they don't have to believe in ghosts
+- They decide to go to the History House while Ammu is napping
+- Rahel goes for her Nap and lies awake till Ammu is asleep
+- Rahel thinks of the communish flag and Estha sitting on boat
+- Rahel runs and goes to Estha and finds him really sitting on a overturned boat
+- They put the boat in the river but it sinks so they decide to take it to Velutha
+- At the house only Kuttappen (Velutha’s paralized brother) is present
+- They talk about Sophie Mol and the boat
+- Velutha comes home and sees the kids and helps them fix the boat
+- Velutha talks with Kuttappen and confirms that he was at the communish march
+- He knows that he should be afraid that the Ipes saw him
+
+#### Chapter 11
+
+- Ammu is still napping and dreams of a one-armed man
+- Whenever she touches him she feels goosebumps
+- She thinks of this man as the God of small things
+- The twins hover over her and try to wake her up
+- Looking at Ammu’s face they feel feel like she is having a nightmare
+- Ammu wakes up as says she was happy in the dream
+- Estha asks if being happy in dreams count as being happy
+- Ammu turns on the radio and listens to a song about star-crossed lovers
+- Ammu notices the twins are covered in saw-dust and warns them about going to Velutha’s house without saying his name
+- Ammu knows that the God of Small Things in her dream was Velutha
+- Estha and Rachel climb over their mothers body and try to kiss her
+- Ammu gets up and goes to the bathroom and takes a look at herself
+- She thinks about what the future has in store for a disgraced man-less women
+- The narrator elaborators on the room and events that will take place in future
+- Chacko will kick down the door and throw Ammu out of the house
+- Estha’s luggage so he can be returned would be packed in the same place
+
+#### Chapter 12
+
+- In 1993 Rahel approaches the temple where the kathakali performers are asking forgiveness from their god for their tourist-friendly hotel
+- The temple elephant is asleep. The performance as already started
+- The stories of the Gods are explained and how kathakali is no move a viable source of income
+- Rachel watch the story and how the actor playing the part is drunk
+- Rahel then notices that Estha has also entered the temple
+- They stay all night and watch the entire performance
+- At dawn Pillai greets the twins as they leave the temple
+
+#### Chapter 13
+
+- In 1969, Sophie wakes up and thinks about Joe
+- She sees all of Chacko’s stuff (staying in his room)
+- Narrator talks about Margaret and Chacko’s relation
+- How they meet at a cafe (Margaret waitress at cafe)
+- Margaret confused Chacko’s acceptance of her as love
+- Chacko liked Margaret’s English self-sufficiency
+- Got married without consent from Margaret’s family
+- They soon has financial troubles. Margaret meet Joe
+- When Sophie was born Margaret asked for divorce
+- Heartbroken Chacko moved back to India and took up a teaching job
+- When Pappachi died he moved home to take up the pickle business
+- Margaret would still write to him about Sophie and Joe
+- Margaret was teaching at a school when she got the news that Joe died
+- When she got invitation for Chacko for vacation they came to Ayemenem
+- Margaret never forgave herself for the visit to India
+- When she got back from booking her return ticket. She sees Sophie’s dead body
+- All three kids where missing the day the events took place
+- Ammu was locked up in her room
+- In her anger she till the twins they are millstones around her neck
+- The previous night Vellya Pappen came to their house drunk and sad
+- He tells Mammachi who he had seem that Velutha and Ammu where lovers
+- Baby Kochamma sees it has righteous punishement for Ammu and the twins
+- They trick Ammu and lock her in her room and plan to send Velutha away
+- Baby goes to the police and says that Velutha tried to rape Ammu
+- And that dead of Sophie and the disappearance of the kids might be his fault
+- Margaret starts to hate the twins for surviving and blames Estha for the death
+
+#### Chapter 14
+
+- 2 weeks before Sophie’s death. Chacko goes to meet Pillai
+- Pillai arrives at home after sometime and asks his niece to call some people so that they can see that Chacko is at his house
+- They make small talk, Chacko orders new labels for the pickle business
+- He asks about the march and if Velutha had gone to the march
+- Pillai asks Chacko to send Velutha away as the workers are not happy because of his caste
+- After Sophie’s dead Chacko abandons the pickle business
+- On the night of Sophie’s dead Velutha is coming back after fixing a machine
+- He is informed that he is need at Ayemenum and goes to meet Mammachi
+- Mammachi screams at him and spits in his face
+- Velutha goes to Pillai to ask for help but is hold the party won’t help him
+
+#### Chapter 15
+
+- Velutha in a trance swims towards the History House
+- He still thinks that things will eventually get better
+
+#### Chapter 16
+
+- The twins go to the History house since even Ammu does not want them
+- Estha has already equipped the house with things to escape the Lemonade man
+- Sophie convinces them to take her along with them
+- All 3 of them get in the boat, the river is faster and stronger than expected
+- The boat hits a log and tips over, the twins manage to make it to the shore
+- Realized Sophie is missing. Soon realize the she has most likely drowned
+- Traumatized they enter the History house and do not see Velutha
+
+#### Chapter 17
+
+- In 1993 Estha sits alone on his bead, the house has fallen into disarray
+- Baby writes “I Love You” in her journal everyday
+- Father Mulligan has died 4 years ago after converting to Hinduism
+- Rahel is lying on Estha’s bed and examining her bosy which is like Ammu’s
+- Estha remembers leaving Ammu 23 years ago at the Cochin Terminus
+- Remembers the events of the Terror that occurred in newspaper articles
+
+#### Chapter 18
+
+- In 1969, 6 policemen cross the river to look for Velutha
+- The twins and Velutha are asleep when the police find them
+- The policemen brutally beat Velutha
+- The kids release that Velutha was also present with them
+- The narrator describes Velutha’s broken body
+- Rahel tells Estha that this is not Velutha but his twin brother
+- The police find the kids and are friendly with them
+- They see the supplies and are worried Velutha did not kidnap them
+- So they take all of the toys for themselves and drag Velutha with them
+
+#### Chapter 19
+
+- The twins are at the police station with the Inspector
+- After seeing all the toys, the Inspector realizes something is wrong
+- He calls for Baby. He is not friendly to Baby this time
+- He tells that Velutha will die soon and if Velutha did not kidnap the kids then it means that they killed an innocent man
+- He tells that unless Ammu files a rape report of the kids identify Velutha as their kidnapper they would have to charge Baby for false report
+- Baby is terrified and tries to convince the kids to change their story
+- The Insepctor leaves the kids alone with Baby, she acquires them of killing Sophie and says that there is no forgiveness for their crime
+- She tells them of the horrors of prison and tells to answer “yes” to the polices question so that they could save their mother
+- The Inspector takes Estha to see Velutha’s broken body
+- Inspectors asks Estha and the question and he answers “yes”
+- On ride home Estha tells Rahel she was right and that wasn’t Velutha
+- When Ammu goes to the police station after funeral Baby is scared that her plan would fail. Baby plans of a way to have Ammu returned
+- She plans in Chacko’s mind the idea that Ammu and the twins caused the death
+- Chacko breaks down the door to Ammu’s room and kicks her out of the house
+
+#### Chapter 20
+
+- Story continues to the day when Estha is sent to Madras
+- Ammu promises Estha and she would get him as soon as she has a job
+- They soon start describing their dream house
+- The train starts to move and the twins scream as they are separated
+- 23 years later they are lying in Estha’s bed and have sex
+- The story move to 1969, the day Sophie came to the house
+- Ammu puts them to sleep early and they can see that Ammu is not angry
+- Ammu is reluctant to go and join Sophie and Margaret
+- She dreams and longs for the “God of Small Things”
+
+#### Chapter 21
+
+- Later the same night Ammu goes to the porch to listen to rado
+- Ammu suddenly gets up and walks towards the river sobbing
+- At the same time Velutha is floating in the river thinking about Ammu
+- He sees her and swims towards her. Ammu finally sees Velutha
+- She goes and kisses him. Velutha knows he will loose everything if this becomes known to other but still caries on
+- They have sex by the river at the location where Velutha has found the boat
+- Ammu both laughs and cries as she feels safe in Velutha’s hands
+- For 13 nights Ammu and Velutha kept meeting in the same place
+- At the end of every night they promise each other “tomorrow” as they know they cannot promise any longer as things could change any moment.
+
