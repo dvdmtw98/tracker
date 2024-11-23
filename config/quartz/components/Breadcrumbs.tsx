@@ -3,29 +3,11 @@ import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, joinSegments, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
+import { textTransform } from "../util/custom"
 
 type CrumbData = {
   displayName: string
   path: string
-}
-
-const titleCaseTransform = (displayName: string) => {
-
-  const filterWords = ["and", "of", "a", "in", "on", "the", "for", "to"];
-
-  if (displayName.includes("-") || !displayName.includes(" ")) {
-    const words = displayName.split("-");
-    const titleCaseWords = words.map((word, index) => {
-      if (filterWords.includes(word) && index !== 0) {
-        return word
-      }
-      return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
-    });
-    const result = titleCaseWords.join(" ");
-    displayName = result;
-  }
-
-  return displayName;
 }
 
 interface BreadcrumbOptions {
@@ -61,7 +43,7 @@ const defaultOptions: BreadcrumbOptions = {
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
   return {
-    displayName: titleCaseTransform(displayName),
+    displayName: textTransform(displayName),
     path: resolveRelative(baseSlug, currentSlug),
   }
 }
@@ -113,7 +95,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         // Try to resolve frontmatter folder title
         const currentFile = folderIndex?.get(slugParts.slice(0, i + 1).join("/"))
         if (currentFile) {
-          const title = titleCaseTransform(currentFile.frontmatter!.title)
+          const title = textTransform(currentFile.frontmatter!.title)
           if (title !== "index") {
             curPathSegment = title
           }
@@ -135,7 +117,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       // Add current file to crumb (can directly use frontmatter title)
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
-          displayName: titleCaseTransform(fileData.frontmatter!.title),
+          displayName: textTransform(fileData.frontmatter!.title),
           path: "",
         })
       }

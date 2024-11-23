@@ -8,7 +8,7 @@ genre:
   - Horror
   - Fantasy
   - Classics
-rating: 🌕🌕🌕🌕🌕
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-11-14 18:26:19 -0600
 updated: 2024-11-14 18:27:23 -0600

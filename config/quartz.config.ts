@@ -25,7 +25,7 @@ const config: QuartzConfig = {
             cdnCaching: false,
             typography: {
                 header: "Schibsted Grotesk",
-                body: "Poppins",
+                body: "Inter",
                 code: "Fira Code",
             },
             colors: {
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
                     textHighlight: "#fff23688",
                 },
                 darkMode: {
-                    light: "#161618",
+                    light: "#1a1915",
                     lightgray: "#393639",
                     gray: "#646464",
                     darkgray: "#d4d4d4",
@@ -74,7 +74,8 @@ const config: QuartzConfig = {
             Plugin.Description(),
             Plugin.Latex({ renderEngine: "katex" }),
             Plugin.ExternalLinks(),
-            Plugin.ImageZoom()
+            Plugin.ImageZoom(),
+            Plugin.PageAnimation()
         ],
         filters: [Plugin.RemoveDrafts()],
         emitters: [
