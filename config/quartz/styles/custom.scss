@@ -3,9 +3,9 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-// Left Sidebar Components Alignment
+// Left Sidebar Components
 
-.left {
+.left.sidebar {
   display: grid !important;
   gap: 1.5rem !important;
   grid-template-columns: 1fr;
@@ -31,10 +31,19 @@
   @media all and ($mobile) {
     display: flex !important;
   }
+
+  @media all and ($tablet) {
+    width: 280px;
+    gap: 1.5rem 1rem !important;
+
+    .darkmode {
+      margin: 0 2px;
+    }
+  }
 }
 
-.folder-container div > button span {
-    font-weight: 400;
+.folder-container div>button span {
+  font-weight: 400;
 }
 
 // Custom Line Separator
@@ -62,7 +71,7 @@ hr {
 // Table Hover Highlight
 
 .table-container {
-  > table {
+  >table {
     margin: 0;
     padding: 0;
 
@@ -70,7 +79,7 @@ hr {
       background-color: var(--highlight);
     }
 
-    > * {
+    >* {
       line-height: 1.5rem;
     }
   }
@@ -80,7 +89,7 @@ hr {
 
 article {
   > :is(h1, h2, h3, h4, h5, h6) {
-    > a {
+    >a {
       &.internal {
         background-color: var(--highlight);
         color: var(--secondary);
@@ -165,8 +174,7 @@ a:hover .popover,
 
   --cards-min-width: 180px;
   --cards-max-width: 1fr;
-  --cards-mobile-width: 120px;
-  --cards-image-height: 360px;
+  --cards-image-height: 300px;
   --cards-aspect-ratio: 2/3;
   --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
 
@@ -175,8 +183,16 @@ a:hover .popover,
   --cards-border-hover: rgb(61, 69, 68);
   --border-width: 1px;
 
-  @media (max-width: 400pt) {
-    --cards-min-width: var(--cards-mobile-width);
+  @media all and (max-width: 500px) {
+    --cards-min-width: 100px;
+  }
+
+  @media all and ($mobile) {
+    --cards-min-width: 120px;
+  }
+
+  @media all and (min-width: 700px) and (max-width: 800px) {
+    --cards-max-width: 210px;
   }
 
   table {
@@ -194,24 +210,24 @@ a:hover .popover,
       grid-column-gap: 0.75rem;
       grid-row-gap: 0.75rem;
 
-      @media (min-width: 260pt) {
+      @media all and (max-width: 500px) {
         --cards-columns: repeat(2, minmax(0, 1fr));
       }
 
-      @media (min-width: 400pt) {
+      @media all and (min-width: 500px) and (max-width: 1000px) {
         --cards-columns: repeat(3, minmax(0, 1fr));
       }
 
-      @media (min-width: 460pt) {
+      @media all and (min-width: 1000px) and (max-width: 1440px) {
         --cards-columns: repeat(4, minmax(0, 1fr));
       }
 
-      @media (min-width: 960pt) {
+      @media all and (min-width: 1440px) {
         --cards-columns: repeat(5, minmax(0, 1fr));
       }
 
-      > tr {
-        > td {
+      >tr {
+        >td {
           &:not(:first-child) {
             @media (max-width: 400pt) {
               font-size: 80%;
@@ -221,8 +237,8 @@ a:hover .popover,
       }
     }
 
-    > tbody {
-      > tr {
+    >tbody {
+      >tr {
         border: 1px solid var(--cards-border);
         display: flex;
         flex-direction: column;
@@ -233,17 +249,15 @@ a:hover .popover,
         &:hover {
           background-color: var(--cards-background-hover);
           border: 1px solid var(--cards-border-hover);
-          box-shadow:
-            0 4px 6px 0px rgba(0, 0, 0, 0.05),
-            0 1px 3px 1px rgba(0, 0, 0, 0.025);
+          box-shadow: 0 4px 6px 0px rgba(0, 0, 0, 0.05), 0 1px 3px 1px rgba(0, 0, 0, 0.025);
           transition: box-shadow 0.15s linear;
 
-          > td:not(:last-child) {
+          >td:not(:last-child) {
             border-bottom: 1px solid var(--cards-border-hover);
           }
         }
 
-        > td {
+        >td {
           white-space: initial;
           flex: 1 1 0;
 
@@ -257,7 +271,7 @@ a:hover .popover,
             }
           }
 
-          > ul {
+          >ul {
             width: 100%;
             padding: 0.1em 0;
             margin: 0 auto;
@@ -298,6 +312,7 @@ a:hover .popover,
 
 .cards {
   .popover {
+
     table,
     table thead,
     table tbody,
@@ -313,7 +328,7 @@ a:hover .popover,
 
 .cards .popover {
   .table-container {
-    > table {
+    >table {
       tr {
         &:hover {
           td {
@@ -343,9 +358,10 @@ a:hover .popover,
       padding: 0.2rem 0.7rem;
     }
 
-    > tbody {
-      > tr {
+    >tbody {
+      >tr {
         border-bottom: 1px solid var(--lightgray);
+
         &:last-of-type {
           border-bottom: none;
         }
@@ -354,7 +370,7 @@ a:hover .popover,
           border: none;
         }
 
-        > td:not(:last-child) {
+        >td:not(:last-child) {
           border-bottom: none;
         }
       }
