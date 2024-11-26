@@ -3,7 +3,7 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-// Left Sidebar Components
+// Sidebar Components
 
 .left.sidebar {
   display: grid !important;
@@ -26,24 +26,48 @@
 
   .explorer {
     grid-area: 3 / 1 / 5 / 3;
+
+    .folder-container div>button span {
+      font-weight: 400;
+    }
   }
 
-  @media all and ($mobile) {
+  @media all and ($desktop) {
+    .explorer {
+      max-height: 64vh;
+      overflow-y: hidden;
+    }
+  }
+
+  @media all and not ($desktop) {
     display: flex !important;
   }
 
   @media all and ($tablet) {
-    width: 280px;
-    gap: 1.5rem 1rem !important;
+    padding: 6rem 1.5rem 2rem !important;
+    align-items: flex-start;
 
-    .darkmode {
-      margin: 0 2px;
+    .search {
+      align-self: stretch;
     }
   }
 }
 
-.folder-container div>button span {
-  font-weight: 400;
+.right.sidebar {
+  @media all and ($desktop) {
+    .toc {
+      max-height: 40vh;
+      overflow-y: hidden;
+    }
+  }
+}
+
+// Backlink Spacing
+
+@media all and not ($desktop) {
+  .backlinks>.overflow {
+    height: unset;
+  }
 }
 
 // Custom Line Separator
@@ -173,7 +197,7 @@ a:hover .popover,
   }
 
   --cards-min-width: 180px;
-  --cards-max-width: 1fr;
+  --cards-max-width: 200px; // 1fr
   --cards-image-height: 300px;
   --cards-aspect-ratio: 2/3;
   --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
@@ -189,10 +213,6 @@ a:hover .popover,
 
   @media all and ($mobile) {
     --cards-min-width: 120px;
-  }
-
-  @media all and (min-width: 700px) and (max-width: 800px) {
-    --cards-max-width: 210px;
   }
 
   table {
@@ -249,7 +269,9 @@ a:hover .popover,
         &:hover {
           background-color: var(--cards-background-hover);
           border: 1px solid var(--cards-border-hover);
-          box-shadow: 0 4px 6px 0px rgba(0, 0, 0, 0.05), 0 1px 3px 1px rgba(0, 0, 0, 0.025);
+          box-shadow:
+            0 4px 6px 0px rgba(0, 0, 0, 0.05),
+            0 1px 3px 1px rgba(0, 0, 0, 0.025);
           transition: box-shadow 0.15s linear;
 
           >td:not(:last-child) {
