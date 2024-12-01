@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Home Page
 description: My personal tool for keeping track of the books, movies, and shows I’m currently enjoying.
 tags:
   - book
