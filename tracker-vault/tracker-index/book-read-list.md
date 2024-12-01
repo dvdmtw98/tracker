@@ -1,5 +1,6 @@
 ---
 title: Book Read List
+description: A list of books I'm interested in reading.
 tags:
   - list
   - book

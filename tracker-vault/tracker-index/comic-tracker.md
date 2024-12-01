@@ -1,5 +1,6 @@
 ---
 title: Comic Tracker
+description: An overview of comics I've completed and those I'm reading.
 tags:
   - index
   - comic

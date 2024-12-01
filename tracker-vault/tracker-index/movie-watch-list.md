@@ -1,5 +1,6 @@
 ---
 title: Movie Watch List
+description: A list of movies I'm interested in watching.
 tags:
   - list
   - movie

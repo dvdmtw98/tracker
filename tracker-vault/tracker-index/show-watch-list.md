@@ -1,5 +1,6 @@
 ---
 title: Show Watch List
+description: A list of shows I'm interested in watching.
 tags:
   - show
   - list

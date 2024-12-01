@@ -1,5 +1,6 @@
 ---
 title: Book Tracker
+description: An overview of books I've completed and those I'm reading.
 tags:
   - book
   - index
