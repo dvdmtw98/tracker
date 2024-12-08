@@ -1,15 +1,15 @@
-name: Deploy AIO Tracker to Cloudflare
+name: Deploy TrackItAll to Cloudflare
 run-name: Build on ${{ github.ref_name }} by @${{ github.actor }}
 
 on:
   push:
     branches: [main, dev]
     paths-ignore:
-      - "notes-vault/.obsidian/**"
+      - "tracker-vault/.obsidian/**"
 
 jobs:
-  digital-archive:
-    name: AIO Tracker Deployment
+  track-it-all:
+    name: TrackItAll Deployment
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Quartz
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: jackyzha0/quartz
-          ref: 7ac94e1d840b58e1400e5dd08533eed9e7418d70
+          ref: 5ccc2dcbba3bfeca2d9edc39209d43d217eb2a80
           fetch-depth: 0
           path: quartz
       - name: Checkout Repository
@@ -25,8 +25,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: source
-      - name: Build AIO Tracker
-        id: build-aio-tracker
+      - name: Build TrackItAll
+        id: build-track-it-all
         uses: ./source/.github/actions
       - name: Cloudflare Deploy
         id: cloudflare-deploy

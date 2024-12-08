@@ -2,6 +2,12 @@ import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { textTransformNode } from "./quartz/util/custom"
 
+const contentMetaConfig = {
+    repoLink: "https://github.com/dvdmtw98/tracker",
+    branch: "main",
+    rootDirectory: "tracker-vault"
+}
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
     head: Component.Head(),
@@ -24,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     beforeBody: [
         Component.Breadcrumbs(),
         Component.ArticleTitle(),
-        Component.ContentMeta(),
+        Component.ContentMeta(contentMetaConfig),
         Component.TagList(),
     ],
     left: [
@@ -38,13 +44,13 @@ export const defaultContentPageLayout: PageLayout = {
         Component.TableOfContents(),
         Component.Graph({
             localGraph: {
-                linkDistance: 90,
+                linkDistance: 80,
                 fontSize: 0.7,
                 showTags: false
 
             },
             globalGraph: {
-                linkDistance: 90,
+                linkDistance: 80,
                 fontSize: 0.6,
                 showTags: false
             }
@@ -57,7 +63,7 @@ export const defaultListPageLayout: PageLayout = {
     beforeBody: [
         Component.Breadcrumbs(),
         Component.ArticleTitle(),
-        Component.ContentMeta()
+        Component.ContentMeta(contentMetaConfig)
     ],
     left: [
         Component.PageTitle(),

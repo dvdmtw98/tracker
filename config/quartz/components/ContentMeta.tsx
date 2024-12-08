@@ -1,7 +1,7 @@
+import { Date, getDate } from "./Date"
+import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
-import { formatDate, getDate } from "./Date"
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
@@ -10,13 +10,17 @@ interface ContentMetaOptions {
   /**
    * Whether to display reading time
    */
-  showReadingTime: boolean
-  showComma: boolean
+  showReadingTime: boolean,
+  repoLink: string,
+  branch: string,
+  rootDirectory: string
 }
 
 const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
-  showComma: true,
+  repoLink: "github.com",
+  branch: "main",
+  rootDirectory: "content"
 }
 
 export default ((opts?: Partial<ContentMetaOptions>) => {
@@ -27,22 +31,21 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const text = fileData.text
 
     if (text) {
-      let modifiedTimeStr: string = ""
-      let createdTimeStr: string = ""
-      // const segments: string[] = []
+      let modifiedTimeStr: (string | JSX.Element) = ""
+      let createdTimeStr: (string | JSX.Element) = ""
 
       if (fileData.dates) {
-        const cfgDefaultDataType = cfg.defaultDateType
         // For backward compatibility, just in case this is used somewhere else
+        const cfgDefaultDataType = cfg.defaultDateType
 
         if (fileData.dates.created) {
           cfg.defaultDateType = "created"
-          createdTimeStr = formatDate(getDate(cfg, fileData)!)
+          createdTimeStr = <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
         }
 
         if (fileData.dates.modified) {
           cfg.defaultDateType = "modified"
-          modifiedTimeStr = formatDate(getDate(cfg, fileData)!)
+          modifiedTimeStr = <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
         }
 
         cfg.defaultDateType = cfgDefaultDataType
@@ -58,26 +61,61 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         readingTimeStr = `${_words} words, ${displayedTime}`
       }
 
+      const sourcefilePath = `${options?.rootDirectory}/${fileData.relativePath}`
+      const sourceViewUrl = `${options?.repoLink}/blob/${options?.branch}/${sourcefilePath!}`
+      const blameViewUrl = `${options?.repoLink}/blame/${options?.branch}/${sourcefilePath!}`
+
+      const gitHistoryBasePath = options?.repoLink.replace("github.com", "github.githistory.xyz")
+      const historyViewUrl = `${gitHistoryBasePath}/commits/${options?.branch}/${sourcefilePath!}`
+
       if (fileData.relativePath?.startsWith("books/")) {
         const frontMatter = fileData.frontmatter
 
         return (
-          <p class={classNames(displayClass, "content-meta")}>
-            <span class="content-meta-title">Author: </span>{frontMatter?.author}<br />
-            <span class="content-meta-title">Published: </span>{frontMatter?.published}<br />
-            <span class="content-meta-title">Type: </span>{frontMatter?.type}<br />
-            <span class="content-meta-title">Rating: </span>{frontMatter?.rating}<br />
-            <span class="content-meta-title">Status: </span>{frontMatter?.status}<br />
-            <span class="content-meta-title">Created: </span>{createdTimeStr}<br />
-            <span class="content-meta-title">Modified: </span>{modifiedTimeStr}
-          </p>
+          <div>
+            <p style={{ margin: '0' }}>
+              <a href={sourceViewUrl} target="_blank" rel="noreferrer noopener">Source</a>{" "}•{" "}
+              <a href={blameViewUrl} target="_blank" rel="noreferrer noopener">Blame</a>{" "}•{" "}
+              <a href={historyViewUrl} target="_blank" rel="noreferrer noopener">Git History</a>
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Author: </span>{frontMatter?.author}
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Published: </span>{frontMatter?.published}
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Type: </span>{frontMatter?.type}
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Rating: </span>{frontMatter?.rating}
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Status: </span>{frontMatter?.status}
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Created: </span>{createdTimeStr}
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span class="content-meta-title">Modified: </span>{modifiedTimeStr}
+            </p>
+          </div>
         )
       } else {
         return (
-          <p class={classNames(displayClass, "content-meta")}>
-            <span>Created: </span>{createdTimeStr} • <span>Modified: </span>{modifiedTimeStr}<br />
-            {readingTimeStr}
-          </p>
+          <div>
+            <p style={{ margin: '0' }}>
+              <a href={sourceViewUrl} target="_blank" rel="noreferrer noopener">Source</a>{" "}•{" "}
+              <a href={blameViewUrl} target="_blank" rel="noreferrer noopener">Blame</a>{" "}•{" "}
+              <a href={historyViewUrl} target="_blank" rel="noreferrer noopener">Git History</a>
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span>Created: {createdTimeStr} • Modified: {modifiedTimeStr}</span>
+            </p>
+            <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
+              <span>{readingTimeStr}</span>
+            </p>
+          </div>
         )
       }
     } else {
