@@ -7,16 +7,17 @@ tags:
   - movie
   - index
 date: 2024-02-08 20:02:38 -0600
-updated: 2024-11-29 12:30:46 -0600
+updated: 2024-12-19 18:01:05 -0600
 ---
 
 ### Books & Comics
 
 * [[book-tracker|Book Tracker]]
 * [[comic-tracker|Comic Tracker]]
-* [[book-read-list|Book Read List]]
+* [[book-read-list|Book To Read List]]
 
 ### Movies & Shows
 
-* [[movie-watch-list|Movie Watch List]]
-* [[show-watch-list|Show Watch List]]
+- [Movies Tracker](https://simkl.com/7153272/movies/completed/)
+- [TV Shows Tracker](https://simkl.com/7153272/tv/completed/)
+- [Anime Tracker](https://simkl.com/7153272/anime/completed/)
