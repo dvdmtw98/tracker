@@ -8,8 +8,8 @@ genre:
   - Fantasy
   - Young Adult
   - Ghost
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2024-12-20 19:50:00 -0600
 updated: 2024-12-20 19:51:48 -0600
 ---

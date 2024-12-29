@@ -13,12 +13,13 @@ cssclasses:
   - cards-align-bottom
 ---
 
-### Fiction (40)
+### Fiction (41)
 
 | Cover                                                               | Title                                                                                  | Author                   | Published | Genre                                                                                         | Status    | Rating     |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------ | --------- | --------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[books/images/a-christmas-carol.jpg\|92]]                         | [[books/a-christmas-carol.md\|A Christmas Carol]]                                      | Charles Dickens          | 1843      | <ul><li>Classics</li><li>Fantasy</li><li>Young Adult</li><li>Ghost</li></ul>                  | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[books/images/nutcracker.jpg\|92]]                                | [[books/nutcracker.md\|Nutcracker]]                                                    | E.T.A. Hoffmann          | 1816      | <ul><li>Classics</li><li>Fantasy</li><li>Young Adult</li></ul>                                | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[books/images/1984.jpg\|92]]                                      | [[books/1984.md\|1984]]                                                                | George Orwell            | 1949      | <ul><li>Dystopian</li><li>Science Fiction</li><li>Political</li><li>Classics</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
+| ![[books/images/a-christmas-carol.jpg\|92]]                         | [[books/a-christmas-carol.md\|A Christmas Carol]]                                      | Charles Dickens          | 1843      | <ul><li>Classics</li><li>Fantasy</li><li>Young Adult</li><li>Ghost</li></ul>                  | Completed | 🌕🌕🌕🌕🌕 |
 | ![[books/images/a-gentleman-in-moscow.jpg\|92]]                     | [[books/a-gentleman-in-moscow.md\|A Gentleman in Moscow]]                              | Amor Towles              | 2016      | <ul><li>Historical</li><li>Political</li><li>Drama</li><li>Literary Fiction</li></ul>         | Completed | 🌕🌕🌕🌕🌕 |
 | ![[books/images/a-thousand-splendid-suns.jpg\|92]]                  | [[books/a-thousand-splendid-suns.md\|A Thousand Splendid Suns]]                        | Khaled Hosseini          | 2007      | <ul><li>Historical</li><li>Drama</li><li>Literary Fiction</li><li>Contemporary</li></ul>      | Completed | 🌕🌕🌕🌕🌕 |
 | ![[books/images/alices-adventures-in-wonderland.jpg\|92]]           | [[books/alices-adventures-in-wonderland.md\|Alice’s Adventures in Wonderland]]         | Lewis Carroll            | 1871      | <ul><li>Fantasy</li><li>Adventure</li><li>Young Adult</li><li>Classics</li></ul>              | Completed | 🌕🌕🌕🌗🌑 |
