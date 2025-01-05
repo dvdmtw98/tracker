@@ -1,75 +1,86 @@
 const dv = app.plugins.plugins["dataview"].api;
 
-const bookGrouping = (bookTypeList) => {
-    let expression = bookTypeList.map(
+const bookTypeFilter = (bookTypeList) => {
+    let filterExpression = bookTypeList.map(
         (bookType) => `p.type === "${bookType}"`
     ).join(" || ");
 
-    return "p => " + expression;
-}
+    return `p => ${filterExpression}`;
+};
 
-const bookGrouper = (sortOrder) => {
-    let groupedBooks = dv
-        .pages('"books"')
-        .where(eval(bookGrouping(sortOrder)))
-        .groupBy((p) => p.type);
+// arrayName.array: Convert DV array to JS array
+// dv.array(arrayName): Convert JS array to DV array
 
-    // Cover Proxy Array to Normal Array
-    groupedBooks = groupedBooks.array(groupedBooks);
+const groupBooksByYear = (bookFilterList) => {
+    // Filter books by type
+    let filteredBooks = dv.pages('"books"')
+        .where(eval(bookTypeFilter(bookFilterList)));
 
-    groupedBooks.sort((a, b) => {
-        return sortOrder.indexOf(a.key) - sortOrder.indexOf(b.key);
+    // Group books by year added
+    let groupedBooks = filteredBooks.groupBy((p) => {
+        return new Date(p.date).getFullYear();
     });
 
-    groupedBooks = dv.array(groupedBooks);
+    // Sort groups (years) in descending order
+    groupedBooks.values.sort((a, b) => b.key - a.key);
+    // console.log(groupedBooks);
+
+    // Within each group (year), sort by title (ascending) 
+    groupedBooks.forEach((group) => {
+        group.rows.values.sort((a, b) => a.file.name.localeCompare(b.file.name));
+    });
     // console.log(groupedBooks);
 
     return groupedBooks;
+};
+
+const sortBooksByStatus = (bookGroup, statusOrder) => {
+    // Segregate books into groups based on status
+    let statusGroups = {};
+    for (const book of bookGroup.rows.array()) {
+        if (!statusGroups[book.status]) {
+            statusGroups[book.status] = [];
+        }
+        statusGroups[book.status].push(book);
+    }
+
+    // Concatenate the (status) groups back together 
+    let sortedBookGroup = [];
+    for (const status of statusOrder) {
+        if (statusGroups[status]) {
+            sortedBookGroup = sortedBookGroup.concat(statusGroups[status]);
+        }
+    }
+
+    return sortedBookGroup;
 }
+
 
 const bookIndexGenerator = (groupedBooks) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
     const tableHeaders = [
-        "Cover", "Title", "Author", "Published", "Genre", "Status", "Rating"
+        "Cover", "Title", "Author", "Published", "Type", "Genre", "Status", "Rating"
     ];
 
     let outputMarkdown = "\n";
 
-    for (const group of groupedBooks) {
-        let headerName = group.key;
-        let bookCount = group.rows.length;
+    for (const bookGroup of groupedBooks) {
+        let headerName = bookGroup.key;
+        let bookCount = bookGroup.rows.length;
         outputMarkdown += `### ${headerName} (${bookCount})\n\n`;
 
-        let groups = {};
-        for (const book of group.rows.array()) {
-            if (!groups[book.status]) {
-                groups[book.status] = [];
-            }
-            groups[book.status].push(book);
-        }
-
-        // Sort each group by title
-        for (const status in groups) {
-            groups[status].sort((a, b) => a.name.localeCompare(b.name));
-        }
-
-        // Concatenate the groups back together in the desired order
-        let sortedBooks = [];
-        for (const status of statusOrder) {
-            if (groups[status]) {
-                sortedBooks = sortedBooks.concat(groups[status]);
-            }
-        }
+        let sortedBookGroup = sortBooksByStatus(bookGroup, statusOrder);
 
         outputMarkdown += dv.markdownTable(
             tableHeaders,
             dv
-                .array(sortedBooks)
+                .array(sortedBookGroup)
                 .map((k) => [
                     dv.func.link(k.file.outlinks[0], "92"),
                     dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
                     k.author,
                     k.published,
+                    k.type,
                     k.genre,
                     k.status,
                     k.rating,
@@ -92,15 +103,11 @@ const writeOutputToFile = async (outputMarkdown, fileName, tp) => {
     await app.vault.modify(filePointer, modifiedData);
 }
 
-
-
-
-const bookIndexMain = async (sortOrder, fileName, tp) => {
+const bookIndexMain = async (bookFilterList, fileName, tp) => {
     let outputMarkdown = "";
 
-    let groupedBooks = bookGrouper(sortOrder);
+    let groupedBooks = groupBooksByYear(bookFilterList);
     outputMarkdown = bookIndexGenerator(groupedBooks);
-
     writeOutputToFile(outputMarkdown, fileName, tp);
 }
 

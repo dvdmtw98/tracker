@@ -1,6 +1,6 @@
 ---
 name: BLAME!
-author: Tsutomu Nihei
+author: Nihei Tsutomu
 published: 1997
 type: Manga
 genre:
@@ -10,8 +10,8 @@ genre:
   - Post-Apocalyptic
 rating: 🌕🌕🌕🌕🌗
 status: Completed
-date: 2024-03-17 09:32:58 -0500
-updated: 2024-07-21 23:28:12 -0500
+date: 2023-12-15 09:32:58 -0500
+updated: 2024-01-02 23:28:12 -0500
 ---
 
 ![[blame.jpg|300]]

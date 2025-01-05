@@ -94,7 +94,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
               <span class="content-meta-title">Status: </span>{frontMatter?.status}
             </p>
             <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
-              <span class="content-meta-title">Created: </span>{createdTimeStr}
+              <span class="content-meta-title">Date: </span>{createdTimeStr}
             </p>
             <p style={{ margin: '0' }} class={classNames(displayClass, "content-meta")}>
               <span class="content-meta-title">Modified: </span>{modifiedTimeStr}

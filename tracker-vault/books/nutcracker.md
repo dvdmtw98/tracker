@@ -8,9 +8,9 @@ genre:
   - Classics
   - Fantasy
   - Young Adult
-rating: 🌑🌑🌑🌑🌑
-status: Reading
-date: 1969-12-31 18:00:00 -0600
+rating: 🌕🌕🌕🌕🌑
+status: Completed
+date: 2024-12-31 18:00:00 -0600
 updated: 2024-12-24 13:27:52 -0600
 ---
 

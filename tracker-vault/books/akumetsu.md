@@ -9,8 +9,8 @@ genre:
   - Mystery
 rating: 🌕🌕🌕🌑🌑
 status: Completed
-date: 2024-03-17 09:52:17 -0500
-updated: 2024-06-16 16:54:21 -0500
+date: 2022-03-17 09:52:17 -0500
+updated: 2022-04-21 16:54:21 -0500
 ---
 
 ![[akumetsu.jpg|300]]

@@ -8,8 +8,8 @@ genre:
   - Horror
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-date: 2024-03-15 19:55:03 -0500
-updated: 2024-06-16 16:58:13 -0500
+date: 2022-12-10 19:55:03 -0500
+updated: 2023-01-08 16:58:13 -0500
 ---
 
 ![[the-sandman.jpg|300]]

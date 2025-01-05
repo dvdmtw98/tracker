@@ -6,7 +6,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2024-11-15 08:08:13 -0600
+updated: 2025-01-04 18:19:57 -0600
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -51,14 +51,12 @@ cssclasses:
 
 | No. | Name                                                                                                           | Author                      | Published | Genre                                         | Pages |
 | :-- | :------------------------------------------------------------------------------------------------------------- | :-------------------------- | :-------- | :-------------------------------------------- | :---- |
-|     | [A Christmas Carol](https://www.goodreads.com/book/show/5326.A_Christmas_Carol)                                | Charles Dickens             | 1843      | • Fantasy<br>• Historical                     | 184   |
 |     | [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)                                          | John Steinbeck              | 1952      | • Historical<br>• American                    | 601   |
 |     | [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon)                         | Daniel Keyes                | 1966      | • Sci-Fi<br>• Philosophy                      | 311   |
 |     | [Frankenstein](https://www.goodreads.com/book/show/35031085-frankenstein)                                      | Mary Wollstonecraft Shelley | 1818      | • Sci-Fi<br>• Fantasy<br>• Gothic             | 260   |
 |     | [Of Mice and Men](https://www.goodreads.com/book/show/890.Of_Mice_and_Men)                                     | John Steinbeck              | 1937      | • Historical<br>• American                    | 107   |
 |     | [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)         | Gabriel García Márquez      | 1967      | • Magical<br>• Fantasy<br>• Spanish           | 417   |
 |     | [Pale Fire](https://www.goodreads.com/book/show/7805.Pale_Fire)                                                | Vladimir Nabokov            | 1962      | • Poetry<br>• Russian                         | 246   |
-|     | [Piranesi](https://www.goodreads.com/book/show/50202953-piranesi)                                              | Susanna Clarke              | 2020      | • Fantasy<br>• Magical<br>• Sci-Fi            | 272   |
 |     | [Slaughterhouse-Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five)                            | Kurt Vonnegut Jr.           | 1969      | • Sci-Fi<br>• Historical<br>• Fantasy         | 275   |
 |     | [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief)                                     | Markus Zusak                | 2005      | • Historical<br>• War<br>• YA                 | 592   |
 |     | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                      | Fyodor Dostoevsky           | 1880      | • Philosophy<br>• Russian                     | 796   |
@@ -79,7 +77,6 @@ cssclasses:
 |     | [Emma](https://www.goodreads.com/book/show/6969.Emma)                                                          | Jane Austen                 | 1815      | • Historical<br>• British<br>• Romance        | 474   |
 |     | [Giovanni's Room](https://www.goodreads.com/book/show/406235.Giovanni_s_Room)                                  | James Baldwin               | 1956      | • Romance<br>• American<br>• Classics         | 224   |
 |     | [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves)                                   | Mark Z. Danielewski         | 2000      | • Horror<br>• Fantasy<br>• Mystery            | 710   |
-|     | [I Who Have Never Known Men](https://www.goodreads.com/book/show/11996.I_Who_Have_Never_Known_Men)             | Jacqueline Harpman          | 1995      | • Sci-FI<br>• Dystopia<br>• Fantasy           | 208   |
 |     | [Jane Eyre](https://www.goodreads.com/book/show/10210.Jane_Eyre)                                               | Charlotte Brontë            | 1847      | • Gothic<br>• Historical<br>• Classics        | 532   |
 |     | [Rebecca](https://www.goodreads.com/book/show/17899948-rebecca)                                                | Daphne du Maurier           | 1938      | • Mystery<br>• Gothic<br>• Thriller           | 449   |
 |     | [Sherlock Holmes: The Ultimate Collection](https://www.goodreads.com/book/show/18674889-sherlock-holmes)       | Arthur Conan Doyle          | 1905      | • Mystery<br>• Crime<br>• Detective           | 2631  |
@@ -106,7 +103,6 @@ cssclasses:
 |     | [Blade of the Immortal](https://myanimelist.net/manga/658/Mugen_no_Juunin)                                           | Hiroaki Samura    | 1993      | • Action<br>• Adventure<br>• Supernatural     | 207      |
 |     | [Blood on the Tracks](https://myanimelist.net/manga/104271/Chi_no_Wadachi)                                           | Shuuzou Oshimi    | 2017      | • Drama<br>• Suspense                         | 153      |
 |     | [Claymore](https://myanimelist.net/manga/583/Claymore)                                                               | Norihiro Yagi     | 2001      | • Action<br>• Adventure<br>• Fantasy          | 159      |
-|     | [Dandadan](https://myanimelist.net/manga/135496/Dandadan)                                                            | Yukinobu Tatsu    | 2021      | • Action<br>• Supernatural<br>• Comedy        | 163*     |
 |     | [Girls' Last Tour](https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou)                                      | Tsukumizu         | 2014      | • Adventure<br>• Dystopian<br>• Slice of Life | 47       |
 |     | [Golden Kamuy](https://myanimelist.net/manga/85968/Golden_Kamuy)                                                     | Satoru Noda       | 2014      | • Action<br>• Adventure                       | 314      |
 |     | [Goodnight Punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)                                                | Inio Asano        | 2007      | • Drama<br>• Slice of Life<br>• Psychological | 147      |
@@ -125,7 +121,6 @@ cssclasses:
 | :-- | :------------------------------------------------------------ | :--------- | :-------- | :-------------------------------------- | :------- |
 |     | [Bastard](https://myanimelist.net/manga/111213/Bastard)       | Carnby Kim | 2014      | • Drama<br>• Mystery<br>• Horror        | 94       |
 |     | [Hellper](https://myanimelist.net/manga/61583/Hellper)        | Sakk       | 2011      | • Action<br>• Fantasy<br>• Supernatural | 188      |
-|     | [Sweet Home](https://myanimelist.net/manga/124845/Sweet_Home) | Carnby Kim | 2017      | • Action<br>• Horror<br>• Suspense      | 141      |
 
 ### Comic
 

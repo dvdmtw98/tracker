@@ -10,8 +10,8 @@ genre:
   - Drama
 rating: 🌕🌕🌕🌑🌑
 status: Completed
-date: 2024-03-17 09:58:20 -0500
-updated: 2024-06-16 16:56:37 -0500
+date: 2023-07-17 09:58:20 -0500
+updated: 2023-08-23 16:56:37 -0500
 ---
 
 ![[homunculus.jpg|300]]

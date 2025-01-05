@@ -7,9 +7,10 @@ type: Non-Fiction
 genre:
   - Technology
   - Science
+  - Computer Science
 rating: 🌕🌕🌕🌑🌑
 status: Completed
-date: 2024-03-16 17:57:04 -0500
+date: 2021-03-16 17:57:04 -0500
 updated: 2024-06-16 16:57:34 -0500
 ---
 
