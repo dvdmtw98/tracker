@@ -8,7 +8,7 @@ genre:
   - Technology
   - History
   - True-Crime
-rating: 🌕🌕🌕🌕🌗
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-03-15 19:00:03 -0500
 updated: 2024-06-16 16:55:54 -0500

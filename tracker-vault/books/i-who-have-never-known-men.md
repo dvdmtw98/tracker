@@ -7,8 +7,8 @@ genre:
   - Science Fiction
   - Dystopian
   - Literary Fiction
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2025-01-04 18:06:00 -0600
 updated: 2025-01-04 18:06:51 -0600
 ---

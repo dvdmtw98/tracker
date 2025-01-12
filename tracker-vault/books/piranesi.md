@@ -7,7 +7,7 @@ genre:
   - Fantasy
   - Magical Realism
   - Mystery
-rating: 🌕🌕🌕🌕🌕
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-01-02 10:00:00 -0600
 updated: 2025-01-02 10:01:35 -0600

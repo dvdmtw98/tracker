@@ -6,7 +6,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-01-04 18:19:57 -0600
+updated: 2025-01-10 14:04:01 -0600
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -33,7 +33,6 @@ cssclasses:
 |     | [Razorblade Tears](https://www.goodreads.com/book/show/54860585-razorblade-tears)                                  | S.A. Cosby                 | 2021      | • Thriller<br>• Mystery<br>• Crime       | 336   |
 |     | [Small Gods](https://www.goodreads.com/book/show/34484.Small_Gods)                                                 | Terry Pratchett            | 1992      | • Fantasy<br>• Comedy<br>• Sci-Fi        | 389   |
 |     | [The Poppy War](https://www.goodreads.com/book/show/35068705-the-poppy-war) (1/3)                                  | R.F. Kuang                 | 2018      | • Fantasy<br>• Historical                | 545   |
-|     | [Empire of the Vampire](https://www.goodreads.com/book/show/56269205) (1/2)                                        | Jay Kristoff               | 2021      | • Fantasy<br>• Horror<br>• Supernatural  | 739   |
 |     | [Parable of the Sower](https://www.goodreads.com/book/show/52397.Parable_of_the_Sower) (1/2)                       | Octavia E. Butler          | 1993      | • Sci-Fi<br>• Dystopia<br>• Fantasy      | 345   |
 |     | [The Girl Next Door](https://www.goodreads.com/book/show/179735.The_Girl_Next_Door)                                | Jack Ketchum               | 1989      | • Horror<br>• Thriller<br>• Mystery      | 370   |
 |     | [Senlin Ascends](https://www.goodreads.com/book/show/35271523-senlin-ascends) (1/4)                                | Josiah Bancroft            | 2013      | • Fantasy<br>• Adventure                 | 448   |
@@ -74,7 +73,6 @@ cssclasses:
 |     | [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West) | Cormac McCarthy             | 1985      | • Historical<br>• American<br>• Horror        | 351   |
 |     | [Moby-Dick](https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale)                                 | Herman Melville             | 1851      | • Adventure<br>• American<br>• Classics       | 720   |
 |     | [Dracula](https://www.goodreads.com/book/show/17245.Dracula)                                                   | Bram Stoker                 | 1897      | • Horror<br>• Fantasy<br>• Gothic             | 488   |
-|     | [Emma](https://www.goodreads.com/book/show/6969.Emma)                                                          | Jane Austen                 | 1815      | • Historical<br>• British<br>• Romance        | 474   |
 |     | [Giovanni's Room](https://www.goodreads.com/book/show/406235.Giovanni_s_Room)                                  | James Baldwin               | 1956      | • Romance<br>• American<br>• Classics         | 224   |
 |     | [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves)                                   | Mark Z. Danielewski         | 2000      | • Horror<br>• Fantasy<br>• Mystery            | 710   |
 |     | [Jane Eyre](https://www.goodreads.com/book/show/10210.Jane_Eyre)                                               | Charlotte Brontë            | 1847      | • Gothic<br>• Historical<br>• Classics        | 532   |
