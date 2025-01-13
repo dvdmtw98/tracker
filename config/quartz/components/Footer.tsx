@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          © 2014-{year} David Varghese. All rights reserved.
+          © 2024-{year} David Varghese. All rights reserved.<br />
           {" "}{i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noreferrer noopener">
             Quartz v{version}
