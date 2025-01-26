@@ -6,10 +6,9 @@ type: Fiction
 genre:
   - Classics
   - Romance
-  - Satire
   - Historical
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2025-01-09 19:00:00 -0600
 updated: 2025-01-11 12:45:54 -0600
 ---

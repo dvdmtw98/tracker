@@ -6,7 +6,7 @@ tags:
   - book
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-01-16 13:35:04 -0600
+updated: 2025-01-19 21:07:26 -0600
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -35,7 +35,6 @@ cssclasses:
 |     | [The Poppy War](https://www.goodreads.com/book/show/35068705-the-poppy-war) (1/3)                                  | R.F. Kuang                 | 2018      | • Fantasy<br>• Historical                | 545   |
 |     | [Parable of the Sower](https://www.goodreads.com/book/show/52397.Parable_of_the_Sower) (1/2)                       | Octavia E. Butler          | 1993      | • Sci-Fi<br>• Dystopia<br>• Fantasy      | 345   |
 |     | [The Girl Next Door](https://www.goodreads.com/book/show/179735.The_Girl_Next_Door)                                | Jack Ketchum               | 1989      | • Horror<br>• Thriller<br>• Mystery      | 370   |
-|     | [Senlin Ascends](https://www.goodreads.com/book/show/35271523-senlin-ascends) (1/4)                                | Josiah Bancroft            | 2013      | • Fantasy<br>• Adventure                 | 448   |
 |     | [The Tainted Cup](https://www.goodreads.com/book/show/150247395-the-tainted-cup) (1/3)                             | Robert Jackson Bennett<br> | 2024      | • Fantasy<br>• Mystery<br>• Thriller     | 413   |
 |     | [The Blacktongue Thief](https://www.goodreads.com/book/show/55077697-the-blacktongue-thief)                        | Christopher Buehlman       | 2021      | • Fantasy<br>• Horror<br>• Adventure     | 416   |
 |     | [The Burning Girls](https://www.goodreads.com/book/show/53387949-the-burning-girls)                                | C.J. Tudor                 | 2021      | • Horror<br>• Thriller<br>• Mystery      | 333   |

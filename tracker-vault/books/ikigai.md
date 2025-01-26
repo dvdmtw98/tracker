@@ -8,7 +8,7 @@ genre:
   - Self Help
   - Health
   - Psychology
-rating: 🌕🌕🌕🌗🌑
+rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2023-03-16 16:54:48 -0500
 updated: 2024-07-14 19:06:10 -0500

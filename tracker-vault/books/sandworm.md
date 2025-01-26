@@ -8,7 +8,7 @@ genre:
   - Technology
   - True-Crime
   - Politics
-rating: 🌕🌕🌕🌕🌗
+rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-07-08 23:18:34 -0500
 updated: 2024-07-08 23:22:04 -0500

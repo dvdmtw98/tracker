@@ -8,7 +8,7 @@ genre:
   - Thriller
   - Mystery
   - Suspense
-rating: 🌕🌕🌕🌕🌑
+rating: 🌕🌕🌕🌗🌑
 status: Completed
 date: 2024-11-05 17:25:53 -0600
 updated: 2024-11-05 17:29:11 -0600

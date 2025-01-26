@@ -5,9 +5,9 @@ published: 2022
 type: Fiction
 genre:
   - Fantasy
-  - Novella
-  - Historical
-rating: 🌕🌕🌕🌗🌑
+  - Mystery
+  - Short Story
+rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2025-01-09 17:45:00 -0600
 updated: 2025-01-09 17:46:36 -0600
