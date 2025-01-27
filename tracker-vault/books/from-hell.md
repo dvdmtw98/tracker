@@ -7,10 +7,10 @@ genre:
   - Crime
   - Historical
   - Mystery
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌑
+status: Completed
 date: 2024-08-01 21:20:40 -0500
-updated: 2024-08-01 21:22:13 -0500
+updated: 2025-01-26 11:23:26 -0600
 ---
 
 ![[from-hell.jpg|300]]

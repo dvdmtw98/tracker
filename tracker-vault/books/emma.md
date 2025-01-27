@@ -7,6 +7,7 @@ genre:
   - Classics
   - Romance
   - Historical
+  - Satire
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2025-01-09 19:00:00 -0600
