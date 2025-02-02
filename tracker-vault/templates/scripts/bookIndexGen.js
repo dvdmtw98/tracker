@@ -1,23 +1,11 @@
 const dv = app.plugins.plugins["dataview"].api;
 
-const bookTypeFilter = (bookTypeList) => {
-    let filterExpression = bookTypeList.map(
-        (bookType) => `p.type === "${bookType}"`
-    ).join(" || ");
-
-    return `p => ${filterExpression}`;
-};
-
 // arrayName.array: Convert DV array to JS array
 // dv.array(arrayName): Convert JS array to DV array
 
-const groupBooksByYear = (bookFilterList) => {
-    // Filter books by type
-    let filteredBooks = dv.pages('"books"')
-        .where(eval(bookTypeFilter(bookFilterList)));
-
+const groupBooksByYear = (bookDirectory) => {
     // Group books by year added
-    let groupedBooks = filteredBooks.groupBy((p) => {
+    let groupedBooks = dv.pages(bookDirectory).groupBy((p) => {
         return new Date(p.date).getFullYear();
     });
 
@@ -59,7 +47,7 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
 const bookIndexGenerator = (groupedBooks) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
     const tableHeaders = [
-        "Cover", "Title", "Author", "Published", "Type", "Genre", "Status", "Rating"
+        "Cover", "Title", "Author", "Type", "Pages", "Genre", "Status", "Rating"
     ];
 
     let outputMarkdown = "\n";
@@ -79,8 +67,8 @@ const bookIndexGenerator = (groupedBooks) => {
                     dv.func.link(k.file.outlinks[0], "92"),
                     dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
                     k.author,
-                    k.published,
                     k.type,
+                    k.pages ? `${k.pages} pages`: `${k.chapters} chapter(s)`,
                     k.genre,
                     k.status,
                     k.rating,
@@ -103,10 +91,10 @@ const writeOutputToFile = async (outputMarkdown, fileName, tp) => {
     await app.vault.modify(filePointer, modifiedData);
 }
 
-const bookIndexMain = async (bookFilterList, fileName, tp) => {
+const bookIndexMain = async (fileName, tp, bookDirectory) => {
     let outputMarkdown = "";
 
-    let groupedBooks = groupBooksByYear(bookFilterList);
+    let groupedBooks = groupBooksByYear(bookDirectory);
     outputMarkdown = bookIndexGenerator(groupedBooks);
     writeOutputToFile(outputMarkdown, fileName, tp);
 }

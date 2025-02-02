@@ -1,9 +1,9 @@
 <%*
 tp.user.bookIndexGen(
-	["Fiction", "Non-Fiction", "Textbook"], "book-tracker", tp
+	"book-tracker", tp, '"library/books"'
 );
 
 tp.user.bookIndexGen(
-	["Manga", "Manhwa", "Comic"], "comic-tracker", tp
+	"comic-tracker", tp, '"library/comics"'
 );
 -%>

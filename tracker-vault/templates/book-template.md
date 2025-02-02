@@ -1,15 +1,25 @@
 <%*
 const modalForm = app.plugins.plugins.modalforms.api;
 
+// Get values from Form
 const result = await modalForm.openForm('book-form');
-await tp.file.rename(result.getValue('file-name').value);
 
+const bookTypes = ["Fiction", "Non-Fiction", "Textbook"];
+const fileName = result.getValue('file-name').value;
+const bookType = result.getValue('type').value;
+
+// Move and rename file
+const filePath = bookTypes.includes(bookType) ? `library/books/${fileName}` : `library/comics/${fileName}`;
+await tp.file.move(filePath);
+
+// Check if book has an alternative name
 let altName = result.getValue('altname').value;
 const altNameOg = result.getValue('altname').value;
 if (!altNameOg) {
 	altName = result.getValue('name').value;
 }
 
+// Find image with the correct file extension
 const imageExtensions = [".jpg", ".png"]
 const imageName = result.getValue('cover-image').value;
 let imageFilename = "";
@@ -46,11 +56,11 @@ tp.hooks.on_all_templates_executed(async () => {
 	await new Promise(r => setTimeout(r, 2000));
 	
 	tp.user.bookIndexGen(
-		["Fiction", "Non-Fiction", "Textbook"], "book-tracker", tp
+		"book-tracker", tp, '"library/books"'
 	);
 	
 	tp.user.bookIndexGen(
-		["Manga", "Manhwa", "Comic"], "comic-tracker", tp
+		"comic-tracker", tp, '"library/comics"'
 	);
 });
 -%>
