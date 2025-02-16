@@ -38,7 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         Component.MobileOnly(Component.Spacer()),
         Component.Search(),
         Component.Darkmode(),
-        Component.DesktopOnly(Component.Explorer({ mapFn: textTransformNode }))
+        Component.Explorer({ mapFn: textTransformNode })
     ],
     right: [
         Component.TableOfContents(),
@@ -50,8 +50,8 @@ export const defaultContentPageLayout: PageLayout = {
 
             },
             globalGraph: {
-                linkDistance: 80,
-                fontSize: 0.6,
+                linkDistance: 100,
+                fontSize: 0.5,
                 showTags: false
             }
         })
@@ -70,7 +70,7 @@ export const defaultListPageLayout: PageLayout = {
         Component.MobileOnly(Component.Spacer()),
         Component.Search(),
         Component.Darkmode(),
-        Component.DesktopOnly(Component.Explorer({ mapFn: textTransformNode })),
+        Component.Explorer({ mapFn: textTransformNode }),
     ],
     right: [],
 }

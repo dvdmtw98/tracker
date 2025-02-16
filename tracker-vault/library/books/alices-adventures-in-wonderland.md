@@ -10,7 +10,7 @@ genre:
   - Young Adult
   - Classics
 pages: 292
-rating: 🌕🌕🌕🌗🌑
+rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-08-14 18:53:14 -0500
 updated: 2024-08-18 17:20:05 -0500

@@ -8,7 +8,7 @@ genre:
   - Thriller
   - Mystery
   - Suspense
-pages: -1
+pages: 0
 rating: 🌕🌕🌕🌗🌑
 status: Completed
 date: 2024-11-05 17:25:53 -0600

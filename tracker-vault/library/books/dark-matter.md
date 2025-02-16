@@ -8,7 +8,7 @@ genre:
   - Thriller
   - Fantasy
 pages: 358
-rating: 🌕🌕🌕🌗🌑
+rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2023-03-16 18:01:27 -0500
 updated: 2024-06-16 16:56:00 -0500
