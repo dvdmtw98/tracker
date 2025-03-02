@@ -18,7 +18,7 @@ export default ((opts?: Options) => {
           {" "}{i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noreferrer noopener">
             Quartz v{version}
-          </a>
+          </a>.
         </p>
 
         <ul>

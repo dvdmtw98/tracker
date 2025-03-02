@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Track It All
 description: My personal tool for keeping track of the books, movies, and shows I’m currently enjoying.
 tags:
   - book
