@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-03-04 15:58:24 -0600
+updated: 2025-03-12 16:06:15 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -17,7 +17,6 @@ cssclasses:
 
 | No. | Name                                                                                                                | Author                     | Published | Genre                                          | Pages |
 | :-- | :------------------------------------------------------------------------------------------------------------------ | :------------------------- | :-------- | :--------------------------------------------- | :---- |
-|     | [Between Two Fires](https://www.goodreads.com/book/show/13543121-between-two-fires)                                 | Christopher Buehlman       | 2012      | • Fantasy<br>• Horror<br>• Medieval            | 432   |
 |     | [Blood Over Bright Haven](https://www.goodreads.com/book/show/57915993-blood-over-bright-haven)                     | M.L. Wang                  | 2023      | • Fantasy<br>• Sci-Fi<br>• Academia            | 527   |
 |     | [Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)                                                | David Mitchell             | 2004      | • Sci-Fi<br>• Fantasy<br>• Dystopia            | 509   |
 |     | [Kindred](https://www.goodreads.com/book/show/60931.Kindred)                                                        | Octavia E. Butler          | 1979      | • Sci-Fi<br>• Fantasy<br>• Historical          | 288   |

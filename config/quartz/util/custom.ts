@@ -1,4 +1,4 @@
-import { Options } from "../components/ExplorerNode";
+import { Options } from "../components/Explorer";
 
 const textTransform = (displayName: string) => {
 
@@ -21,9 +21,9 @@ const textTransform = (displayName: string) => {
 
 const textTransformNode: Options["mapFn"] = (node) => {
 
-    if (node.file === null) {
-        node.displayName = textTransform(node.displayName);
-    }
+    // if (node.isFolder === true) {
+    //     node.displayName = textTransform(node.displayName);
+    // }
 
     return node.displayName;
 }

@@ -17,7 +17,7 @@ export default ((opts?: Options) => {
           © {year} David Varghese. All rights reserved.{" "}
           <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noreferrer noopener">
             Quartz v{version}
-          </a>.
+          </a>
         </p>
 
         <ul>

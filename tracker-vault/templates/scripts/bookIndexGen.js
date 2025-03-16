@@ -68,7 +68,7 @@ const bookIndexGenerator = (groupedBooks) => {
                     dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
                     k.author,
                     k.type,
-                    k.pages ? `${k.pages} pages`: `${k.chapters} chapter(s)`,
+                    k.pages.toString() ? `${k.pages} pages`: `${k.chapters} chapter(s)`,
                     k.genre,
                     k.status,
                     k.rating,

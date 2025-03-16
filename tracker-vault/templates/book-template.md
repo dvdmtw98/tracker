@@ -42,6 +42,11 @@ published: <% result.getValue('published') %>
 type: <% result.getValue('type') %>
 genre: 
 <% result.getValue('genre').bullets %>
+<%* if (bookTypes.contains(bookType)) { -%>
+pages: <% result.getValue('pages') %>
+<%* } else { -%>
+volumes: <% result.getValue('pages') %>
+<%* } -%>
 rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
