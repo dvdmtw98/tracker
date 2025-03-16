@@ -1,32 +1,38 @@
 import { Options } from "../components/Explorer";
 
-const textTransform = (displayName: string) => {
-
+const customTextTransform = (displayName: string) => {
     const filterWords = ["and", "of", "a", "in", "on", "the", "for", "to"];
 
-    if (displayName.includes("-") || !displayName.includes(" ")) {
-        const words = displayName.split("-");
+    // Split on space and hyphen
+    const words = displayName.split(/[-\s]+/);
+
+    const titleCaseWords = words.map((word, index) => {
+        if (filterWords.includes(word) && index !== 0) {
+            return word
+        }
+        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+    });
+    return titleCaseWords.join(" ");
+}
+
+const textTransformNode: Options["mapFn"] = (node) => {
+    if (node.isFolder === true) {
+        const filterWords = ["and", "of", "a", "in", "on", "the", "for", "to"];
+
+        // Split on space and hyphen
+        const words = node.displayName.split(/[-\s]+/);
+
         const titleCaseWords = words.map((word, index) => {
             if (filterWords.includes(word) && index !== 0) {
                 return word
             }
             return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
         });
-        const result = titleCaseWords.join(" ");
-        displayName = result;
+        node.displayName = titleCaseWords.join(" ");
     }
 
-    return displayName;
-}
-
-const textTransformNode: Options["mapFn"] = (node) => {
-
-    // if (node.isFolder === true) {
-    //     node.displayName = textTransform(node.displayName);
-    // }
-
-    return node.displayName;
+    return node;
 }
 
 
-export { textTransformNode, textTransform }
+export { textTransformNode, customTextTransform }

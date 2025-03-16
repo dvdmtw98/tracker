@@ -3,7 +3,7 @@ import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, joinSegments, resolveRelative } from "../util/path"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
-import { textTransform } from "../util/custom"
+import { customTextTransform } from "../util/custom"
 
 type CrumbData = {
   displayName: string
@@ -43,7 +43,7 @@ const defaultOptions: BreadcrumbOptions = {
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
   return {
-    displayName: textTransform(displayName),
+    displayName: customTextTransform(displayName),
     path: resolveRelative(baseSlug, currentSlug),
   }
 }
@@ -95,7 +95,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         // Try to resolve frontmatter folder title
         const currentFile = folderIndex?.get(slugParts.slice(0, i + 1).join("/"))
         if (currentFile) {
-          const title = textTransform(currentFile.frontmatter!.title)
+          const title = customTextTransform(currentFile.frontmatter!.title)
           if (title !== "index") {
             curPathSegment = title
           }
@@ -117,7 +117,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       // Add current file to crumb (can directly use frontmatter title)
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
-          displayName: textTransform(fileData.frontmatter!.title),
+          displayName: customTextTransform(fileData.frontmatter!.title),
           path: "",
         })
       }
