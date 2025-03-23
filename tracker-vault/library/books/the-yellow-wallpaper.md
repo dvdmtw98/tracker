@@ -8,7 +8,7 @@ genre:
   - Horror
   - Gothic
 pages: 29
-rating: 🌕🌕🌕🌕🌑
+rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-11-14 15:57:55 -0600
 updated: 2024-11-14 16:03:01 -0600

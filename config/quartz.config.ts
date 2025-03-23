@@ -16,10 +16,10 @@ const config: QuartzConfig = {
         locale: "en-US",
         baseUrl: "tracker.davidvarghese.net",
         ignorePatterns: ["private", "templates", ".obsidian"],
-        defaultDateType: "created",
+        defaultDateType: "modified",
         theme: {
             fontOrigin: "googleFonts",
-            cdnCaching: true,
+            cdnCaching: false,
             typography: {
                 header: "Geist",
                 body: "Inter",
@@ -55,7 +55,7 @@ const config: QuartzConfig = {
         transformers: [
             Plugin.FrontMatter(),
             Plugin.CreatedModifiedDate({
-                priority: ["frontmatter", "filesystem"],
+                priority: ["frontmatter", "git", "filesystem"],
             }),
             Plugin.SyntaxHighlighting({
                 theme: {

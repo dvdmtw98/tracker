@@ -68,7 +68,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const gitHistoryBasePath = options?.repoLink.replace("github.com", "github.githistory.xyz")
       const historyViewUrl = `${gitHistoryBasePath}/commits/${options?.branch}/${sourcefilePath!}`
 
-      if (fileData.relativePath?.startsWith("books/")) {
+      if (fileData.relativePath?.startsWith("library/")) {
         const frontMatter = fileData.frontmatter
 
         return (

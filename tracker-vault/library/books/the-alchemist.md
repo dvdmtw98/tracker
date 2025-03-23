@@ -8,7 +8,7 @@ genre:
   - Adventure
   - Classics
 pages: 125
-rating: 🌕🌕🌕🌕🌕
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2020-03-16 21:36:34 -0500
 updated: 2024-06-16 16:57:29 -0500

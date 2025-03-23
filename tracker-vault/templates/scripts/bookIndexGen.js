@@ -44,10 +44,10 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
 }
 
 
-const bookIndexGenerator = (groupedBooks) => {
+const bookIndexGenerator = (groupedBooks, bookTypes) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
     const tableHeaders = [
-        "Cover", "Title", "Author", "Type", "Pages", "Genre", "Status", "Rating"
+        "Cover", "Title", "Author", "Published", "Pages", "Genre", "Status", "Rating"
     ];
 
     let outputMarkdown = "\n";
@@ -63,16 +63,30 @@ const bookIndexGenerator = (groupedBooks) => {
             tableHeaders,
             dv
                 .array(sortedBookGroup)
-                .map((k) => [
-                    dv.func.link(k.file.outlinks[0], "92"),
-                    dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
-                    k.author,
-                    k.type,
-                    k.pages.toString() ? `${k.pages} pages`: `${k.chapters} chapter(s)`,
-                    k.genre,
-                    k.status,
-                    k.rating,
-                ])
+                .map((k) => {
+                    let bookProperties = [];
+
+                    bookProperties.push(
+                        dv.func.link(k.file.outlinks[0], "92"),
+                        dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
+                        k.author,
+                        k.published
+                    )
+
+                    if (bookTypes.contains(k.type)) {
+                        bookProperties.push(k.pages !== null ? `${k.pages} pages` : `0 pages`);
+                    } else {
+                        bookProperties.push(k.chapters !== null ? `${k.chapters} chapter(s)` : `0 chapter(s)`);
+                    }
+
+                    bookProperties.push(
+                        k.genre,
+                        k.status,
+                        k.rating
+                    )
+
+                    return bookProperties;
+                })
         );
         outputMarkdown += "\n";
     }
@@ -93,9 +107,10 @@ const writeOutputToFile = async (outputMarkdown, fileName, tp) => {
 
 const bookIndexMain = async (fileName, tp, bookDirectory) => {
     let outputMarkdown = "";
+    const bookTypes = ["Fiction", "Non-Fiction", "Textbook"];
 
     let groupedBooks = groupBooksByYear(bookDirectory);
-    outputMarkdown = bookIndexGenerator(groupedBooks);
+    outputMarkdown = bookIndexGenerator(groupedBooks, bookTypes);
     writeOutputToFile(outputMarkdown, fileName, tp);
 }
 

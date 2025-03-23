@@ -9,7 +9,7 @@ genre:
   - Historical
   - Satire
 pages: 459
-rating: 🌕🌕🌕🌕🌕
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-01-09 19:00:00 -0600
 updated: 2025-01-26 23:36:53 -0600

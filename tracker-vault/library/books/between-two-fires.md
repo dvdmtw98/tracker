@@ -8,8 +8,8 @@ genre:
   - Fantasy
   - Historical
 pages: 371
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2025-03-12 16:05:54 -0500
 updated: 2025-03-12 16:08:04 -0500
 ---

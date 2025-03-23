@@ -9,7 +9,7 @@ genre:
   - Crime
   - Adventure
 pages: 468
-rating: 🌕🌕🌕🌕🌑
+rating: 🌕🌕🌕🌗🌑
 status: Completed
 date: 2019-03-16 21:28:37 -0500
 updated: 2024-06-16 16:54:39 -0500

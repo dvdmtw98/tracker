@@ -8,7 +8,7 @@ genre:
   - Fantasy
   - Classics
 pages: 216
-rating: 🌕🌕🌕🌗🌑
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2023-03-16 18:49:42 -0500
 updated: 2024-06-16 16:56:10 -0500
