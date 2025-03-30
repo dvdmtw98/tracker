@@ -1,5 +1,5 @@
 ---
-title: Track It All
+title: Media Tracker
 description: My personal tool for keeping track of the books, movies, and shows I’m currently enjoying.
 tags:
   - book

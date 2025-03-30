@@ -9,8 +9,8 @@ genre:
   - Time Travel
   - Historical
 pages: 313
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2025-03-20 00:07:03 -0500
 updated: 2025-03-20 00:07:36 -0500
 ---
