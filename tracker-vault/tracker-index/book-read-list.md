@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-03-12 16:06:15 -0500
+updated: 2025-04-12 09:28:29 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -19,7 +19,6 @@ cssclasses:
 | :-- | :------------------------------------------------------------------------------------------------------------------ | :------------------------- | :-------- | :--------------------------------------------- | :---- |
 |     | [Blood Over Bright Haven](https://www.goodreads.com/book/show/57915993-blood-over-bright-haven)                     | M.L. Wang                  | 2023      | • Fantasy<br>• Sci-Fi<br>• Academia            | 527   |
 |     | [Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)                                                | David Mitchell             | 2004      | • Sci-Fi<br>• Fantasy<br>• Dystopia            | 509   |
-|     | [Kindred](https://www.goodreads.com/book/show/60931.Kindred)                                                        | Octavia E. Butler          | 1979      | • Sci-Fi<br>• Fantasy<br>• Historical          | 288   |
 |     | [Perfume](https://www.goodreads.com/book/show/343.Perfume)                                                          | Patrick Süskind            | 1985      | • Horror<br>• Thriller<br>• Mystery            | 263   |
 |     | [Sharp Objects](https://www.goodreads.com/book/show/18045891-sharp-objects)                                         | Gillian Flynn              | 2006      | • Mystery<br>• Thriller<br>• Crime             | 254   |
 |     | [We Have Always Lived in the Castle](https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle)  | Shirley Jackson            | 1962      | • Horror<br>• Thriller<br>• Mystery            | 146   |

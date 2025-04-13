@@ -8,7 +8,7 @@ genre:
   - Mystery
   - Short Story
 pages: 25
-rating: 🌕🌕🌕🌗🌑
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-01-09 17:45:00 -0600
 updated: 2025-01-09 17:46:36 -0600

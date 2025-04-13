@@ -45,7 +45,7 @@ genre:
 <%* if (bookTypes.contains(bookType)) { -%>
 pages: <% result.getValue('pages') %>
 <%* } else { -%>
-volumes: <% result.getValue('pages') %>
+chapters: <% result.getValue('pages') %>
 <%* } -%>
 rating: 🌑🌑🌑🌑🌑
 status: Reading

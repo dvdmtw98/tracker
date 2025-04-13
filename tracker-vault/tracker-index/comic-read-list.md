@@ -5,7 +5,7 @@ tags:
   - list
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-03-04 11:29:00 -0600
+updated: 2025-04-12 09:29:38 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -26,7 +26,6 @@ cssclasses:
 |     | [Goodnight Punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)                                                | Inio Asano        | 2007      | • Drama<br>• Slice of Life<br>• Psychological | 147      |
 |     | [Gyo: The Death-Stench Creeps](https://myanimelist.net/manga/909/Gyo__Ugomeku_Bukimi)                                | Junji Itou        | 2001      | • Horror<br>• Mystery<br>• Psychological      | 21       |
 |     | [Kowloon Generic Romance](https://myanimelist.net/manga/122863/Kowloon_Generic_Romance)                              | Jun Mayuzuki      | 2019      | • Sci-Fi<br>• Romance<br>• Slice of Life      | 67*      |
-|     | [Memories of Emanon](https://myanimelist.net/manga/17465/Omoide_Emanon)                                              | Kenji Tsuruta     | 2006      | • Drama<br>• Sci-Fi                           | 9        |
 |     | [My Dearest Self With Malice Aforethought](https://myanimelist.net/manga/115746/Shinai_naru_Boku_e_Satsui_wo_Komete) | Hajime Inoryuu    | 2018      | • Mystery<br>• Suspense<br>• Psychological    | 98       |
 |     | [Spirit Circle](https://myanimelist.net/manga/38071/Spirit_Circle)                                                   | Satoshi Mizukami  | 2012      | • Action<br>• Adventure<br>• Supernatural     | 45       |
 |     | [The Climber](https://myanimelist.net/manga/7375/Kokou_no_Hito)                                                      | Shinichi Sakamoto | 2007      | • Drama<br>• Psychological                    | 170      |

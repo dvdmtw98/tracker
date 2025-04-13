@@ -1,6 +1,6 @@
 ---
 name: Bibliomania
-author: Macchiro,  Oobaru
+author: Macchiro, Oobaru
 published: 2016
 type: Manga
 genre:
