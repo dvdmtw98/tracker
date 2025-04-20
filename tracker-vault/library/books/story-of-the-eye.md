@@ -5,8 +5,9 @@ published: 1928
 type: Fiction
 genre:
   - Erotica
-  - Philosophy
-  - Horror
+  - Psychological
+  - Transgressive
+  - Avant-garde
 pages: 126
 rating: 🌕🌕🌕🌑🌑
 status: Completed

@@ -1,12 +1,12 @@
 ---
 name: Bibliomania
-author: Macchiro, Oobaru
+author: Oobaru, Macchiro
 published: 2016
 type: Manga
 genre:
   - Fantasy
-  - Horror
-  - Psychological
+  - Drama
+  - Mystery
   - Adventure
 chapters: 12
 rating: 🌕🌕🌕🌕🌕

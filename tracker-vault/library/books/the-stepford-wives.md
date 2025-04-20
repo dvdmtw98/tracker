@@ -4,13 +4,13 @@ author: Ira Levin
 published: 1972
 type: Fiction
 genre:
-  - Science Fiction
-  - Mystery
+  - Horror
   - Thriller
-  - Classics
+  - Dystopian
+  - Science Fiction
 pages: 106
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2025-04-12 09:25:21 -0500
 updated: 2025-04-12 09:25:21 -0500
 ---

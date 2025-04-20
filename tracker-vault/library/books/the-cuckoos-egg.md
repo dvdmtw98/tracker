@@ -5,9 +5,10 @@ author: Clifford Stroll
 published: 1989
 type: Non-Fiction
 genre:
-  - Technology
-  - History
-  - True-Crime
+  - Cybersecurity
+  - Thriller
+  - Investigative
+  - Mystery
 pages: 385
 rating: 🌕🌕🌕🌕🌑
 status: Completed

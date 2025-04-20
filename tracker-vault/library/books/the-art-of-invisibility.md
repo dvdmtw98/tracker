@@ -5,9 +5,10 @@ author: Kevin D. Mitnick
 published: 2017
 type: Non-Fiction
 genre:
+  - Cybersecurity
   - Technology
+  - Privacy
   - Science
-  - Computer Science
 pages: 282
 rating: 🌕🌕🌕🌑🌑
 status: Completed

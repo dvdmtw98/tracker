@@ -5,9 +5,9 @@ published: 2016
 type: Fiction
 genre:
   - Historical
-  - Political
-  - Drama
   - Literary Fiction
+  - Drama
+  - Philosophical
 pages: 426
 rating: 🌕🌕🌕🌕🌕
 status: Completed

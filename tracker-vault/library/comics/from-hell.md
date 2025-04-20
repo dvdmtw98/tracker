@@ -5,8 +5,9 @@ published: 1999
 type: Comic
 genre:
   - Crime
-  - Historical
   - Mystery
+  - Historical
+  - Thriller
 chapters: 16
 rating: 🌕🌕🌕🌕🌑
 status: Completed

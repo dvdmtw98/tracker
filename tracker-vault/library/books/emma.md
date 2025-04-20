@@ -4,10 +4,10 @@ author: Jane Austen
 published: 1815
 type: Fiction
 genre:
-  - Classics
-  - Romance
   - Historical
-  - Satire
+  - Classic
+  - Romance
+  - Comedy
 pages: 459
 rating: 🌕🌕🌕🌕🌑
 status: Completed

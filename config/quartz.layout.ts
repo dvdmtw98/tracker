@@ -41,12 +41,11 @@ export const defaultContentPageLayout: PageLayout = {
         Component.MobileOnly(Component.Spacer()),
         Component.Flex({
             components: [
-                {
-                    Component: Component.Search(),
-                    grow: true,
-                },
+                { Component: Component.Search() },
                 { Component: Component.Darkmode() },
+                { Component: Component.ReaderMode() }
             ],
+            gap: "1.5rem"
         }),
         Component.Explorer({ mapFn: textTransformNode })
     ],
@@ -82,12 +81,11 @@ export const defaultListPageLayout: PageLayout = {
         Component.MobileOnly(Component.Spacer()),
         Component.Flex({
             components: [
-                {
-                    Component: Component.Search(),
-                    grow: true,
-                },
+                { Component: Component.Search() },
                 { Component: Component.Darkmode() },
+                { Component: Component.ReaderMode() }
             ],
+            gap: "1.5rem"
         }),
         Component.Explorer({ mapFn: textTransformNode }),
     ],

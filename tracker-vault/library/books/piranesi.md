@@ -7,6 +7,7 @@ genre:
   - Fantasy
   - Magical Realism
   - Mystery
+  - Psychological
 pages: 178
 rating: 🌕🌕🌕🌕🌕
 status: Completed

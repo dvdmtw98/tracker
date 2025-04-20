@@ -6,8 +6,9 @@ published: 2017
 type: Non-Fiction
 genre:
   - Mythology
-  - Fantasy
-  - Historical
+  - Retelling
+  - History
+  - Adventure
 pages: 443
 rating: 🌕🌕🌕🌕🌑
 status: Completed

@@ -5,9 +5,9 @@ published: 1979
 type: Fiction
 genre:
   - Science Fiction
-  - Fantasy
-  - Time Travel
   - Historical
+  - Fantasy
+  - Drama
 pages: 313
 rating: 🌕🌕🌕🌕🌕
 status: Completed

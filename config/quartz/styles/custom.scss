@@ -3,7 +3,27 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-// Sidebar Components
+// Left Sidebar
+
+.search {
+  >.search-button {
+    background-color: transparent;
+    width: auto;
+    height: 0;
+
+    & svg {
+      margin: 0.2rem 0 0;
+    }
+  }
+}
+
+.readermode {
+  & svg {
+    fill: var(--darkgray);
+  }
+}
+
+// Right Sidebar
 
 .right.sidebar {
   @media all and ($desktop) {
@@ -139,12 +159,10 @@ a:hover .popover,
 
 .cards {
   :root[saved-theme="dark"] {
-    --cards-background-hover: #040404;
     --image-muted: 0.7;
   }
 
   :root[saved-theme="light"] {
-    --cards-background-hover: #dcdcdc;
     --image-muted: 1;
   }
 
@@ -155,8 +173,7 @@ a:hover .popover,
   --cards-columns: repeat(auto-fit, minmax(var(--cards-min-width), var(--cards-max-width)));
 
   --cards-background: transparent;
-  --cards-border: #282726;
-  --cards-border-hover: rgb(61, 69, 68);
+  --cards-border: var(--lightgray);
   --border-width: 1px;
 
   @media all and (max-width: 500px) {
@@ -219,16 +236,10 @@ a:hover .popover,
         max-width: var(--cards-max-width);
 
         &:hover {
-          background-color: var(--cards-background-hover);
-          border: 1px solid var(--cards-border-hover);
           box-shadow:
             0 4px 6px 0px rgba(0, 0, 0, 0.05),
             0 1px 3px 1px rgba(0, 0, 0, 0.025);
           transition: box-shadow 0.15s linear;
-
-          >td:not(:last-child) {
-            border-bottom: 1px solid var(--cards-border-hover);
-          }
         }
 
         >td {

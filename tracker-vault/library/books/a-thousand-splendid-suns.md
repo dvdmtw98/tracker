@@ -5,8 +5,8 @@ published: 2007
 type: Fiction
 genre:
   - Historical
-  - Drama
   - Literary Fiction
+  - Drama
   - Contemporary
 pages: 348
 rating: 🌕🌕🌕🌕🌕

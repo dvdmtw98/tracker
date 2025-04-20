@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-04-12 09:28:29 -0500
+updated: 2025-04-17 16:54:07 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -90,7 +90,6 @@ cssclasses:
 |     | [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood)                                           | Truman Capote        | 1959      | • Crime<br>• Mystery<br>• Thriller            | 343   |
 |     | [Number Go Up](https://www.goodreads.com/book/show/123276708-number-go-up)                                          | Zeke Faux            | 2023      | • Crime<br>• Technology<br>• Business         | 304   |
 |     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                             | Patrick Radden Keefe | 2018      | • Crime<br>• History<br>• Irish               | 441   |
-|     | [Tracers in the Dark](https://www.goodreads.com/book/show/60462182-tracers-in-the-dark)                             | Andy Greenberg       | 2022      | • Crime<br>• Technology<br>• Business         | 367   |
 |     | [Countdown to Zero Day](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)                         | Kim Zetter           | 2014      | • Technology<br>• Politics<br>• Espionage<br> | 406   |
 |     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                               | Neil Bradbury        | 2022      | • Crime<br>• Medicine<br>• Science            | 304   |
 |     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                                   | Alfred Lansing       | 1959      | • Travel<br>• Survival<br>• History           | 282   |

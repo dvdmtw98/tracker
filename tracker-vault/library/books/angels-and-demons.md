@@ -7,7 +7,7 @@ genre:
   - Mystery
   - Thriller
   - Crime
-  - Adventure
+  - Suspense
 pages: 468
 rating: 🌕🌕🌕🌗🌑
 status: Completed

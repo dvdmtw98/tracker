@@ -4,9 +4,10 @@ author: Blake Crouch
 published: 2016
 type: Fiction
 genre:
-  - Mystery
   - Thriller
-  - Fantasy
+  - Mystery
+  - Action
+  - Suspense
 pages: 358
 rating: 🌕🌕🌕🌗🌑
 status: Completed

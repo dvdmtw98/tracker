@@ -4,10 +4,10 @@ author: Charles Dickens
 published: 1843
 type: Fiction
 genre:
-  - Classics
+  - Classic
+  - Holiday
+  - Drama
   - Fantasy
-  - Young Adult
-  - Ghost
 pages: 121
 rating: 🌕🌕🌕🌕🌕
 status: Completed

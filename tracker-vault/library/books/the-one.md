@@ -5,8 +5,9 @@ published: 2016
 type: Fiction
 genre:
   - Thriller
+  - Psychological
   - Mystery
-  - Suspense
+  - Drama
 pages: 353
 rating: 🌕🌕🌕🌑🌑
 status: Completed

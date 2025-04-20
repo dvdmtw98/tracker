@@ -5,7 +5,8 @@ published: 2006
 type: Comic
 genre:
   - Mystery
-  - Adventure
+  - Fantasy
+  - Philosophical
   - Drama
 chapters: 9
 rating: 🌕🌕🌕🌕🌕

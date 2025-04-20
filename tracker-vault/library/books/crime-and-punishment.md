@@ -4,10 +4,10 @@ author: Fyodor Dostoevsky
 published: 1866
 type: Fiction
 genre:
-  - Crime
   - Physiological
-  - Classics
-  - Literary Fiction
+  - Philosophical
+  - Crime
+  - Drama
 pages: 558
 rating: 🌕🌕🌕🌑🌑
 status: Completed

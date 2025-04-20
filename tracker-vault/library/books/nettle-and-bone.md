@@ -6,7 +6,8 @@ type: Fiction
 genre:
   - Fantasy
   - Adventure
-  - Horror
+  - Fairy-tale
+  - Gothic
 pages: 282
 rating: 🌕🌕🌕🌑🌑
 status: Completed

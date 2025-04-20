@@ -1,12 +1,13 @@
 ---
 name: Happiness
-author: Shuzo Oshimi
+author: Shūzō Oshimi
 published: 2015
 type: Manga
 genre:
-  - Dark Fantasy
   - Supernatural
   - Drama
+  - Psychological
+  - Romance
 chapters: 50
 rating: 🌕🌕🌕🌑🌑
 status: Completed

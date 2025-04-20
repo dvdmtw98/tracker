@@ -4,9 +4,10 @@ author: Franz Kafka
 published: 1915
 type: Fiction
 genre:
-  - Fantasy
-  - Magical Realism
-  - Horror
+  - Psychological
+  - Literary Fiction
+  - Philosophical
+  - Gothic
 pages: 77
 rating: 🌕🌕🌕🌕🌕
 status: Completed

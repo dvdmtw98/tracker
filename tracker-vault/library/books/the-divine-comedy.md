@@ -5,8 +5,9 @@ published: 1320
 type: Fiction
 genre:
   - Poetry
+  - Religious
+  - Philosophical
   - Fantasy
-  - Religion
 pages: 851
 rating: 🌑🌑🌑🌑🌑
 status: DNF

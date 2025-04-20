@@ -5,8 +5,9 @@ published: 2012
 type: Fiction
 genre:
   - Fantasy
-  - Science Fiction
+  - Adventure
   - Mystery
+  - Philosophical
 pages: 119
 rating: 🌕🌕🌕🌕🌑
 status: Completed

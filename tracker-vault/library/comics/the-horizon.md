@@ -4,10 +4,10 @@ author: Ji-hun Jeong
 published: 2016
 type: Manhwa
 genre:
-  - Horror
   - Psychological
-  - Dystopia
   - Drama
+  - Dystopian
+  - Tragedy
 chapters: 21
 rating: 🌕🌕🌕🌕🌕
 status: Completed

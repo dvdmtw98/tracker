@@ -7,7 +7,7 @@ genre:
   - Action
   - Cyberpunk
   - Psychological
-  - Post-Apocalyptic
+  - Science Fiction
 chapters: 66
 rating: 🌕🌕🌕🌕🌕
 status: Completed

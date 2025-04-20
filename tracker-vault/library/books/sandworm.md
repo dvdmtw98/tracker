@@ -5,8 +5,9 @@ author: Andy Greenberg
 published: 2019
 type: Non-Fiction
 genre:
+  - Cybersecurity
   - Technology
-  - True-Crime
+  - Journalism
   - Politics
 pages: 371
 rating: 🌕🌕🌕🌕🌕

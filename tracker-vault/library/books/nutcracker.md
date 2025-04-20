@@ -5,9 +5,10 @@ author: E.T.A. Hoffmann
 published: 1816
 type: Fiction
 genre:
-  - Classics
   - Fantasy
-  - Young Adult
+  - Fairy-tale
+  - Classic
+  - Adventure
 pages: 95
 rating: 🌕🌕🌕🌕🌑
 status: Completed

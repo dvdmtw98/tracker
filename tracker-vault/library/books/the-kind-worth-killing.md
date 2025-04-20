@@ -5,8 +5,9 @@ published: 2015
 type: Fiction
 genre:
   - Thriller
-  - Mystery
+  - Psychological
   - Crime
+  - Mystery
 pages: 267
 rating: 🌕🌕🌕🌑🌑
 status: Completed

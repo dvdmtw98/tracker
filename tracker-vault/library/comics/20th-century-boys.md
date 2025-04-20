@@ -7,6 +7,7 @@ genre:
   - Mystery
   - Thriller
   - Science Fiction
+  - Psychological
 chapters: 265
 rating: 🌕🌕🌕🌕🌑
 status: Completed

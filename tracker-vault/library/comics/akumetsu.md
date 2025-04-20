@@ -5,8 +5,9 @@ published: 2002
 type: Manga
 genre:
   - Action
-  - Drama
-  - Mystery
+  - Psychological
+  - Political
+  - Supernatural
 chapters: 162
 rating: 🌕🌕🌕🌑🌑
 status: Completed

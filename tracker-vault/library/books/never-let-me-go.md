@@ -4,10 +4,10 @@ author: Kazuo Ishiguro
 published: 2005
 type: Fiction
 genre:
-  - Contemporary
   - Dystopian
-  - Speculative Fiction
-  - Classics
+  - Science Fiction
+  - Psychological
+  - Speculative
 pages: 266
 rating: 🌕🌕🌕🌕🌑
 status: Completed

@@ -6,8 +6,8 @@ type: Fiction
 genre:
   - Gothic
   - Horror
-  - Fantasy
-  - Classics
+  - Classic
+  - Supernatural
 pages: 88
 rating: 🌕🌕🌕🌕🌑
 status: Completed

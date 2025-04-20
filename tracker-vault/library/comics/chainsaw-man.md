@@ -6,6 +6,7 @@ type: Manga
 genre:
   - Action
   - Dark Fantasy
+  - Supernatural
   - Comedy
 chapters: -1
 rating: 🌑🌑🌑🌑🌑

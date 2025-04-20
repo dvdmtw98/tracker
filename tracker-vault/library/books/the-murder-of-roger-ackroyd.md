@@ -4,9 +4,10 @@ author: Agatha Christie
 published: 1926
 type: Fiction
 genre:
-  - Murder
+  - Mystery
   - Crime
   - Thriller
+  - Suspense
 pages: 225
 rating: 🌕🌕🌕🌕🌕
 status: Completed

@@ -5,10 +5,10 @@ author: Robert Louis Stevenson
 published: 1886
 type: Fiction
 genre:
-  - Mystery
-  - Horror
   - Gothic
-  - Classics
+  - Horror
+  - Mystery
+  - Classic
 pages: 74
 rating: 🌕🌕🌕🌕🌑
 status: Completed

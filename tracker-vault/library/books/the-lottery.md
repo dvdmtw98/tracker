@@ -4,10 +4,10 @@ author: Shirley Jackson
 published: 1948
 type: Fiction
 genre:
-  - Classics
-  - Horror
-  - Short Story
   - Dystopian
+  - Horror
+  - Psychological
+  - Suspense
 pages: 14
 rating: 🌕🌕🌕🌕🌑
 status: Completed

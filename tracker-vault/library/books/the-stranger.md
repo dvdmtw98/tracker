@@ -5,7 +5,8 @@ published: 1942
 type: Fiction
 genre:
   - Philosophical
-  - Classics
+  - Psychological
+  - Classic
   - Literary Fiction
 pages: 88
 rating: 🌕🌕🌕🌗🌑

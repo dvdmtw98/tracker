@@ -7,7 +7,7 @@ genre:
   - Horror
   - Supernatural
   - Psychological
-  - Mystery
+  - Thriller
 chapters: 19
 rating: 🌕🌕🌕🌕🌕
 status: Completed

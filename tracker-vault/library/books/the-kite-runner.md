@@ -5,9 +5,9 @@ published: 2003
 type: Fiction
 genre:
   - Literary Fiction
-  - Historical
   - Drama
-  - Classics
+  - Historical
+  - Psychological
 pages: 382
 rating: 🌕🌕🌕🌕🌑
 status: Completed

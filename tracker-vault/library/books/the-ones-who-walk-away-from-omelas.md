@@ -4,10 +4,10 @@ author: Ursula K. Le Guin
 published: 1973
 type: Fiction
 genre:
+  - Philosophical
+  - Dystopian
+  - Speculative
   - Fantasy
-  - Philosophy
-  - Science Fiction
-  - Short Story
 pages: 20
 rating: 🌕🌕🌕🌕🌑
 status: Completed

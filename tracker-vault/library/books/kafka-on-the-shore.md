@@ -4,9 +4,10 @@ author: Haruki Murakami
 published: 2002
 type: Fiction
 genre:
-  - Fantasy
   - Magical Realism
-  - Adventure
+  - Psychological
+  - Literary Fiction
+  - Mystery
 pages: 492
 rating: 🌕🌕🌕🌕🌑
 status: Completed

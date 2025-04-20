@@ -4,10 +4,10 @@ author: George Orwell
 published: 1945
 type: Fiction
 genre:
-  - Fantasy
-  - Classics
-  - Literary Fiction
+  - Political
   - Satire
+  - Dystopian
+  - Classic
 pages: 78
 rating: 🌕🌕🌕🌕🌕
 status: Completed

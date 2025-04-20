@@ -4,9 +4,10 @@ author: Douglas Adams
 published: 1979
 type: Fiction
 genre:
-  - Humor
-  - Fantasy
+  - Science Fiction
+  - Comedy
   - Adventure
+  - Fantasy
 pages: 253
 rating: 🌕🌕🌕🌕🌑
 status: Completed

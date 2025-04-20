@@ -5,7 +5,7 @@ tags:
   - list
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-04-12 09:29:38 -0500
+updated: 2025-04-17 16:54:41 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -24,7 +24,6 @@ cssclasses:
 |     | [Girls' Last Tour](https://myanimelist.net/manga/72467/Shoujo_Shuumatsu_Ryokou)                                      | Tsukumizu         | 2014      | • Adventure<br>• Dystopian<br>• Slice of Life | 47       |
 |     | [Golden Kamuy](https://myanimelist.net/manga/85968/Golden_Kamuy)                                                     | Satoru Noda       | 2014      | • Action<br>• Adventure                       | 314      |
 |     | [Goodnight Punpun](https://myanimelist.net/manga/4632/Oyasumi_Punpun)                                                | Inio Asano        | 2007      | • Drama<br>• Slice of Life<br>• Psychological | 147      |
-|     | [Gyo: The Death-Stench Creeps](https://myanimelist.net/manga/909/Gyo__Ugomeku_Bukimi)                                | Junji Itou        | 2001      | • Horror<br>• Mystery<br>• Psychological      | 21       |
 |     | [Kowloon Generic Romance](https://myanimelist.net/manga/122863/Kowloon_Generic_Romance)                              | Jun Mayuzuki      | 2019      | • Sci-Fi<br>• Romance<br>• Slice of Life      | 67*      |
 |     | [My Dearest Self With Malice Aforethought](https://myanimelist.net/manga/115746/Shinai_naru_Boku_e_Satsui_wo_Komete) | Hajime Inoryuu    | 2018      | • Mystery<br>• Suspense<br>• Psychological    | 98       |
 |     | [Spirit Circle](https://myanimelist.net/manga/38071/Spirit_Circle)                                                   | Satoshi Mizukami  | 2012      | • Action<br>• Adventure<br>• Supernatural     | 45       |
@@ -34,10 +33,9 @@ cssclasses:
 
 ### Manhwa
 
-| No. | Name                                                          | Author     | Published | Genre                                   | Chapters |
-| :-- | :------------------------------------------------------------ | :--------- | :-------- | :-------------------------------------- | :------- |
-|     | [Bastard](https://myanimelist.net/manga/111213/Bastard)       | Carnby Kim | 2014      | • Drama<br>• Mystery<br>• Horror        | 94       |
-|     | [Hellper](https://myanimelist.net/manga/61583/Hellper)        | Sakk       | 2011      | • Action<br>• Fantasy<br>• Supernatural | 188      |
+| No. | Name                                                    | Author     | Published | Genre                                   | Chapters |
+| :-- | :------------------------------------------------------ | :--------- | :-------- | :-------------------------------------- | :------- |
+|     | [Hellper](https://myanimelist.net/manga/61583/Hellper)  | Sakk       | 2011      | • Action<br>• Fantasy<br>• Supernatural | 188      |
 
 ### Comic
 

@@ -5,8 +5,9 @@ published: 1922
 type: Fiction
 genre:
   - Philosophical
-  - Classics
-  - Spirituality
+  - Spiritual
+  - Classic
+  - Psychological
 pages: 142
 rating: 🌕🌕🌕🌑🌑
 status: Completed

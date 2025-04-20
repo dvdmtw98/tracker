@@ -4,9 +4,10 @@ author: Frank Miller
 published: 1986
 type: Comic
 genre:
+  - Action
   - Crime
-  - Mystery
   - Thriller
+  - Drama
 chapters: 4
 rating: 🌕🌕🌕🌕🌗
 status: Completed

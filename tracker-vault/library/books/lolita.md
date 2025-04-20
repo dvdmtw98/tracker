@@ -4,10 +4,10 @@ author: Vladimir Nabokov
 published: 1955
 type: Fiction
 genre:
-  - Literary Fiction
-  - Drama
   - Psychological
-  - Classics
+  - Drama
+  - Literary Fiction
+  - Romance
 pages: 362
 rating: 🌕🌕🌕🌕🌑
 status: Completed

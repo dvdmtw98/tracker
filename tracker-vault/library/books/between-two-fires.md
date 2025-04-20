@@ -4,9 +4,10 @@ author: Christopher Buehlman
 published: 2012
 type: Fiction
 genre:
-  - Horror
-  - Fantasy
   - Historical
+  - Fantasy
+  - Horror
+  - Supernatural
 pages: 371
 rating: 🌕🌕🌕🌕🌕
 status: Completed

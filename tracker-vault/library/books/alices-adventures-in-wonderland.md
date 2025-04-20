@@ -7,8 +7,8 @@ type: Fiction
 genre:
   - Fantasy
   - Adventure
-  - Young Adult
-  - Classics
+  - Children's
+  - Classic
 pages: 292
 rating: 🌕🌕🌕🌑🌑
 status: Completed

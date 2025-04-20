@@ -4,10 +4,10 @@ author: Jonathan Swift
 published: 1726
 type: Fiction
 genre:
-  - Fantasy
-  - Adventure
-  - Classics
   - Satire
+  - Adventure
+  - Classic
+  - Fantasy
 pages: 410
 rating: 🌕🌕🌕🌗🌑
 status: Completed

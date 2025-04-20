@@ -4,9 +4,10 @@ author: Andy Weir
 published: 2021
 type: Fiction
 genre:
-  - Fantasy
-  - Thriller
   - Science Fiction
+  - Adventure
+  - Thriller
+  - Mystery
 pages: 469
 rating: 🌕🌕🌕🌕🌕
 status: Completed

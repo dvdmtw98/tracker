@@ -5,8 +5,8 @@ published: 1939
 type: Fiction
 genre:
   - Mystery
-  - Crime
   - Thriller
+  - Crime
   - Suspense
 pages: 232
 rating: 🌕🌕🌕🌕🌕

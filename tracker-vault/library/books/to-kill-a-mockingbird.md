@@ -4,9 +4,10 @@ author: Harper Lee
 published: 1960
 type: Fiction
 genre:
-  - Thriller
+  - Classic
+  - Drama
   - Historical
-  - Classics
+  - Psychological
 pages: 299
 rating: 🌕🌕🌕🌕🌑
 status: Completed

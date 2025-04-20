@@ -4,9 +4,10 @@ author: Il-Kwon Ha
 published: 2010
 type: Manhwa
 genre:
+  - Fantasy
+  - Drama
   - Mystery
   - Psychological
-  - Drama
 chapters: 27
 rating: 🌕🌕🌕🌕🌑
 status: Completed

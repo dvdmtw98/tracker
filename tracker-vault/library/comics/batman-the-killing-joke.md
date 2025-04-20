@@ -4,9 +4,10 @@ author: Alan Moore
 published: 1988
 type: Comic
 genre:
+  - Psychological
   - Crime
-  - Fantasy
   - Thriller
+  - Action
 chapters: 1
 rating: 🌕🌕🌕🌗🌑
 status: Completed

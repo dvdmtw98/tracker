@@ -4,9 +4,10 @@ author: Viktor E. Frankl
 published: 1946
 type: Non-Fiction
 genre:
-  - History
+  - Psychology
+  - Philosophy
   - Memoir
-  - Biography
+  - Inspirational
 pages: 148
 rating: 🌕🌕🌕🌑🌑
 status: Completed

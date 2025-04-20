@@ -4,10 +4,10 @@ author: Oscar Wilde
 published: 1890
 type: Fiction
 genre:
-  - Fanatsy
-  - Horror
   - Gothic
-  - Classics
+  - Philosophical
+  - Drama
+  - Classic
 pages: 198
 rating: 🌕🌕🌕🌕🌑
 status: Completed

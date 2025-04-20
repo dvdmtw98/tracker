@@ -4,9 +4,9 @@ author: Naoki Urasawa
 published: 2003
 type: Manga
 genre:
+  - Science Fiction
   - Mystery
   - Thriller
-  - Science Fiction
   - Action
 chapters: 65
 rating: 🌕🌕🌕🌕🌑

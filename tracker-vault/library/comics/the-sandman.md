@@ -5,9 +5,9 @@ published: 1989
 type: Comic
 genre:
   - Fantasy
-  - Adventure
   - Supernatural
   - Horror
+  - Psychological
 chapters: 75
 rating: 🌕🌕🌕🌕🌕
 status: Completed

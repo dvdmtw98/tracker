@@ -5,9 +5,9 @@ published: 2012
 type: Comic
 genre:
   - Fantasy
-  - Adventure
   - Supernatural
-  - Mystery
+  - Psychological
+  - Philosophical
 chapters: 6
 rating: 🌕🌕🌕🌕🌕
 status: Completed

@@ -5,9 +5,9 @@ published: 2005
 type: Manga
 genre:
   - Psychological
-  - Thriller
   - Mystery
   - Drama
+  - Suspense
 chapters: 203
 rating: 🌕🌕🌑🌑🌑
 status: Completed

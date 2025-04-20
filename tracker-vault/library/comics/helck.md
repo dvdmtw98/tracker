@@ -4,10 +4,10 @@ author: Nanaki Nanao
 published: 2014
 type: Manga
 genre:
-  - Adventure
   - Fantasy
-  - Mystery
+  - Adventure
   - Action
+  - Drama
 chapters: 111
 rating: 🌕🌕🌕🌕🌑
 status: Completed

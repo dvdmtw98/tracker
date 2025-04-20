@@ -5,9 +5,10 @@ author: William Shakespeare
 published: 1600
 type: Fiction
 genre:
+  - Tragedy
   - Drama
-  - Play
-  - Classics
+  - Classical
+  - Psychological
 pages: 200
 rating: 🌕🌕🌕🌑🌑
 status: Completed

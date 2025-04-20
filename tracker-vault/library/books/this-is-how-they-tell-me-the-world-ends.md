@@ -5,9 +5,10 @@ author: Nicole Perlroth
 published: 2021
 type: Non-Fiction
 genre:
-  - Science
-  - Technology
+  - Cybersecurity
   - Politics
+  - Technology
+  - Journalism
 pages: 545
 rating: 🌕🌕🌕🌑🌑
 status: Completed

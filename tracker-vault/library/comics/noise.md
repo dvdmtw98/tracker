@@ -4,9 +4,10 @@ author: Nihei Tsutomu
 published: 2000
 type: Manga
 genre:
-  - Action
+  - Cyberpunk
   - Science Fiction
-  - Post-Apocalyptic
+  - Action
+  - Mystery
 chapters: 8
 rating: 🌕🌕🌕🌗🌑
 status: Completed

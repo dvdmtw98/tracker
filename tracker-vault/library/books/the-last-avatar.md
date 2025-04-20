@@ -5,7 +5,8 @@ published: 2018
 type: Fiction
 genre:
   - Fantasy
-  - Mythology
+  - Adventure
+  - Action
   - Science Fiction
 pages: 328
 rating: 🌕🌕🌑🌑🌑

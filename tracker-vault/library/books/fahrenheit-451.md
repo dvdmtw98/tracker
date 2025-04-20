@@ -5,8 +5,9 @@ published: 1953
 type: Fiction
 genre:
   - Dystopian
-  - Fantasy
-  - Classics
+  - Speculative
+  - Political
+  - Classic
 pages: 216
 rating: 🌕🌕🌕🌕🌑
 status: Completed

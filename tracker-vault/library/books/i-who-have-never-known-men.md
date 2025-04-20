@@ -6,6 +6,7 @@ type: Fiction
 genre:
   - Science Fiction
   - Dystopian
+  - Psychological
   - Literary Fiction
 pages: 136
 rating: 🌕🌕🌕🌕🌕

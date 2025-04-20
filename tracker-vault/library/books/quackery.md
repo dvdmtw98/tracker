@@ -5,9 +5,10 @@ author: Lydia Kang & Nate Pedersen
 published: 2017
 type: Non-Fiction
 genre:
-  - History
+  - Medical
+  - Historical
   - Science
-  - Medicine
+  - Educational
 pages: 381
 rating: 🌕🌕🌕🌕🌑
 status: Completed

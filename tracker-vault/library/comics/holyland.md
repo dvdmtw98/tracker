@@ -5,8 +5,9 @@ published: 2000
 type: Manga
 genre:
   - Action
-  - Psychological
   - Drama
+  - Thriller
+  - Psychological
 chapters: 182
 rating: 🌕🌕🌕🌕🌑
 status: Completed

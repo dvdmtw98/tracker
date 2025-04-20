@@ -6,8 +6,8 @@ type: Manga
 genre:
   - Psychological
   - Horror
-  - Supernatural
   - Drama
+  - Mystery
 chapters: 166
 rating: 🌕🌕🌕🌗🌑
 status: Completed

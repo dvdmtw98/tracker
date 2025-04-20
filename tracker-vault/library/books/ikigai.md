@@ -5,9 +5,10 @@ author: Héctor García & Francesc Miralles
 published: 2016
 type: Non-Fiction
 genre:
-  - Self Help
-  - Health
+  - Philosophy
+  - Self-help
   - Psychology
+  - Lifestyle
 pages: 131
 rating: 🌕🌕🌕🌑🌑
 status: Completed

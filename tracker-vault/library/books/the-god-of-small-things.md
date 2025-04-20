@@ -4,9 +4,10 @@ author: Arundhati Roy
 published: 1997
 type: Fiction
 genre:
-  - Contemporary
   - Literary Fiction
+  - Drama
   - Historical
+  - Psychological
 pages: 351
 rating: 🌕🌕🌕🌕🌑
 status: Completed

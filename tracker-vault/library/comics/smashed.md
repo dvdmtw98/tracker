@@ -6,8 +6,9 @@ published: 2019
 type: Manga
 genre:
   - Horror
-  - Fantasy
   - Supernatural
+  - Thriller
+  - Fantasy
 chapters: 13
 rating: 🌕🌕🌕🌑🌑
 status: Completed

@@ -5,8 +5,9 @@ published: 2022
 type: Fiction
 genre:
   - Fantasy
+  - Adventure
   - Mystery
-  - Short Story
+  - Thriller
 pages: 25
 rating: 🌕🌕🌕🌕🌑
 status: Completed

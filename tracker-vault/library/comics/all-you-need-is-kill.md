@@ -7,6 +7,7 @@ genre:
   - Science Fiction
   - Action
   - Adventure
+  - Thriller
 chapters: 17
 rating: 🌕🌕🌕🌕🌑
 status: Completed

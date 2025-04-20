@@ -4,10 +4,10 @@ author: Madhuri Shekar
 published: 2019
 type: Fiction
 genre:
-  - Audiobook
   - Thriller
   - Mystery
   - Suspense
+  - Supernatural
 pages: 0
 rating: 🌕🌕🌕🌗🌑
 status: Completed

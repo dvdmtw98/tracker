@@ -4,9 +4,10 @@ author: Paulo Coelho
 published: 1988
 type: Fiction
 genre:
-  - Fantasy
+  - Philosophical
   - Adventure
-  - Classics
+  - Spiritual
+  - Fantasy
 pages: 125
 rating: 🌕🌕🌕🌕🌑
 status: Completed
