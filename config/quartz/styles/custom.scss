@@ -3,7 +3,23 @@
 // put your custom CSS here!
 @use "./variables.scss" as *;
 
-// Left Sidebar
+// Sidebar Styles
+
+@media all and not ($mobile) {
+  .page>#quartz-body .left.sidebar {
+    padding-right: 1rem;
+    border-right: 1px solid var(--lightgray);
+  }
+}
+
+@media all and ($desktop) {
+  .page>#quartz-body .right.sidebar {
+    padding-left: 1rem;
+    border-left: 1px solid var(--lightgray);
+  }
+}
+
+// Sidebar Components
 
 .search {
   >.search-button {
@@ -23,10 +39,8 @@
   }
 }
 
-// Right Sidebar
-
-.right.sidebar {
-  @media all and ($desktop) {
+@media all and ($desktop) {
+  .right.sidebar {
     .toc {
       max-height: 40vh;
       overflow-y: hidden;
@@ -36,23 +50,32 @@
 
 // Backlink Spacing
 
-@media all and not ($desktop) {
-  .backlinks>.overflow {
-    height: unset;
+.backlinks>ul.overflow {
+  height: unset;
+}
+
+// Header Styles
+
+.popover-hint {
+  > :is(h1, div) {
+    text-align: center;
+  }
+
+  >ul.tags {
+    justify-content: center;
   }
 }
 
 // Custom Line Separator
 
-hr {
+article hr {
   overflow: visible;
   padding: 0;
-  margin: 3em auto;
+  height: 0;
+  margin: 2em auto;
   border: none;
-  color: var(--gray);
   text-align: center;
-  width: 60%;
-  border-color: var(--gray);
+  width: 100%;
 
   &:after {
     content: "* * *";
@@ -60,8 +83,12 @@ hr {
     margin: -1em 0 0.5em;
     font-size: 1.5em;
     padding: 0.5em 1em;
-    background: var(--light);
+    color: var(--gray);
   }
+}
+
+hr {
+  margin: 4em auto;
 }
 
 // Table Hover Highlight
@@ -112,20 +139,34 @@ a {
   font-weight: 400;
 }
 
+// Tag Link Styles
+
+a.internal.tag-link::before {
+  content: "";
+}
+
+a.internal.tag-link {
+  border-radius: 20px;
+  padding: .25rem .8rem;
+}
+
 // Heading Sizes
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.6rem;
 }
 
 h3 {
+  font-size: 1.4rem;
+}
+
+h4 {
   font-size: 1.3rem;
 }
 
-h4,
 h5,
 h6 {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 
 h1,
@@ -142,7 +183,7 @@ thead {
 
 a:hover .popover,
 .popover:hover {
-  animation-delay: 0.3s;
+  animation-delay: 0.4s;
 }
 
 // Frontmatter Styles
@@ -243,6 +284,10 @@ a:hover .popover,
         }
 
         >td {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
           white-space: initial;
           flex: 1 1 0;
 
@@ -295,71 +340,30 @@ a:hover .popover,
 
 // Table Styles Reset in Popover
 
-.cards {
-  .popover {
-
-    table,
-    table thead,
-    table tbody,
-    table tr,
-    table td,
-    table img {
-      display: revert;
-      border: revert;
-      white-space: revert;
-    }
-  }
-}
-
-.cards .popover {
-  .table-container {
-    >table {
-      tr {
-        &:hover {
-          td {
-            background-color: var(--highlight);
-          }
-        }
-
-        td {
-          background-color: var(--light);
-        }
-      }
-    }
+.popover .cards {
+  thead {
+    display: table-header-group !important;
   }
 
-  table {
-    display: block;
-    overflow-x: auto;
-    max-width: fit-content;
+  tbody {
+    display: table-row-group !important;
+  }
+
+  tr {
+    display: table-row !important;
+  }
+
+  td {
+    display: table-cell !important;
+    border: 1px solid var(--lightgray);
+    text-align: left;
     white-space: nowrap;
+    padding: 0.2rem 0.6rem;
+  }
 
-    th {
-      padding: 0.4rem 0.7rem;
-      border-bottom: 2px solid var(--gray);
-    }
-
-    td {
-      padding: 0.2rem 0.7rem;
-    }
-
-    >tbody {
-      >tr {
-        border-bottom: 1px solid var(--lightgray);
-
-        &:last-of-type {
-          border-bottom: none;
-        }
-
-        &:hover {
-          border: none;
-        }
-
-        >td:not(:last-child) {
-          border-bottom: none;
-        }
-      }
-    }
+  td img {
+    width: auto !important;
+    max-width: 92px;
   }
 }
 

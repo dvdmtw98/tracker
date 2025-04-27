@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-03-20 09:18:52 -0500
+updated: 2025-04-20 20:39:02 -0500
 cssclasses:
   - cards
   - cards-2-3
@@ -40,7 +40,7 @@ cssclasses:
 | ![[library/images/alices-adventures-in-wonderland.jpg\|92]]           | [[library/books/alices-adventures-in-wonderland.md\|Alice’s Adventures in Wonderland]]                | Lewis Carroll              | 1871      | 292 pages | <ul><li>Fantasy</li><li>Adventure</li><li>Children's</li><li>Classic</li></ul>                | Completed | 🌕🌕🌕🌑🌑 |
 | ![[library/images/animal-farm.jpg\|92]]                               | [[library/books/animal-farm.md\|Animal Farm]]                                                         | George Orwell              | 1945      | 78 pages  | <ul><li>Political</li><li>Satire</li><li>Dystopian</li><li>Classic</li></ul>                  | Completed | 🌕🌕🌕🌕🌕 |
 | ![[library/images/carmilla.jpg\|92]]                                  | [[library/books/carmilla.md\|Carmilla]]                                                               | Sheridan Le Fanu           | 1872      | 88 pages  | <ul><li>Gothic</li><li>Horror</li><li>Classic</li><li>Supernatural</li></ul>                  | Completed | 🌕🌕🌕🌕🌑 |
-| ![[code.jpg\|92]]                                 | [[library/books/code.md\|Code]]                                                                       | Charles Petzold            | 2022      | 481 pages | <ul><li>Technology</li><li>Educational</li><li>Science</li><li>Programming</li></ul>          | Completed | 🌕🌕🌕🌑🌑 |
+| ![[code.jpg\|92]]                                                     | [[library/books/code.md\|Code]]                                                                       | Charles Petzold            | 2022      | 481 pages | <ul><li>Technology</li><li>Educational</li><li>Science</li><li>Programming</li></ul>          | Completed | 🌕🌕🌕🌑🌑 |
 | ![[library/images/the-strange-case-of-dr-jekyll-and-mr-hyde.jpg\|92]] | [[library/books/dr-jekyll-and-mr-hyde.md\|Dr. Jekyll and Mr. Hyde]]                                   | Robert Louis Stevenson     | 1886      | 74 pages  | <ul><li>Gothic</li><li>Horror</li><li>Mystery</li><li>Classic</li></ul>                       | Completed | 🌕🌕🌕🌕🌑 |
 | ![[library/images/evil-eye.jpg\|92]]                                  | [[library/books/evil-eye.md\|Evil Eye]]                                                               | Madhuri Shekar             | 2019      | 0 pages   | <ul><li>Thriller</li><li>Mystery</li><li>Suspense</li><li>Supernatural</li></ul>              | Completed | 🌕🌕🌕🌗🌑 |
 | ![[library/images/lolita.jpg\|92]]                                    | [[library/books/lolita.md\|Lolita]]                                                                   | Vladimir Nabokov           | 1955      | 362 pages | <ul><li>Psychological</li><li>Drama</li><li>Literary Fiction</li><li>Romance</li></ul>        | Completed | 🌕🌕🌕🌕🌑 |
