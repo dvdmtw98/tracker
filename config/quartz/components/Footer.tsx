@@ -13,11 +13,16 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          © {year} David Varghese. All rights reserved.{" "}
-          <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noreferrer noopener">
-            Quartz v{version}
-          </a>
+        <p class="footer-text">
+          <span class="line-group line-1">
+            © {year} David Varghese.{" "}
+            <a href="https://quartz.jzhao.xyz/" target="_blank" rel="noreferrer noopener">
+              Quartz v{version}
+            </a>.
+          </span>
+          <span class="line-group line-2">
+            {" "}All rights reserved.
+          </span>
         </p>
 
         <ul>
