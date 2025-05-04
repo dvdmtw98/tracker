@@ -48,7 +48,10 @@ export const defaultContentPageLayout: PageLayout = {
             ],
             gap: "1rem"
         }),
-        Component.Explorer({ mapFn: textTransformNode })
+        Component.Explorer({
+            folderClickBehavior: "collapse",
+            mapFn: textTransformNode
+        })
     ],
     right: [
         Component.TableOfContents(),
@@ -89,7 +92,10 @@ export const defaultListPageLayout: PageLayout = {
             ],
             gap: "1rem"
         }),
-        Component.Explorer({ mapFn: textTransformNode }),
+        Component.Explorer({
+            folderClickBehavior: "collapse",
+            mapFn: textTransformNode
+        })
     ],
     right: [],
 }
