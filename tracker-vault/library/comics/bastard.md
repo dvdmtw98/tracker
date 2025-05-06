@@ -9,8 +9,8 @@ genre:
   - Psychological
   - Crime
 chapters: 94
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌕
+status: Completed
 date: 2025-04-17 12:43:03 -0500
 updated: 2025-04-17 12:43:03 -0500
 ---

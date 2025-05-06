@@ -1,8 +1,8 @@
+import { classNames } from "../util/lang"
 // @ts-ignore
 import randomPageScript from "./scripts/randompage.inline"
 import styles from "./styles/randompage.scss"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
 
 const RandomPage: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return (
