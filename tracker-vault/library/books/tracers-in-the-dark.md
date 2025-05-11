@@ -13,7 +13,7 @@ pages: 367
 rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: 2025-04-17 16:50:06 -0500
-updated: 2025-04-17 16:50:06 -0500
+updated: 2025-05-08 21:34:24 -0500
 ---
 
 ![[tracers-in-the-dark.jpg|300]]

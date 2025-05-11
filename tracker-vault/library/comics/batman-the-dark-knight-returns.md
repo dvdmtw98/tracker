@@ -9,7 +9,7 @@ genre:
   - Thriller
   - Drama
 chapters: 4
-rating: 🌕🌕🌕🌕🌗
+rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-06-08 17:07:59 -0500
 updated: 2025-01-31 22:34:02 -0600

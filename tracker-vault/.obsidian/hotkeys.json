@@ -169,5 +169,13 @@
       ],
       "key": "O"
     }
+  ],
+  "templater-obsidian:templates/book-index-template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
   ]
 }

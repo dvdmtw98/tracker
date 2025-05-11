@@ -5,13 +5,19 @@ tags:
   - index
   - comic
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-01-26 23:44:57 -0600
+updated: 2025-05-05 23:35:06 -0500
 cssclasses:
   - cards
   - cards-2-3
   - cards-cols-4
   - cards-align-bottom
 ---
+
+### Ongoing (1)
+
+| Cover                                    | Title                                            | Author           | Published | Pages        | Genre                                                                             | Status  | Rating     |
+| ---------------------------------------- | ------------------------------------------------ | ---------------- | --------- | ------------ | --------------------------------------------------------------------------------- | ------- | ---------- |
+| ![[library/images/chainsaw-man.jpg\|92]] | [[library/comics/chainsaw-man.md\|Chainsaw Man]] | Tatsuki Fujimoto | 2018      | ? chapter(s) | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading | 🌑🌑🌑🌑🌑 |
 
 ### 2025 (4)
 
@@ -28,8 +34,8 @@ cssclasses:
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------- | --------- | -------------- | ----------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[library/images/all-you-need-is-kill.jpg\|92]]           | [[library/comics/all-you-need-is-kill.md\|All You Need Is Kill]]                      | Hiroshi Sakurazaka, Yoshitoshi Abe | 2014      | 17 chapter(s)  | <ul><li>Science Fiction</li><li>Action</li><li>Adventure</li><li>Thriller</li></ul> | Completed | 🌕🌕🌕🌕🌑 |
 | ![[library/images/annarusumanara.jpg\|92]]                 | [[library/comics/annarusumanara.md\|Annarusumanara]]                                  | Il-Kwon Ha                         | 2010      | 27 chapter(s)  | <ul><li>Fantasy</li><li>Drama</li><li>Mystery</li><li>Psychological</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
-| ![[library/images/batman-the-dark-knight-returns.jpg\|92]] | [[library/comics/batman-the-dark-knight-returns.md\|Batman: The Dark Knight Returns]] | Frank Miller                       | 1986      | 4 chapter(s)   | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>               | Completed | 🌕🌕🌕🌕🌗 |
-| ![[library/images/batman-the-killing-joke.jpg\|92]]        | [[library/comics/batman-the-killing-joke.md\|Batman: The Killing Joke]]               | Alan Moore                         | 1988      | 1 chapter(s)   | <ul><li>Psychological</li><li>Crime</li><li>Thriller</li><li>Action</li></ul>       | Completed | 🌕🌕🌕🌗🌑 |
+| ![[library/images/batman-the-dark-knight-returns.jpg\|92]] | [[library/comics/batman-the-dark-knight-returns.md\|Batman: The Dark Knight Returns]] | Frank Miller                       | 1986      | 4 chapter(s)   | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>               | Completed | 🌕🌕🌕🌕🌕 |
+| ![[library/images/batman-the-killing-joke.jpg\|92]]        | [[library/comics/batman-the-killing-joke.md\|Batman: The Killing Joke]]               | Alan Moore                         | 1988      | 1 chapter(s)   | <ul><li>Psychological</li><li>Crime</li><li>Thriller</li><li>Action</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
 | ![[library/images/bibliomania.jpg\|92]]                    | [[library/comics/bibliomania.md\|Bibliomania]]                                        | Oobaru, Macchiro                   | 2016      | 12 chapter(s)  | <ul><li>Fantasy</li><li>Drama</li><li>Mystery</li><li>Adventure</li></ul>           | Completed | 🌕🌕🌕🌕🌕 |
 | ![[library/images/from-hell.jpg\|92]]                      | [[library/comics/from-hell.md\|From Hell]]                                            | Alan Moore, Eddie Campbell         | 1999      | 16 chapter(s)  | <ul><li>Crime</li><li>Mystery</li><li>Historical</li><li>Thriller</li></ul>         | Completed | 🌕🌕🌕🌕🌑 |
 | ![[library/images/helck.jpg\|92]]                          | [[library/comics/helck.md\|Helck]]                                                    | Nanaki Nanao                       | 2014      | 111 chapter(s) | <ul><li>Fantasy</li><li>Adventure</li><li>Action</li><li>Drama</li></ul>            | Completed | 🌕🌕🌕🌕🌑 |
@@ -49,17 +55,16 @@ cssclasses:
 | ![[library/images/smashed.jpg\|92]]     | [[library/comics/smashed.md\|Smashed]]         | Junji Ito       | 2019      | 13 chapter(s)  | <ul><li>Horror</li><li>Supernatural</li><li>Thriller</li><li>Fantasy</li></ul>           | Completed | 🌕🌕🌕🌑🌑 |
 | ![[library/images/the-horizon.jpg\|92]] | [[library/comics/the-horizon.md\|The Horizon]] | Ji-hun Jeong    | 2016      | 21 chapter(s)  | <ul><li>Psychological</li><li>Drama</li><li>Dystopian</li><li>Tragedy</li></ul>          | Completed | 🌕🌕🌕🌕🌕 |
 
-### 2022 (9)
+### 2022 (8)
 
-| Cover                                            | Title                                                             | Author           | Published | Pages          | Genre                                                                                      | Status    | Rating     |
-| ------------------------------------------------ | ----------------------------------------------------------------- | ---------------- | --------- | -------------- | ------------------------------------------------------------------------------------------ | --------- | ---------- |
-| ![[library/images/chainsaw-man.jpg\|92]]         | [[library/comics/chainsaw-man.md\|Chainsaw Man]]                  | Tatsuki Fujimoto | 2018      | -1 chapter(s)  | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul>          | Reading   | 🌑🌑🌑🌑🌑 |
-| ![[library/images/20th-century-boys.jpg\|92]]    | [[library/comics/20th-century-boys.md\|20th Century Boys]]        | Naoki Urasawa    | 1999      | 265 chapter(s) | <ul><li>Mystery</li><li>Thriller</li><li>Science Fiction</li><li>Psychological</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
-| ![[library/images/21st-century-boys.jpg\|92]]    | [[library/comics/21st-century-boys.md\|21st Century Boys]]        | Naoki Urasawa    | 2006      | 16 chapter(s)  | <ul><li>Mystery</li><li>Thriller</li><li>Science Fiction</li><li>Psychological</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
-| ![[library/images/akumetsu.jpg\|92]]             | [[library/comics/akumetsu.md\|Akumetsu]]                          | Yoshiaki Tabata  | 2002      | 162 chapter(s) | <ul><li>Action</li><li>Psychological</li><li>Political</li><li>Supernatural</li></ul>      | Completed | 🌕🌕🌕🌑🌑 |
-| ![[library/images/the-sandman.jpg\|92]]          | [[library/comics/the-sandman.md\|The Sandman]]                    | Neil Gaiman      | 1989      | 75 chapter(s)  | <ul><li>Fantasy</li><li>Supernatural</li><li>Horror</li><li>Psychological</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
-| ![[library/images/the-sandman-death.jpg\|92]]    | [[library/comics/the-sandman-death.md\|The Sandman: Death]]       | Neil Gaiman      | 2012      | 6 chapter(s)   | <ul><li>Fantasy</li><li>Supernatural</li><li>Psychological</li><li>Philosophical</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
-| ![[library/images/the-sandman-overtune.jpg\|92]] | [[library/comics/the-sandman-spinoff.md\|The Sandman: Spin-offs]] | Neil Gaiman      | 1999      | 17 chapter(s)  | <ul><li>Fantasy</li><li>Adventure</li><li>Supernatural</li><li>Mystery</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
-| ![[library/images/tomie.jpg\|92]]                | [[library/comics/tomie.md\|Tomie]]                                | Junji Ito        | 1987      | 20 chapter(s)  | <ul><li>Supernatural</li><li>Psychological</li><li>Horror</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌑🌑 |
-| ![[library/images/uzumaki.jpg\|92]]              | [[library/comics/uzumaki.md\|Uzumaki]]                            | Junji Ito        | 2000      | 19 chapter(s)  | <ul><li>Horror</li><li>Supernatural</li><li>Psychological</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌕🌕 |
+| Cover                                            | Title                                                             | Author          | Published | Pages          | Genre                                                                                      | Status    | Rating     |
+| ------------------------------------------------ | ----------------------------------------------------------------- | --------------- | --------- | -------------- | ------------------------------------------------------------------------------------------ | --------- | ---------- |
+| ![[library/images/20th-century-boys.jpg\|92]]    | [[library/comics/20th-century-boys.md\|20th Century Boys]]        | Naoki Urasawa   | 1999      | 265 chapter(s) | <ul><li>Mystery</li><li>Thriller</li><li>Science Fiction</li><li>Psychological</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
+| ![[library/images/21st-century-boys.jpg\|92]]    | [[library/comics/21st-century-boys.md\|21st Century Boys]]        | Naoki Urasawa   | 2006      | 16 chapter(s)  | <ul><li>Mystery</li><li>Thriller</li><li>Science Fiction</li><li>Psychological</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
+| ![[library/images/akumetsu.jpg\|92]]             | [[library/comics/akumetsu.md\|Akumetsu]]                          | Yoshiaki Tabata | 2002      | 162 chapter(s) | <ul><li>Action</li><li>Psychological</li><li>Political</li><li>Supernatural</li></ul>      | Completed | 🌕🌕🌕🌑🌑 |
+| ![[library/images/the-sandman.jpg\|92]]          | [[library/comics/the-sandman.md\|The Sandman]]                    | Neil Gaiman     | 1989      | 75 chapter(s)  | <ul><li>Fantasy</li><li>Supernatural</li><li>Horror</li><li>Psychological</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
+| ![[library/images/the-sandman-death.jpg\|92]]    | [[library/comics/the-sandman-death.md\|The Sandman: Death]]       | Neil Gaiman     | 2012      | 6 chapter(s)   | <ul><li>Fantasy</li><li>Supernatural</li><li>Psychological</li><li>Philosophical</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
+| ![[library/images/the-sandman-overtune.jpg\|92]] | [[library/comics/the-sandman-spinoff.md\|The Sandman: Spin-offs]] | Neil Gaiman     | 1999      | 17 chapter(s)  | <ul><li>Fantasy</li><li>Adventure</li><li>Supernatural</li><li>Mystery</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
+| ![[library/images/tomie.jpg\|92]]                | [[library/comics/tomie.md\|Tomie]]                                | Junji Ito       | 1987      | 20 chapter(s)  | <ul><li>Supernatural</li><li>Psychological</li><li>Horror</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌑🌑 |
+| ![[library/images/uzumaki.jpg\|92]]              | [[library/comics/uzumaki.md\|Uzumaki]]                            | Junji Ito       | 2000      | 19 chapter(s)  | <ul><li>Horror</li><li>Supernatural</li><li>Psychological</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌕🌕 |
 

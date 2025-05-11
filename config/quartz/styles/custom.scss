@@ -245,6 +245,11 @@ article img {
   margin-inline: auto;
 }
 
+article p>img+em {
+  text-align: center;
+  color: var(--darkgray);
+}
+
 // Tracker Table Styles
 
 .cards {

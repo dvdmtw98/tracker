@@ -9,7 +9,7 @@ genre:
   - Thriller
   - Action
 chapters: 1
-rating: 🌕🌕🌕🌗🌑
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-06-07 11:07:45 -0500
 updated: 2025-01-31 22:35:32 -0600

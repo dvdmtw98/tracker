@@ -3,14 +3,22 @@ const dv = app.plugins.plugins["dataview"].api;
 // arrayName.array: Convert DV array to JS array
 // dv.array(arrayName): Convert JS array to DV array
 
-const groupBooksByYear = (bookDirectory) => {
+const groupBooksByYear = (bookDirectory, bookTypes) => {
     // Group books by year added
     let groupedBooks = dv.pages(bookDirectory).groupBy((p) => {
-        return new Date(p.date).getFullYear();
+        if (!bookTypes.contains(p.type) && p.chapters === -1) {
+            return "Ongoing"
+        } else {
+            return new Date(p.date).getFullYear();
+        }
     });
 
     // Sort groups (years) in descending order
-    groupedBooks.values.sort((a, b) => b.key - a.key);
+    groupedBooks.values.sort((a, b) => {
+        const valA = a.key === "Ongoing" ? Infinity : Number(a.key);
+        const valB = b.key === "Ongoing" ? Infinity : Number(b.key);
+        return valB - valA;
+    });
     // console.log(groupedBooks);
 
     // Within each group (year), sort by title (ascending) 
@@ -76,7 +84,15 @@ const bookIndexGenerator = (groupedBooks, bookTypes) => {
                     if (bookTypes.contains(k.type)) {
                         bookProperties.push(k.pages !== null ? `${k.pages} pages` : `0 pages`);
                     } else {
-                        bookProperties.push(k.chapters !== null ? `${k.chapters} chapter(s)` : `0 chapter(s)`);
+                        let chapterCount;
+                        if (k.chapters === null) {
+                            chapterCount = "0 chapter(s)";
+                        } else if (k.chapters === -1) {
+                            chapterCount = "? chapter(s)";
+                        } else {
+                            chapterCount = `${k.chapters} chapter(s)`;
+                        }
+                        bookProperties.push(chapterCount);
                     }
 
                     bookProperties.push(
@@ -109,7 +125,7 @@ const bookIndexMain = async (fileName, tp, bookDirectory) => {
     let outputMarkdown = "";
     const bookTypes = ["Fiction", "Non-Fiction", "Textbook"];
 
-    let groupedBooks = groupBooksByYear(bookDirectory);
+    let groupedBooks = groupBooksByYear(bookDirectory, bookTypes);
     outputMarkdown = bookIndexGenerator(groupedBooks, bookTypes);
     writeOutputToFile(outputMarkdown, fileName, tp);
 }
