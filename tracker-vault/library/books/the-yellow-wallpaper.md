@@ -3,16 +3,19 @@ name: The Yellow Wallpaper
 author: Charlotte Perkins Gilman
 published: 1892
 type: Fiction
+format: Digital
 genre:
   - Gothic
   - Psychological
   - Drama
   - Literary Fiction
 pages: 29
+ISBN: 9781542023207
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-date: 2024-11-14 15:57:55 -0600
-updated: 2025-04-18 00:20:48 -0500
+date: 2024-11-13 15:57:55 -0600
+finished: 2024-11-13 18:20:48 -0500
+updated: 2025-05-15 23:04:46 -0500
 ---
 
 ![[the-yellow-wallpaper.jpg|300]]

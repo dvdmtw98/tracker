@@ -3,16 +3,19 @@ name: I Who Have Never Known Men
 author: Jacqueline Harpman
 published: 1995
 type: Fiction
+format: Digital
 genre:
   - Science Fiction
   - Dystopian
   - Psychological
   - Literary Fiction
 pages: 136
+ISBN: 9781473570801
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-date: 2025-01-04 18:06:00 -0600
-updated: 2025-04-06 12:48:02 -0500
+date: 2025-01-03T18:06:00
+finished: 2025-04-08T12:48:02
+updated: 2025-05-15 18:57:07 -0500
 ---
 
 ![[i-who-have-never-known-men.jpg|300]]

@@ -3,16 +3,19 @@ name: Emma
 author: Jane Austen
 published: 1815
 type: Fiction
+format: Digital
 genre:
   - Historical
   - Classic
   - Romance
   - Comedy
-pages: 459
+pages: 451
+ISBN: 9781593081522
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-date: 2025-01-09 19:00:00 -0600
-updated: 2025-01-26 23:36:53 -0600
+date: 2025-01-08T19:00:00
+finished: 2025-01-24T23:36:53
+updated: 2025-05-15 18:52:50 -0500
 ---
 
 ![[emma.jpg|300]]

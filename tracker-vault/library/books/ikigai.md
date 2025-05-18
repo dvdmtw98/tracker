@@ -1,19 +1,22 @@
 ---
 name: "Ikigai: The Japanese Secret to a Long and Happy Life"
-altname: Ikigai
+shortname: Ikigai
 author: Héctor García & Francesc Miralles
 published: 2016
 type: Non-Fiction
+format: Digital
 genre:
   - Philosophy
   - Self-help
   - Psychology
   - Lifestyle
 pages: 131
+ISBN: 9780143130727
 rating: 🌕🌕🌕🌑🌑
 status: Completed
-date: 2023-03-16 16:54:48 -0500
-updated: 2024-07-14 19:06:10 -0500
+date: 2023-02-12 16:54:48 -0500
+finished: 2024-02-22 15:45:59 -0500
+updated: 2025-05-15 23:26:19 -0500
 ---
 
 ![[ikigai.jpg|300]]

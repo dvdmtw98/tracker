@@ -1,21 +1,24 @@
 ---
 name: The Strange Case of Dr. Jekyll and Mr. Hyde
-altname: Dr. Jekyll and Mr. Hyde
+shortname: Dr. Jekyll and Mr. Hyde
 author: Robert Louis Stevenson
 published: 1886
 type: Fiction
+format: Digital
 genre:
   - Gothic
   - Horror
   - Mystery
   - Classic
 pages: 74
+ISBN: 9781620116722
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-07-02 12:56:11 -0500
-updated: 2024-08-04 22:46:39 -0500
+finished: 2024-07-04 15:45:08 -0500
+updated: 2025-05-16 16:03:44 -0500
 ---
 
-![[the-strange-case-of-dr-jekyll-and-mr-hyde.jpg|300]]
+![[dr-jekyll-and-mr-hyde.jpg|300]]
 
-Book Link: [The Strange Case of Dr. Jekyll and Mr. Hyde](https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde)
+Book Link: [Dr. Jekyll and Mr. Hyde](https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde)

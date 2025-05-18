@@ -3,16 +3,19 @@ name: BLAME!
 author: Nihei Tsutomu
 published: 1997
 type: Manga
+format: Digital
 genre:
   - Action
   - Cyberpunk
   - Psychological
   - Science Fiction
-chapters: 66
+chapters: 65
+ISBN: 9781942993773
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2023-12-15 09:32:58 -0500
-updated: 2025-01-31 22:36:24 -0600
+finished: 2023-01-31 22:36:24 -0600
+updated: 2025-05-16 15:30:56 -0500
 ---
 
 ![[blame.jpg|300]]

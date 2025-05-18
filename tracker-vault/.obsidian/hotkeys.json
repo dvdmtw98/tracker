@@ -177,5 +177,19 @@
       ],
       "key": "X"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:templates/reload-page.md": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
   ]
 }

@@ -5,41 +5,40 @@ const modalForm = app.plugins.plugins.modalforms.api;
 const result = await modalForm.openForm('book-form');
 
 const bookTypes = ["Fiction", "Non-Fiction", "Textbook"];
-const fileName = result.getValue('file-name').value;
+
+const generateSanitizedFileName = (name) => {
+  return name
+    .toLowerCase()
+    .replace(/&/g, 'and')             // Replace '&' with 'and'
+    .replace(/[^a-z0-9\s]/g, '')      // Remove special characters
+    .trim()                           // Trim leading/trailing whitespace
+    .replace(/\s+/g, '-')             // Replace spaces with hyphens
+    .replace(/^-+|-+$/g, '');         // Remove leading/trailing hyphens
+};
+
+const name = result.getValue('name').value;
+const shortName = result.getValue('short-name')?.value;
 const bookType = result.getValue('type').value;
 
+const fileName = generateSanitizedFileName(shortName || name);
+const imageName = `${fileName}.jpg`;
+
 // Move and rename file
-const filePath = bookTypes.includes(bookType) ? `library/books/${fileName}` : `library/comics/${fileName}`;
+const filePath = (
+    bookTypes.includes(bookType) ? 
+    `library/books/${fileName}` : `library/comics/${fileName}`
+);
 await tp.file.move(filePath);
-
-// Check if book has an alternative name
-let altName = result.getValue('altname').value;
-const altNameOg = result.getValue('altname').value;
-if (!altNameOg) {
-	altName = result.getValue('name').value;
-}
-
-// Find image with the correct file extension
-const imageExtensions = [".jpg", ".png"]
-const imageName = result.getValue('cover-image').value;
-let imageFilename = "";
-
-for (let extension of imageExtensions) {
-	let match = tp.file.find_tfile(imageName + extension);
-	if (match) {
-		imageFilename = imageName + extension;
-		break;
-	}
-}
 -%>
 ---
 name: "<% result.getValue('name') %>"
-<%* if (altNameOg) { -%>
-altname: "<% altNameOg %>"
+<%* if (shortName !== undefined) { -%>
+shortname: "<% shortName %>"
 <%* } -%>
 author: <% result.getValue('author') %>
 published: <% result.getValue('published') %>
 type: <% result.getValue('type') %>
+format: <% result.getValue('format') %>
 genre: 
 <% result.getValue('genre').bullets %>
 <%* if (bookTypes.contains(bookType)) { -%>
@@ -47,15 +46,17 @@ pages: <% result.getValue('pages') %>
 <%* } else { -%>
 chapters: <% result.getValue('pages') %>
 <%* } -%>
+ISBN: <% result.getValue('isbn') %>
 rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
+finished: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
 updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
 ---
 
-![[<% imageFilename %>|300]]
+![[<% imageName %>|300]]
 
-Book Link: [<% altName %>](<% result.getValue('book-url') %>)
+Book Link: [<% shortName || name %>](<% result.getValue('book-url') %>)
 <%*
 tp.hooks.on_all_templates_executed(async () => {
 	await new Promise(r => setTimeout(r, 2000));

@@ -16,7 +16,6 @@ export const sharedPageComponents: SharedLayout = {
         Component.Backlinks(),
         Component.BackToTop(),
         Component.ImageZoom(),
-        Component.PageAnimation(),
         Component.TextReveal()
     ],
     footer: Component.Footer({

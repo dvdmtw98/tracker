@@ -1,19 +1,22 @@
 ---
 name: Nutcracker and Mouse King
-altname: Nutcracker
+shortname: Nutcracker
 author: E.T.A. Hoffmann
 published: 1816
 type: Fiction
+format: Digital
 genre:
   - Fantasy
   - Fairy-tale
   - Classic
   - Adventure
 pages: 95
+ISBN: 9789358562958
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-date: 2024-12-31 18:00:00 -0600
-updated: 2024-12-24 13:27:52 -0600
+date: 2024-12-22 18:00:00 -0600
+finished: 2024-12-28 13:27:52 -0600
+updated: 2025-05-15 22:23:36 -0500
 ---
 
 ![[nutcracker.jpg|300]]

@@ -3,16 +3,19 @@ name: The Murder of Roger Ackroyd
 author: Agatha Christie
 published: 1926
 type: Fiction
+format: Digital
 genre:
   - Mystery
   - Crime
   - Thriller
   - Suspense
 pages: 225
+ISBN: 9780061763403
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-date: 2022-03-16 18:34:33 -0500
-updated: 2024-06-16 16:58:09 -0500
+date: 2022-05-14 18:34:33 -0500
+finished: 2022-05-21 16:58:09 -0500
+updated: 2025-05-16 11:28:21 -0500
 ---
 
 ![[the-murder-of-roger-ackroyd.jpg|300]]

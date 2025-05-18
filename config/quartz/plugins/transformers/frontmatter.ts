@@ -78,8 +78,8 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
                         if (data.title != null && data.title.toString() !== "") {
                             data.title = data.title.toString()
-                        } else if (data.altname != null && data.altname.toString() !== "") {
-                            data.title = data.altname.toString()
+                        } else if (data.shortname != null && data.shortname.toString() !== "") {
+                            data.title = data.shortname.toString()
                         } else if (data.name != null && data.name.toString() !== "") {
                             data.title = data.name.toString()
                         } else {

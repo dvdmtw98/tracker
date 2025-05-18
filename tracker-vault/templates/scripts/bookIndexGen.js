@@ -5,11 +5,12 @@ const dv = app.plugins.plugins["dataview"].api;
 
 const groupBooksByYear = (bookDirectory, bookTypes) => {
     // Group books by year added
-    let groupedBooks = dv.pages(bookDirectory).groupBy((p) => {
-        if (!bookTypes.contains(p.type) && p.chapters === -1) {
+    let groupedBooks = dv.pages(bookDirectory).groupBy((book) => {
+        if (!bookTypes.contains(book.type) && book.chapters === -1) {
             return "Ongoing"
         } else {
-            return new Date(p.date).getFullYear();
+            return getMajorityYear(book.date, book.finished);
+            // return new Date(book.date).getFullYear();
         }
     });
 
@@ -51,6 +52,94 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
     return sortedBookGroup;
 }
 
+const getMajorityYear = (startDate, endDate) => {
+    // Parse the input date strings into Date objects
+    let start = new Date(startDate);
+    let end = new Date(endDate);
+
+    // Ensure start is before end
+    if (start > end) [start, end] = [end, start];
+
+    // Map to store duration spent in each year
+    const yearDurations = new Map();
+
+    // Iterate through each year spanned by the date range
+    for (let year = start.getFullYear(); year <= end.getFullYear(); year++) {
+        // Start and end of the current year
+        const yearStart = new Date(year, 0, 1);
+        const yearEnd = new Date(year + 1, 0, 1);
+
+        // Calculate the overlap between the reading period and the current year
+        const periodStart = start > yearStart ? start : yearStart;
+        const periodEnd = end < yearEnd ? end : yearEnd;
+
+        // Calculate duration in milliseconds
+        const duration = periodEnd - periodStart;
+
+        // Accumulate duration for the current year
+        yearDurations.set(year, (yearDurations.get(year) || 0) + duration);
+    }
+
+    // Determine the year with the maximum duration
+    return [...yearDurations.entries()].reduce((a, b) => (b[1] > a[1] ? b : a))[0];
+}
+
+
+const yearFormatter = (published) => {
+    return Math.sign(published) === 1 ? published : `${Math.abs(published)} BCE`;
+}
+
+const pageCountFormatter = (book, bookTypes) => {
+    if (bookTypes.contains(book.type)) {
+        let pageCount;
+        if (book.pages !== null || book.pages !== undefined) {
+            if (Number.isInteger(book.pages)) {
+                pageCount = `${book.pages} pages`
+            } else {
+                const [hoursStr, minutesStr] = book.pages.toString().split('.');
+                pageCount = `${hoursStr} hr ${minutesStr} mins`;
+            }
+        } else {
+            pageCount = "0 pages"
+        }
+        return pageCount;
+    } else {
+        let chapterCount;
+        if (book.chapters === null || book.chapters === undefined) {
+            chapterCount = "0 chapter(s)";
+        } else if (book.chapters === -1) {
+            chapterCount = "? chapter(s)";
+        } else {
+            chapterCount = `${book.chapters} chapter(s)`;
+        }
+        return chapterCount;
+    }
+}
+
+const getBaseName = (filePath) => {
+    const fileName = filePath.substring(filePath.lastIndexOf('/') + 1);
+
+    const lastDotIndex = fileName.lastIndexOf('.');
+    const fileNameWithoutExtension = fileName.substring(0, lastDotIndex).toLowerCase();
+
+    return [fileName, fileNameWithoutExtension];
+}
+
+const getCoverImage = (book) => {
+    const fileName = book.file.name;
+    const outlinks = book.file.outlinks;
+
+    for (const link of outlinks) {
+        const extension = link.path.substring(link.path.lastIndexOf('.') + 1).toLowerCase();
+        const [linkName, linkNameWithoutExtension] = getBaseName(link.path);
+
+        if (link.embed === true && extension === "jpg" && linkNameWithoutExtension === fileName) {
+            return linkName;
+        }
+    }
+
+    return null;
+}
 
 const bookIndexGenerator = (groupedBooks, bookTypes) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
@@ -71,37 +160,17 @@ const bookIndexGenerator = (groupedBooks, bookTypes) => {
             tableHeaders,
             dv
                 .array(sortedBookGroup)
-                .map((k) => {
-                    let bookProperties = [];
-
-                    bookProperties.push(
-                        dv.func.link(k.file.outlinks[0], "92"),
-                        dv.func.link(k.file.link.path, k.altname ? k.altname : k.name),
-                        k.author,
-                        k.published
-                    )
-
-                    if (bookTypes.contains(k.type)) {
-                        bookProperties.push(k.pages !== null ? `${k.pages} pages` : `0 pages`);
-                    } else {
-                        let chapterCount;
-                        if (k.chapters === null) {
-                            chapterCount = "0 chapter(s)";
-                        } else if (k.chapters === -1) {
-                            chapterCount = "? chapter(s)";
-                        } else {
-                            chapterCount = `${k.chapters} chapter(s)`;
-                        }
-                        bookProperties.push(chapterCount);
-                    }
-
-                    bookProperties.push(
-                        k.genre,
-                        k.status,
-                        k.rating
-                    )
-
-                    return bookProperties;
+                .map((book) => {
+                    return [
+                        dv.fileLink(getCoverImage(book), true, "92"),
+                        dv.fileLink(book.file.name, false, book.shortname ? book.shortname : book.name),
+                        book.author,
+                        yearFormatter(book.published),
+                        pageCountFormatter(book, bookTypes),
+                        book.genre,
+                        book.status,
+                        book.rating
+                    ];
                 })
         );
         outputMarkdown += "\n";

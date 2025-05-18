@@ -1,19 +1,22 @@
 ---
 name: "Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency"
-altname: Tracers in the Dark
+shortname: Tracers in the Dark
 author: Andy Greenberg
 published: 2022
 type: Non-Fiction
+format: Digital
 genre:
   - Crime
   - Cybersecurity
   - Journalism
   - Technology
 pages: 367
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+ISBN: 9780385548106
+rating: 🌕🌕🌕🌕🌑
+status: Completed
 date: 2025-04-17 16:50:06 -0500
-updated: 2025-05-08 21:34:24 -0500
+finished: 2025-05-13T15:44:30
+updated: 2025-05-15 19:16:42 -0500
 ---
 
 ![[tracers-in-the-dark.jpg|300]]

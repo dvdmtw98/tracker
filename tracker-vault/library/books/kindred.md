@@ -3,16 +3,19 @@ name: Kindred
 author: Octavia E. Butler
 published: 1979
 type: Fiction
+format: Digital
 genre:
   - Science Fiction
   - Historical
   - Fantasy
   - Drama
 pages: 313
+ISBN: 9780807083703
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2025-03-20 00:07:03 -0500
-updated: 2025-04-06 12:12:07 -0500
+finished: 2025-03-29T12:12:07
+updated: 2025-05-15 21:31:40 -0500
 ---
 
 ![[kindred.jpg|300]]

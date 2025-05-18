@@ -3,16 +3,19 @@ name: A Gentleman in Moscow
 author: Amor Towles
 published: 2016
 type: Fiction
+format: Digital
 genre:
   - Historical
   - Literary Fiction
   - Drama
   - Philosophical
 pages: 426
+ISBN: 9780670026197
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-date: 2024-06-07 11:14:57 -0500
-updated: 2024-06-18 16:44:38 -0500
+date: 2024-06-06 11:14:57 -0500
+finished: 2024-06-18 16:44:38 -0500
+updated: 2025-05-15 21:35:37 -0500
 ---
 
 ![[a-gentleman-in-moscow.jpg|300]]
