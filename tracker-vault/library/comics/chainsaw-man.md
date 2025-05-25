@@ -1,6 +1,7 @@
 ---
 name: Chainsaw Man
 author: Tatsuki Fujimoto
+artist: Tatsuki Fujimoto
 published: 2018
 type: Manga
 format: Digital
@@ -15,7 +16,7 @@ rating: 🌑🌑🌑🌑🌑
 status: Reading
 date: 2022-03-17 09:25:31 -0500
 finished: 2022-03-17 09:25:31 -0500
-updated: 2025-05-16 14:54:40 -0500
+updated: 2025-05-21 13:41:29 -0500
 ---
 
 ![[chainsaw-man.jpg|300]]

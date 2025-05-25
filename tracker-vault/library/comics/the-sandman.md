@@ -1,6 +1,7 @@
 ---
 name: The Sandman
 author: Neil Gaiman
+artist: Sam Kieth, Mike Dringenberg, Jill Thompson, Marc Hempel, P. Craig Russell
 published: 1989
 type: Comic
 format: Digital
@@ -13,9 +14,9 @@ chapters: 75
 ISBN: 9781401293949
 rating: 🌕🌕🌕🌕🌕
 status: Completed
-date: 2022-12-10 19:55:03 -0500
-finished: 2022-04-11 16:19:46 -0500
-updated: 2025-05-16 15:06:27 -0500
+date: 2022-11-16 19:55:03 -0500
+finished: 2022-12-12 16:19:46 -0500
+updated: 2025-05-21 13:47:02 -0500
 ---
 
 ![[the-sandman.jpg|300]]

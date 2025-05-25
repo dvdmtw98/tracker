@@ -4,21 +4,19 @@ const dv = app.plugins.plugins["dataview"].api;
 // dv.array(arrayName): Convert JS array to DV array
 
 const groupBooksByYear = (bookDirectory, bookTypes) => {
-    // Group books by year added
+    // Group books by year finished
     let groupedBooks = dv.pages(bookDirectory).groupBy((book) => {
         if (!bookTypes.contains(book.type) && book.chapters === -1) {
-            return "Ongoing"
+            // For ongoing books current year is used
+            return new Date().getFullYear();
         } else {
-            return getMajorityYear(book.date, book.finished);
-            // return new Date(book.date).getFullYear();
+            return new Date(book.finished).getFullYear();
         }
     });
 
     // Sort groups (years) in descending order
     groupedBooks.values.sort((a, b) => {
-        const valA = a.key === "Ongoing" ? Infinity : Number(a.key);
-        const valB = b.key === "Ongoing" ? Infinity : Number(b.key);
-        return valB - valA;
+        return Number(b.key) - Number(a.key);
     });
     // console.log(groupedBooks);
 
@@ -52,41 +50,8 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
     return sortedBookGroup;
 }
 
-const getMajorityYear = (startDate, endDate) => {
-    // Parse the input date strings into Date objects
-    let start = new Date(startDate);
-    let end = new Date(endDate);
-
-    // Ensure start is before end
-    if (start > end) [start, end] = [end, start];
-
-    // Map to store duration spent in each year
-    const yearDurations = new Map();
-
-    // Iterate through each year spanned by the date range
-    for (let year = start.getFullYear(); year <= end.getFullYear(); year++) {
-        // Start and end of the current year
-        const yearStart = new Date(year, 0, 1);
-        const yearEnd = new Date(year + 1, 0, 1);
-
-        // Calculate the overlap between the reading period and the current year
-        const periodStart = start > yearStart ? start : yearStart;
-        const periodEnd = end < yearEnd ? end : yearEnd;
-
-        // Calculate duration in milliseconds
-        const duration = periodEnd - periodStart;
-
-        // Accumulate duration for the current year
-        yearDurations.set(year, (yearDurations.get(year) || 0) + duration);
-    }
-
-    // Determine the year with the maximum duration
-    return [...yearDurations.entries()].reduce((a, b) => (b[1] > a[1] ? b : a))[0];
-}
-
-
 const yearFormatter = (published) => {
-    return Math.sign(published) === 1 ? published : `${Math.abs(published)} BCE`;
+    return Math.sign(published) === 1 ? published : `${Math.abs(published)} BC`;
 }
 
 const pageCountFormatter = (book, bookTypes) => {

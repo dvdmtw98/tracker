@@ -1,6 +1,7 @@
 ---
 name: Akumetsu
 author: Yoshiaki Tabata
+artist: Yuuki Yugo
 published: 2002
 type: Manga
 format: Digital
@@ -11,11 +12,11 @@ genre:
   - Supernatural
 chapters: 162
 ISBN: 9782351800256
-rating: 🌕🌕🌕🌑🌑
+rating: 🌕🌕🌕🌗🌑
 status: Completed
-date: 2022-03-17 09:52:17 -0500
-finished: 2022-04-21 16:54:21 -0500
-updated: 2025-05-16 13:18:57 -0500
+date: 2022-08-13 09:52:17 -0500
+finished: 2022-09-21 16:54:21 -0500
+updated: 2025-05-21 13:38:54 -0500
 ---
 
 ![[akumetsu.jpg|300]]

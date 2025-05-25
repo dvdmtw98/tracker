@@ -1,6 +1,7 @@
 ---
 name: "The Sandman: Endless Nights"
 author: Neil Gaiman
+artist: P. Craig Russell, Milo Manara, Miguelanxo Prado, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Frank Quitely
 published: 2003
 type: Comic
 format: Digital
@@ -13,11 +14,13 @@ chapters: 7
 ISBN: 9781401201135
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-date: 2022-12-14 13:21:54 -0500
-finished: 2022-04-11 16:26:57 -0500
-updated: 2025-05-16 16:02:54 -0500
+date: 2022-12-14 17:01:54 -0500
+finished: 2022-12-14 18:26:57 -0500
+updated: 2025-05-21 13:49:52 -0500
 ---
 
 ![[the-sandman-endless-nights.jpg|300]]
 
 Book Link: [The Sandman: Endless Nights](https://www.goodreads.com/book/show/47720.The_Sandman)
+
+[Sandman Wiki \| Fandom](https://sandman.fandom.com/wiki/Endless_Nights)

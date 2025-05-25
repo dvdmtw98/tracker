@@ -1,6 +1,7 @@
 ---
 name: Bastard
-author: Carnby Kim, Young-chan Hwang
+author: Carnby Kim
+artist: Young-chan Hwang
 published: 2014
 type: Manhwa
 format: Digital
@@ -15,7 +16,7 @@ rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2025-04-17 12:43:03 -0500
 finished: 2025-05-07 12:43:03 -0500
-updated: 2025-05-16 14:56:30 -0500
+updated: 2025-05-21 13:39:59 -0500
 ---
 
 ![[bastard.jpg|300]]

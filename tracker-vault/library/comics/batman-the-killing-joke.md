@@ -1,6 +1,7 @@
 ---
 name: "Batman: The Killing Joke"
 author: Alan Moore
+artist: Brian Bolland
 published: 1988
 type: Comic
 format: Digital
@@ -13,9 +14,9 @@ chapters: 1
 ISBN: 9781401294052
 rating: 🌕🌕🌕🌕🌑
 status: Completed
-date: 2024-06-07 11:07:45 -0500
-finished: 2025-01-31 22:35:32 -0600
-updated: 2025-05-16 12:39:59 -0500
+date: 2024-06-07 13:07:45 -0500
+finished: 2024-06-07 22:35:32 -0600
+updated: 2025-05-21 13:40:55 -0500
 ---
 
 ![[batman-the-killing-joke.jpg|300]]

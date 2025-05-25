@@ -1,6 +1,7 @@
 ---
 name: I Who Have Never Known Men
 author: Jacqueline Harpman
+translator: Ros Schwartz
 published: 1995
 type: Fiction
 format: Digital
@@ -15,12 +16,14 @@ rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2025-01-03T18:06:00
 finished: 2025-04-08T12:48:02
-updated: 2025-05-15 18:57:07 -0500
+updated: 2025-05-21 14:07:19 -0500
 ---
 
 ![[i-who-have-never-known-men.jpg|300]]
 
 Book Link: [I Who Have Never Known Men](https://www.goodreads.com/book/show/43208407-i-who-have-never-known-men)
+
+Original: French
 
 ---
 

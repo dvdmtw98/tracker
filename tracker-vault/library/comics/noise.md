@@ -1,6 +1,7 @@
 ---
 name: NOiSE
 author: Nihei Tsutomu
+artist: Nihei Tsutomu
 published: 2000
 type: Manga
 format: Digital
@@ -13,9 +14,9 @@ chapters: 7
 ISBN: 9781647291396
 rating: 🌕🌕🌕🌗🌑
 status: Completed
-date: 2023-01-03 18:00:00 -0600
-finished: 2023-01-05 21:53:59 -0600
-updated: 2025-05-16 13:13:35 -0500
+date: 2023-01-15 18:00:00 -0600
+finished: 2023-01-15 21:53:59 -0600
+updated: 2025-05-21 13:43:26 -0500
 ---
 
 ![[noise.jpg|300]]

@@ -1,6 +1,7 @@
 ---
 name: Bibliomania
-author: Oobaru, Macchiro
+author: Oobaru
+artist: Macchiro
 published: 2016
 type: Manga
 format: Digital
@@ -15,7 +16,7 @@ rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2024-07-20 21:10:28 -0500
 finished: 2024-07-21 11:24:22 -0500
-updated: 2025-05-16 12:52:39 -0500
+updated: 2025-05-21 13:41:08 -0500
 ---
 
 ![[bibliomania.jpg|300]]

@@ -1,6 +1,7 @@
 ---
 name: The Alchemist
 author: Paulo Coelho
+translator: Alan R. Clarke
 published: 1988
 type: Fiction
 format: Digital
@@ -15,9 +16,11 @@ rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2020-06-16 21:36:34 -0500
 finished: 2020-06-24 11:21:34 -0500
-updated: 2025-05-16 11:55:30 -0500
+updated: 2025-05-21 14:13:45 -0500
 ---
 
 ![[the-alchemist.jpg|300]]
 
 Book Link: [The Alchemist](https://www.goodreads.com/en/book/show/18144590)
+
+Original: Portuguese

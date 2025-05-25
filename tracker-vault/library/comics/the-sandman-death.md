@@ -1,6 +1,7 @@
 ---
 name: "The Sandman: Death"
 author: Neil Gaiman
+artist: Chris Bachalo
 published: 2012
 type: Comic
 format: Digital
@@ -14,8 +15,8 @@ ISBN: 9781401235482
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2022-12-16 15:42:21 -0500
-finished: 2022-04-11 16:28:10 -0500
-updated: 2025-05-17 18:01:18 -0500
+finished: 2022-12-16 16:28:10 -0500
+updated: 2025-05-21 13:45:46 -0500
 ---
 
 ![[the-sandman-death.jpg|300]]

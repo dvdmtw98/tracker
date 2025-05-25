@@ -1,6 +1,7 @@
 ---
 name: Liar Game
 author: Shinobu Kaitani
+artist: Shinobu Kaitani
 published: 2005
 type: Manga
 format: Digital
@@ -13,9 +14,9 @@ chapters: 201
 ISBN: 9784088768557
 rating: 🌕🌕🌑🌑🌑
 status: Completed
-date: 2023-03-17 09:36:10 -0500
-finished: 2023-01-26 23:44:03 -0600
-updated: 2025-05-16 15:31:23 -0500
+date: 2023-02-14 09:36:10 -0500
+finished: 2023-04-19 23:44:03 -0600
+updated: 2025-05-21 13:43:03 -0500
 ---
 
 ![[liar-game.jpg|300]]

@@ -1,7 +1,7 @@
 import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
-import { classNames } from "../util/lang"
+import { classNames, capitalize } from "../util/lang"
 import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
@@ -28,32 +28,40 @@ const defaultOptions: ContentMetaOptions = {
   rootDirectory: "content"
 }
 
-const capitalizeFirstLetter = (word: string) => {
-  return word.charAt(0).toUpperCase() + word.slice(1);
-}
-
 const customSegmentGenerator = (
   cfg: QuartzComponentProps["GlobalConfiguration"], fileData: QuartzComponentProps["fileData"],
   displayClass: QuartzComponentProps["displayClass"], propertyList: string[],
   createdTime: JSX.Element
 ) => {
+  const propertiesWithComma = ["author", "translator", "artist"];
   let customSegment = ``;
 
   for (const property of propertyList) {
-    let frontMatterName = capitalizeFirstLetter(property);
     let frontMatterValue = fileData.frontmatter?.[property] as string;
+    if (!frontMatterValue) {
+      continue;
+    }
+
+    let frontMatterName = capitalize(property);
 
     if (property === "date") {
       frontMatterName = "Started";
       frontMatterValue = renderToString(createdTime);
-    } else if (property === "finished") {
+    }
+
+    if (property === "finished") {
       const parsedDate = new globalThis.Date(frontMatterValue);
       frontMatterValue = renderToString(<Date date={parsedDate} locale={cfg.locale} />)
     }
 
+    if (propertiesWithComma.includes(property)) {
+      frontMatterValue = frontMatterValue.split(",").map(name => name.trim()).join("<br>");
+    }
+
     customSegment += `
-      <p style="margin: 0;" class=${classNames(displayClass, "content-meta")}>
-        <span class="content-meta-title">${frontMatterName}: </span>${frontMatterValue}
+      <p style="margin: 0;" class="${classNames(displayClass, "content-meta")}">
+        <span class="content-meta-title">${frontMatterName}:</span>
+        <span class="content-meta-value">${frontMatterValue}</span>
       </p>
     `;
   }
@@ -62,7 +70,7 @@ const customSegmentGenerator = (
 }
 
 const frontmatterComponentGenerator = (
-  cfg: QuartzComponentProps["GlobalConfiguration"], fileData: QuartzComponentProps["fileData"], sourceViewUrl: string, blameViewUrl: string, historyViewUrl: string, displayClass: QuartzComponentProps["displayClass"], 
+  cfg: QuartzComponentProps["GlobalConfiguration"], fileData: QuartzComponentProps["fileData"], sourceViewUrl: string, blameViewUrl: string, historyViewUrl: string, displayClass: QuartzComponentProps["displayClass"],
   createdTime: JSX.Element, modifiedTime: JSX.Element, readingTimeValue: string
 ) => {
   let customSegment = ``;
@@ -74,19 +82,21 @@ const frontmatterComponentGenerator = (
   if (fileData.slug?.includes("books/")) {
     const bookProperties = [...sharedProperties];
     bookProperties.splice(4, 0, 'pages');
+    bookProperties.splice(1, 0, 'translator');
     customSegment = customSegmentGenerator(cfg, fileData, displayClass, bookProperties, createdTime);
   } else if (fileData.slug?.includes("comics/")) {
     const comicProperties = [...sharedProperties];
     comicProperties.splice(4, 0, 'chapters');
+    comicProperties.splice(1, 0, 'artist');
     customSegment = customSegmentGenerator(cfg, fileData, displayClass, comicProperties, createdTime);
   } else {
     customSegment = `
-      <p style="margin: 0;" class=${classNames(displayClass, "content-meta", "date-meta")}>
-        <span class="line-group line-1">Created: ${renderToString(createdTime)}</span>
-        <span class="line-separator line-2"> • </span>
-        <span class="line-group line-3">Modified: ${renderToString(modifiedTime)}</span>
+      <p style="margin: 0;" class="${classNames(displayClass, "content-meta", "date-meta")}">
+        <span class="date-group line-1">Created: ${renderToString(createdTime)}</span>
+        <span class="date-separator line-2"> • </span>
+        <span class="date-group line-3">Modified: ${renderToString(modifiedTime)}</span>
       </p>
-      <p style="margin: 0;" class=${classNames(displayClass, "content-meta")}>
+      <p style="margin: 0;" class="${classNames(displayClass, "content-meta")}">
         <span>${readingTimeValue}</span>
       </p>
     `;
@@ -157,7 +167,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       );
 
       return (
-        <div>
+        <div class={classNames(displayClass, "frontmatter-content")}>
           {frontmatterElement}
         </div>
       )

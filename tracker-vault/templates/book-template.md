@@ -10,7 +10,7 @@ const generateSanitizedFileName = (name) => {
   return name
     .toLowerCase()
     .replace(/&/g, 'and')             // Replace '&' with 'and'
-    .replace(/[^a-z0-9\s]/g, '')      // Remove special characters
+    .replace(/[^a-z0-9-\s]/g, '')      // Remove special characters
     .trim()                           // Trim leading/trailing whitespace
     .replace(/\s+/g, '-')             // Replace spaces with hyphens
     .replace(/^-+|-+$/g, '');         // Remove leading/trailing hyphens
@@ -22,6 +22,9 @@ const bookType = result.getValue('type').value;
 
 const fileName = generateSanitizedFileName(shortName || name);
 const imageName = `${fileName}.jpg`;
+
+const translator = result.getValue('translator')?.value;
+const artist = result.getValue('artist')?.value;
 
 // Move and rename file
 const filePath = (
@@ -36,6 +39,12 @@ name: "<% result.getValue('name') %>"
 shortname: "<% shortName %>"
 <%* } -%>
 author: <% result.getValue('author') %>
+<%* if (translator !== undefined) { -%>
+translator: "<% translator %>"
+<%* } -%>
+<%* if (artist !== undefined) { -%>
+artist: "<% artist %>"
+<%* } -%>
 published: <% result.getValue('published') %>
 type: <% result.getValue('type') %>
 format: <% result.getValue('format') %>

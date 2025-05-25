@@ -66,13 +66,9 @@
   }
 }
 
-// Footer & Data Meta Styles
+// Footer Styles
 
-:is(.footer-text, .date-meta) .line-group {
-  display: inline;
-}
-
-.date-meta .line-separator {
+.footer-text .line-group {
   display: inline;
 }
 
@@ -85,11 +81,46 @@
     }
   }
 
-  :is(.footer-text, .date-meta) .line-group {
+  .footer-text .line-group {
     display: block;
   }
+}
 
-  .date-meta .line-separator {
+// Frontmatter Styles
+
+.frontmatter-content {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  font-weight: 400;
+}
+
+.content-meta {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+}
+
+.content-meta-title {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+.content-meta-value {
+  text-align: left;
+}
+
+@media all and ($mobile) {
+  .frontmatter-content {
+    align-items: center;
+  }
+
+  .content-meta.date-meta {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .date-meta .date-separator {
     display: none;
   }
 }
@@ -232,16 +263,6 @@ article {
 a:hover .popover,
 .popover:hover {
   animation-delay: 0.4s;
-}
-
-// Frontmatter Styles
-
-.content-meta {
-  font-weight: 400;
-}
-
-.content-meta-title {
-  color: var(--darkgray);
 }
 
 // Image Styles
