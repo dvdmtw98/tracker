@@ -12,11 +12,11 @@ genre:
   - Psychological
 chapters: 28
 ISBN: 9788412930641
-rating: 🌕🌕🌕🌕🌑
+rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-06-13 11:52:25 -0500
 finished: 2024-06-16 16:54:49 -0500
-updated: 2025-05-21 13:39:34 -0500
+updated: 2025-05-25 10:36:55 -0500
 ---
 
 ![[annarusumanara.jpg|300]]

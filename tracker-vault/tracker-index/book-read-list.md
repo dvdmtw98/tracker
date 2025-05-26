@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-05-23 15:58:38 -0500
+updated: 2025-05-26 10:57:15 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -125,18 +125,16 @@ cssclasses:
 
 ### Non-Fiction
 
-| No. | Name                                                                                                                | Author                   | Published | Pages |
-| :-- | :------------------------------------------------------------------------------------------------------------------ | :----------------------- | :-------- | :---- |
-|     | [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) | Bill Bryson              | 2003      | 544   |
-|     | [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood)                                           | Truman Capote            | 1959      | 343   |
-|     | [Number Go Up](https://www.goodreads.com/book/show/123276708-number-go-up)                                          | Zeke Faux                | 2023      | 304   |
-|     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                             | Patrick Radden Keefe     | 2018      | 441   |
-|     | [Countdown to Zero Day](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)                         | Kim Zetter               | 2014      | 406   |
-|     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                               | Neil Bradbury            | 2022      | 304   |
-|     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                                   | Alfred Lansing           | 1959      | 282   |
-|     | [The Radium Girls](https://www.goodreads.com/book/show/31409135-the-radium-girls)                                   | Kate Moore               | 2016      | 479   |
-|     | [The Devil in the White City](https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City)               | Erik Larson              | 2003      | 464   |
-|     | [Stiff](https://www.goodreads.com/book/show/56769575-stiff)                                                         | Mary Roach               | 2003      | 320   |
-|     | [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)                 | John Green               | 2021      | 304   |
-|     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                                   | Bill Bryson              | 2019      | 450   |
-|     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)              | Siddhartha Mukherjee     | 2010      | 571   |
+| No. | Name                                                                                                                | Author               | Published | Pages |
+| :-- | :------------------------------------------------------------------------------------------------------------------ | :------------------- | :-------- | :---- |
+|     | [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) | Bill Bryson          | 2003      | 544   |
+|     | [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood)                                           | Truman Capote        | 1959      | 343   |
+|     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                             | Patrick Radden Keefe | 2018      | 441   |
+|     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                               | Neil Bradbury        | 2022      | 304   |
+|     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                                   | Alfred Lansing       | 1959      | 282   |
+|     | [The Radium Girls](https://www.goodreads.com/book/show/31409135-the-radium-girls)                                   | Kate Moore           | 2016      | 479   |
+|     | [The Devil in the White City](https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City)               | Erik Larson          | 2003      | 464   |
+|     | [Stiff](https://www.goodreads.com/book/show/56769575-stiff)                                                         | Mary Roach           | 2003      | 320   |
+|     | [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)                 | John Green           | 2021      | 304   |
+|     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                                   | Bill Bryson          | 2019      | 450   |
+|     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)              | Siddhartha Mukherjee | 2010      | 571   |

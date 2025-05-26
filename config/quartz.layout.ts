@@ -19,9 +19,9 @@ export const sharedPageComponents: SharedLayout = {
     ],
     footer: Component.Footer({
         links: {
-            GitHub: "https://github.com/dvdmtw98",
-            Notes: "https://notes.davidvarghese.net",
-            Blog: "https://blog.davidvarghese.net",
+            GitHub: { url: "https://github.com/dvdmtw98", icon: "fa-brands fa-github" },
+            Notes: { url: "https://notes.davidvarghese.net", icon: "fa-solid fa-book" },
+            Blog: { url: "https://blog.davidvarghese.net", icon: "fa-brands fa-blogger-b" },
         },
     }),
 }

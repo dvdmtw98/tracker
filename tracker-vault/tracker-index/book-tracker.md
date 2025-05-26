@@ -13,10 +13,11 @@ cssclasses:
   - cards-cols-4
 ---
 
-### 2025 (18)
+### 2025 (19)
 
 | Cover                                           | Title                                                                      | Author                   | Published | Pages     | Genre                                                                                                | Status    | Rating     |
 | ----------------------------------------------- | -------------------------------------------------------------------------- | ------------------------ | --------- | --------- | ---------------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[beowulf.jpg\|92]]                            | [[beowulf\|Beowulf]]                                                       | Anonymous                | 1000      | 273 pages | <ul><li>Fantasy</li><li>Adventure</li><li>Folklore</li><li>Classics</li></ul>                        | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[2666.jpg\|92]]                               | [[2666\|2666]]                                                             | Roberto Bolaño           | 2004      | 864 pages | <ul><li>Literary Fiction</li><li>Crime</li><li>Mystery</li><li>Postmodern</li></ul>                  | Completed | 🌕🌕🌕🌗🌑 |
 | ![[a-psalm-for-the-wild-built.jpg\|92]]         | [[a-psalm-for-the-wild-built\|A Psalm for the Wild-Built]]                 | Becky Chambers           | 2021      | 151 pages | <ul><li>Science Fiction</li><li>Adventure</li><li>Speculative</li><li>Philosophical</li></ul>        | Completed | 🌕🌕🌕🌕🌑 |
 | ![[between-two-fires.jpg\|92]]                  | [[between-two-fires\|Between Two Fires]]                                   | Christopher Buehlman     | 2012      | 371 pages | <ul><li>Historical</li><li>Fantasy</li><li>Horror</li><li>Supernatural</li></ul>                     | Completed | 🌕🌕🌕🌕🌕 |

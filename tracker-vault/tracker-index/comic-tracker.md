@@ -5,7 +5,7 @@ tags:
   - index
   - comic
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-05-23 16:10:13 -0500
+updated: 2025-05-25 10:37:03 -0500
 cssclasses:
   - cards
   - cards-2-3
@@ -20,7 +20,7 @@ cssclasses:
 | ![[chainsaw-man.jpg\|92]]       | [[chainsaw-man\|Chainsaw Man]]             | Tatsuki Fujimoto | 2018      | ? chapter(s)   | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[claymore.jpg\|92]]           | [[claymore\|Claymore]]                     | Norihiro Yagi    | 2001      | 159 chapter(s) | <ul><li>Fantasy</li><li>Action</li><li>Adventure</li><li>Supernatural</li></ul>   | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[bastard.jpg\|92]]            | [[bastard\|Bastard]]                       | Carnby Kim       | 2014      | 94 chapter(s)  | <ul><li>Thriller</li><li>Mystery</li><li>Psychological</li><li>Crime</li></ul>    | Completed | 🌕🌕🌕🌕🌕 |
-| ![[emanon-wanderer.jpg\|92]]    | [[emanon-wanderer\|Emanon Wanderer]]       | Shinji Kajio     | 2008      | 37 chapter(s)  | <ul><li>Adventure</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>   | Completed | 🌕🌕🌕🌗🌑 |
+| ![[emanon-wanderer.jpg\|92]]    | [[emanon-wanderer\|Emanon Wanderer]]       | Shinji Kajio     | 2008      | 37 chapter(s)  | <ul><li>Adventure</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>   | Completed | 🌕🌕🌕🌑🌑 |
 | ![[gyo.jpg\|92]]                | [[gyo\|Gyo]]                               | Junji Ito        | 2002      | 19 chapter(s)  | <ul><li>Horror</li><li>Mystery</li><li>Psychological</li><li>Thriller</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
 | ![[memories-of-emanon.jpg\|92]] | [[memories-of-emanon\|Memories of Emanon]] | Shinji Kajio     | 2006      | 9 chapter(s)   | <ul><li>Mystery</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>     | Completed | 🌕🌕🌕🌕🌕 |
 
@@ -29,7 +29,7 @@ cssclasses:
 | Cover                                       | Title                                                               | Author                                | Published | Pages          | Genre                                                                               | Status    | Rating     |
 | ------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------- | --------- | -------------- | ----------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[all-you-need-is-kill.jpg\|92]]           | [[all-you-need-is-kill\|All You Need Is Kill]]                      | Hiroshi Sakurazaka, Ryousuke Takeuchi | 2014      | 17 chapter(s)  | <ul><li>Science Fiction</li><li>Action</li><li>Adventure</li><li>Thriller</li></ul> | Completed | 🌕🌕🌕🌕🌑 |
-| ![[annarusumanara.jpg\|92]]                 | [[annarusumanara\|Annarusumanara]]                                  | Il-Kwon Ha                            | 2010      | 28 chapter(s)  | <ul><li>Fantasy</li><li>Drama</li><li>Mystery</li><li>Psychological</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
+| ![[annarusumanara.jpg\|92]]                 | [[annarusumanara\|Annarusumanara]]                                  | Il-Kwon Ha                            | 2010      | 28 chapter(s)  | <ul><li>Fantasy</li><li>Drama</li><li>Mystery</li><li>Psychological</li></ul>       | Completed | 🌕🌕🌕🌑🌑 |
 | ![[batman-the-dark-knight-returns.jpg\|92]] | [[batman-the-dark-knight-returns\|Batman: The Dark Knight Returns]] | Frank Miller                          | 1986      | 4 chapter(s)   | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>               | Completed | 🌕🌕🌕🌕🌕 |
 | ![[batman-the-killing-joke.jpg\|92]]        | [[batman-the-killing-joke\|Batman: The Killing Joke]]               | Alan Moore                            | 1988      | 1 chapter(s)   | <ul><li>Psychological</li><li>Crime</li><li>Thriller</li><li>Action</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
 | ![[bibliomania.jpg\|92]]                    | [[bibliomania\|Bibliomania]]                                        | Oobaru                                | 2016      | 12 chapter(s)  | <ul><li>Fantasy</li><li>Drama</li><li>Mystery</li><li>Adventure</li></ul>           | Completed | 🌕🌕🌕🌕🌕 |

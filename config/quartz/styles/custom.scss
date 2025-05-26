@@ -68,8 +68,22 @@
 
 // Footer Styles
 
-.footer-text .line-group {
-  display: inline;
+footer ul {
+  margin-top: 0;
+}
+
+.footer-text {
+  padding-top: 0.5rem;
+  font-size: 0.9rem;
+
+  .line-group {
+    display: inline;
+    padding-block: 0.2rem;
+  }
+}
+
+.line-group.line-3 {
+  display: block;
 }
 
 @media all and ($mobile) {
@@ -81,8 +95,10 @@
     }
   }
 
-  .footer-text .line-group {
-    display: block;
+  .footer-text {
+    .line-group {
+      display: block;
+    }
   }
 }
 
