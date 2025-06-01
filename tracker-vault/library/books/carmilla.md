@@ -7,15 +7,15 @@ format: Digital
 genre:
   - Gothic
   - Horror
-  - Classic
   - Supernatural
+  - Suspense
 pages: 88
 ISBN: 9781782275848
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-11-13 18:26:19 -0600
 finished: 2024-11-15 18:27:23 -0600
-updated: 2025-05-15 21:46:12 -0500
+updated: 2025-05-31 18:36:39 -0500
 ---
 
 ![[carmilla.jpg|300]]

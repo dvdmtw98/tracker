@@ -8,14 +8,14 @@ genre:
   - Dystopian
   - Speculative
   - Political
-  - Classic
+  - Thriller
 pages: 216
 ISBN: 9781439142677
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2023-01-16 18:49:42 -0500
 finished: 2023-02-10 16:56:10 -0500
-updated: 2025-05-15 23:14:12 -0500
+updated: 2025-05-31 18:58:30 -0500
 ---
 
 ![[fahrenheit-451.jpg|300]]

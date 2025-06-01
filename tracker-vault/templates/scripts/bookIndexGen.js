@@ -3,10 +3,10 @@ const dv = app.plugins.plugins["dataview"].api;
 // arrayName.array: Convert DV array to JS array
 // dv.array(arrayName): Convert JS array to DV array
 
-const groupBooksByYear = (bookDirectory, bookTypes) => {
+const groupBooksByYear = (bookDirectory, bookType) => {
     // Group books by year finished
     let groupedBooks = dv.pages(bookDirectory).groupBy((book) => {
-        if (!bookTypes.contains(book.type) && book.chapters === -1) {
+        if (bookType === 'comics' && book.chapters === -1) {
             // For ongoing books current year is used
             return new Date().getFullYear();
         } else {
@@ -54,8 +54,8 @@ const yearFormatter = (published) => {
     return Math.sign(published) === 1 ? published : `${Math.abs(published)} BC`;
 }
 
-const pageCountFormatter = (book, bookTypes) => {
-    if (bookTypes.contains(book.type)) {
+const pageCountFormatter = (book, bookType) => {
+    if (bookType === 'books') {
         let pageCount;
         if (book.pages !== null || book.pages !== undefined) {
             if (Number.isInteger(book.pages)) {
@@ -106,7 +106,7 @@ const getCoverImage = (book) => {
     return null;
 }
 
-const bookIndexGenerator = (groupedBooks, bookTypes) => {
+const bookIndexGenerator = (groupedBooks, bookType) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
     const tableHeaders = [
         "Cover", "Title", "Author", "Published", "Pages", "Genre", "Status", "Rating"
@@ -131,7 +131,7 @@ const bookIndexGenerator = (groupedBooks, bookTypes) => {
                         dv.fileLink(book.file.name, false, book.shortname ? book.shortname : book.name),
                         book.author,
                         yearFormatter(book.published),
-                        pageCountFormatter(book, bookTypes),
+                        pageCountFormatter(book, bookType),
                         book.genre,
                         book.status,
                         book.rating
@@ -157,10 +157,11 @@ const writeOutputToFile = async (outputMarkdown, fileName, tp) => {
 
 const bookIndexMain = async (fileName, tp, bookDirectory) => {
     let outputMarkdown = "";
-    const bookTypes = ["Fiction", "Non-Fiction", "Textbook"];
+    // Remove quotes from string and then get book type
+    const bookType = bookDirectory.replace(/^"|"$/g, '').split('/')[1];
 
-    let groupedBooks = groupBooksByYear(bookDirectory, bookTypes);
-    outputMarkdown = bookIndexGenerator(groupedBooks, bookTypes);
+    let groupedBooks = groupBooksByYear(bookDirectory, bookType);
+    outputMarkdown = bookIndexGenerator(groupedBooks, bookType);
     writeOutputToFile(outputMarkdown, fileName, tp);
 }
 

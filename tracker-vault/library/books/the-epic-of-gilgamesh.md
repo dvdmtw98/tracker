@@ -3,7 +3,7 @@ name: The Epic of Gilgamesh
 author: Anonymous
 translator: N.K. Sandars
 published: -1200
-type: Fiction
+type: Poetry
 format: Physical
 genre:
   - Mythology
@@ -16,7 +16,7 @@ rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-05-14 10:47:28 -0500
 finished: 2025-05-15 18:19:31 -0500
-updated: 2025-05-21 14:16:23 -0500
+updated: 2025-05-30 23:06:26 -0500
 ---
 
 ![[the-epic-of-gilgamesh.jpg|300]]

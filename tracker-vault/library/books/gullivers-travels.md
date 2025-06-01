@@ -7,15 +7,15 @@ format: Digital
 genre:
   - Satire
   - Adventure
-  - Classic
   - Fantasy
+  - Philosophical
 pages: 410
 ISBN: 9780141928159
 rating: 🌕🌕🌕🌗🌑
 status: Completed
 date: 2025-03-29 14:33:06 -0500
 finished: 2025-04-11T11:03:18
-updated: 2025-05-15 18:55:07 -0500
+updated: 2025-05-31 18:27:20 -0500
 ---
 
 ![[gullivers-travels.jpg|300]]

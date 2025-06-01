@@ -8,14 +8,14 @@ genre:
   - Psychology
   - Philosophy
   - Memoir
-  - Inspirational
+  - Self-Help
 pages: 148
 ISBN: 9780807014288
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2022-07-04 15:24:51 -0500
 finished: 2022-07-22 16:56:59 -0500
-updated: 2025-05-16 11:29:40 -0500
+updated: 2025-05-31 19:12:24 -0500
 ---
 
 ![[mans-search-for-meaning.jpg|300]]

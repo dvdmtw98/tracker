@@ -8,15 +8,15 @@ format: Digital
 genre:
   - Philosophical
   - Speculative
-  - Literary Fiction
-  - Magical Realism
+  - Metafiction
+  - Postmodern
 pages: 147
 ISBN: 9780802130303
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-05-16 21:44:13 -0500
 finished: 2025-05-20 13:05:04 -0500
-updated: 2025-05-21 14:05:09 -0500
+updated: 2025-05-30 23:35:34 -0500
 ---
 
 ![[ficciones.jpg|300]]

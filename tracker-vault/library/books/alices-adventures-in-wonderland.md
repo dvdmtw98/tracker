@@ -9,14 +9,14 @@ genre:
   - Fantasy
   - Adventure
   - Children's
-  - Classic
+  - Absurdism
 pages: 292
 ISBN: 9780698406438
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2024-08-15 18:53:14 -0500
 finished: 2024-08-18 15:44:44 -0500
-updated: 2025-05-15 21:39:54 -0500
+updated: 2025-05-31 18:33:12 -0500
 ---
 
 ![[alices-adventures-in-wonderland.jpg|300]]

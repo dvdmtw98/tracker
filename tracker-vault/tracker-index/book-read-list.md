@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-05-26 10:57:15 -0500
+updated: 2025-05-31 20:36:12 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -122,6 +122,10 @@ cssclasses:
 |     | [Midnight’s Children](https://www.goodreads.com/book/show/14836.Midnight_s_Children)                                                                        | Salman Rushdie         | 1981      | 647   |
 |     | [Malgudi Days](https://www.goodreads.com/book/show/14082.Malgudi_Days)                                                                                      | R.K. Narayan           | 1943      | 264   |
 |     | [Can You Hear the Nightbird Call?](https://www.goodreads.com/book/show/473846.Can_You_Hear_the_Nightbird_Call_)                                             | Anita Rau Badami       | 2006      | 432   |
+|     | [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)                                                                   | J.D. Salinger          | 1951      | 277   |
+|     | [Franny and Zooey](https://www.goodreads.com/book/show/5113.Franny_and_Zooey)                                                                               | J.D. Salinger          | 1957      | 201   |
+|     | [The Idiot](https://www.goodreads.com/book/show/12505.The_Idiot)                                                                                            | Fyodor Dostoevsky      | 1869      | 667   |
+|     | [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot)                                                                                               | Isaac Asimov           | 1950      | 224   |
 
 ### Non-Fiction
 
@@ -138,3 +142,9 @@ cssclasses:
 |     | [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)                 | John Green           | 2021      | 304   |
 |     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                                   | Bill Bryson          | 2019      | 450   |
 |     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)              | Siddhartha Mukherjee | 2010      | 571   |
+|     | [Of Human Freedom](https://www.goodreads.com/book/show/9248625-of-human-freedom)                                    | Epictetus            | 100       | 112   |
+|     | [What Is Existentialism?](https://www.goodreads.com/book/show/53491568-what-is-existentialism)                      | Simone de Beauvoir   | 1944      | 128   |
+|     | [Tao Te Ching](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)                                              | Lao Tzu              | 350       | 107   |
+|     | [No Exit](https://www.goodreads.com/book/show/123933.No_Exit)                                                       | Jean-Paul Sartre     | 1944      | 60    |
+|     | [The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet)                                                 | Kahlil Gibran        | 1923      | 127   |
+|     | [The Wheel of the Year](https://www.goodreads.com/book/show/61271694-the-wheel-of-the-year)                         | Fiona Cook           | 2023      | 256   |

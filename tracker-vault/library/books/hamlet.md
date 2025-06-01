@@ -8,15 +8,15 @@ format: Digital
 genre:
   - Tragedy
   - Drama
-  - Classical
   - Psychological
+  - Gothic
 pages: 200
 ISBN: 9780764585685
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2022-06-06 19:10:52 -0500
 finished: 2022-06-13 15:46:08 -0500
-updated: 2025-05-16 11:29:00 -0500
+updated: 2025-05-31 19:05:53 -0500
 ---
 
 ![[hamlet.jpg|300]]

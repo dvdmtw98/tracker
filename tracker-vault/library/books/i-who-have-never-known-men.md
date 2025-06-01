@@ -9,14 +9,14 @@ genre:
   - Science Fiction
   - Dystopian
   - Psychological
-  - Literary Fiction
+  - Speculative
 pages: 136
 ISBN: 9781473570801
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2025-01-03T18:06:00
 finished: 2025-04-08T12:48:02
-updated: 2025-05-21 14:07:19 -0500
+updated: 2025-05-30 23:40:02 -0500
 ---
 
 ![[i-who-have-never-known-men.jpg|300]]

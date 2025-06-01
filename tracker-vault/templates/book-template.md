@@ -4,8 +4,6 @@ const modalForm = app.plugins.plugins.modalforms.api;
 // Get values from Form
 const result = await modalForm.openForm('book-form');
 
-const bookTypes = ["Fiction", "Non-Fiction", "Textbook"];
-
 const generateSanitizedFileName = (name) => {
   return name
     .toLowerCase()
@@ -27,8 +25,9 @@ const translator = result.getValue('translator')?.value;
 const artist = result.getValue('artist')?.value;
 
 // Move and rename file
+const category = result.getValue('category').value;
 const filePath = (
-    bookTypes.includes(bookType) ? 
+    category === 'Book' ?
     `library/books/${fileName}` : `library/comics/${fileName}`
 );
 await tp.file.move(filePath);
@@ -50,7 +49,7 @@ type: <% result.getValue('type') %>
 format: <% result.getValue('format') %>
 genre: 
 <% result.getValue('genre').bullets %>
-<%* if (bookTypes.contains(bookType)) { -%>
+<%* if (category === 'Book') { -%>
 pages: <% result.getValue('pages') %>
 <%* } else { -%>
 chapters: <% result.getValue('pages') %>

@@ -1,4 +1,4 @@
-import { Date, getDate } from "./Date"
+import { Date } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames, capitalize } from "../util/lang"
@@ -130,24 +130,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     const historyViewUrl = `${gitHistoryBasePath}/commits/${options?.branch}/${sourcefilePath!}`
 
     if (text) {
-      let modifiedTime: JSX.Element = <></>;
       let createdTime: JSX.Element = <></>;
+      let modifiedTime: JSX.Element = <></>;
 
       if (fileData.dates) {
-        // For backward compatibility, just in case this is used somewhere else
-        const cfgDefaultDataType = cfg.defaultDateType
-
-        if (fileData.dates.created) {
-          cfg.defaultDateType = "created"
-          createdTime = <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
-        }
-
-        if (fileData.dates.modified) {
-          cfg.defaultDateType = "modified"
-          modifiedTime = <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
-        }
-
-        cfg.defaultDateType = cfgDefaultDataType
+        createdTime = <Date date={fileData.dates?.created ?? new globalThis.Date()} locale={cfg.locale} />
+        modifiedTime = <Date date={fileData.dates?.modified ?? new globalThis.Date()} locale={cfg.locale} />
       }
 
       // Display reading time if enabled
