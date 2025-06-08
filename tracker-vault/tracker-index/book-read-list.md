@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-05-31 20:36:12 -0500
+updated: 2025-06-07 19:04:49 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -101,7 +101,6 @@ cssclasses:
 |     | [Madonna in a Fur Coat](https://www.goodreads.com/book/show/27793819-madonna-in-a-fur-coat)                                                                 | Sabahattin Ali         | 1943      | 168   |
 |     | [The Remains of the Day](https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day)                                                                  | Kazuo Ishiguro         | 1989      | 258   |
 |     | [Othello](https://www.goodreads.com/book/show/12996.Othello)                                                                                                | William Shakespeare    | 1603      | 319   |
-|     | [Julius Caesar](https://www.goodreads.com/book/show/13006.Julius_Caesar)                                                                                    | William Shakespeare    | 1599      | 175   |
 |     | [The Invention of Morel](https://www.goodreads.com/book/show/94486.The_Invention_of_Morel)                                                                  | Adolfo Bioy Casares    | 1940      | 103   |
 |     | [The Travelling Cat Chronicles](https://www.goodreads.com/book/show/40961230-the-travelling-cat-chronicles)                                                 | Hiro Arikawa           | 2012      | 281   |
 |     | [Interpreter of Maladies](https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies)                                                                 | Jhumpa Lahiri          | 1999      | 198   |
@@ -126,6 +125,12 @@ cssclasses:
 |     | [Franny and Zooey](https://www.goodreads.com/book/show/5113.Franny_and_Zooey)                                                                               | J.D. Salinger          | 1957      | 201   |
 |     | [The Idiot](https://www.goodreads.com/book/show/12505.The_Idiot)                                                                                            | Fyodor Dostoevsky      | 1869      | 667   |
 |     | [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot)                                                                                               | Isaac Asimov           | 1950      | 224   |
+|     | [The Painted Veil](https://www.goodreads.com/book/show/99664.The_Painted_Veil)                                                                              | W. Somerset Maugham    | 1925      | 246   |
+|     | [The Tenant of Wildfell Hall](https://www.goodreads.com/book/show/337113.The_Tenant_of_Wildfell_Hall)                                                       | Anne Brontë            | 1848      | 576   |
+|     | [Small Gods](https://www.goodreads.com/book/show/34484.Small_Gods)                                                                                          | Terry Pratchett        | 1992      | 389   |
+|     | [The Woman in White](https://www.goodreads.com/book/show/5890.The_Woman_in_White)                                                                           | Wilkie Collins         | 1859      | 672   |
+|     | [The Bloody Chamber](https://www.goodreads.com/book/show/49011.The_Bloody_Chamber_and_Other_Stories)                                                        | Angela Carter          | 1979      | 126   |
+|     | [Fingersmith](https://www.goodreads.com/book/show/8913370-fingersmith)                                                                                      | Sarah Waters           | 2002      | 592   |
 
 ### Non-Fiction
 
@@ -147,4 +152,3 @@ cssclasses:
 |     | [Tao Te Ching](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)                                              | Lao Tzu              | 350       | 107   |
 |     | [No Exit](https://www.goodreads.com/book/show/123933.No_Exit)                                                       | Jean-Paul Sartre     | 1944      | 60    |
 |     | [The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet)                                                 | Kahlil Gibran        | 1923      | 127   |
-|     | [The Wheel of the Year](https://www.goodreads.com/book/show/61271694-the-wheel-of-the-year)                         | Fiona Cook           | 2023      | 256   |

@@ -6,17 +6,17 @@ published: 2016
 type: Fiction
 format: Digital
 genre:
-  - Contemporary
+  - Commentary
   - Feminism
+  - Domestic
   - Psychological
-  - Contemporary
 pages: 98
 ISBN: 9781631496714
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌑
+status: Completed
 date: 2025-05-31 09:51:18 -0500
-finished: 2025-05-31 09:51:18 -0500
-updated: 2025-05-31 09:51:18 -0500
+finished: 2025-06-05 09:51:18 -0500
+updated: 2025-06-05 09:22:08 -0500
 ---
 
 ![[kim-jiyoung-born-1982.jpg|300]]

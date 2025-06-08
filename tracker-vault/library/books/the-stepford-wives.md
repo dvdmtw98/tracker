@@ -11,11 +11,11 @@ genre:
   - Science Fiction
 pages: 106
 ISBN: 9781849017459
-rating: 🌕🌕🌕🌕🌕
+rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-04-12 09:25:21 -0500
 finished: 2025-04-17T09:25:21
-updated: 2025-05-15 19:13:36 -0500
+updated: 2025-06-03 12:58:29 -0500
 ---
 
 ![[the-stepford-wives.jpg|300]]
