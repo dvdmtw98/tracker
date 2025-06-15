@@ -8,14 +8,14 @@ genre:
   - Fantasy
   - Adventure
   - Mystery
-  - Philosophical
+  - Novella
 pages: 119
 ISBN: 9781938570025
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-06-22 16:00:32 -0500
 finished: 2024-06-23 22:05:37 -0500
-updated: 2025-05-15 22:53:11 -0500
+updated: 2025-06-11 23:17:11 -0500
 ---
 
 ![[the-emperors-soul.jpg|300]]

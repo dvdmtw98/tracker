@@ -9,14 +9,14 @@ genre:
   - Gothic
   - Horror
   - Mystery
-  - Psychological
+  - Novella
 pages: 74
 ISBN: 9781620116722
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-07-02 12:56:11 -0500
 finished: 2024-07-04 15:45:08 -0500
-updated: 2025-05-31 18:41:33 -0500
+updated: 2025-06-11 23:16:01 -0500
 ---
 
 ![[dr-jekyll-and-mr-hyde.jpg|300]]

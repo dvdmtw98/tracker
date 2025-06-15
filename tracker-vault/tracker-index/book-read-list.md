@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-06-07 19:04:49 -0500
+updated: 2025-06-13 15:35:16 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -43,7 +43,6 @@ cssclasses:
 |     | [The Night Circus](https://www.goodreads.com/book/show/9361589-the-night-circus)                                                                            | Erin Morgenstern       | 2011      | 506   |
 |     | [East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)                                                                                       | John Steinbeck         | 1952      | 601   |
 |     | [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon)                                                                      | Daniel Keyes           | 1966      | 311   |
-|     | [Frankenstein](https://www.goodreads.com/book/show/35031085-frankenstein)                                                                                   | Mary  Shelley          | 1818      | 260   |
 |     | [Of Mice and Men](https://www.goodreads.com/book/show/890.Of_Mice_and_Men)                                                                                  | John Steinbeck         | 1937      | 107   |
 |     | [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)                                                      | Gabriel García Márquez | 1967      | 417   |
 |     | [Pale Fire](https://www.goodreads.com/book/show/7805.Pale_Fire)                                                                                             | Vladimir Nabokov       | 1962      | 246   |
@@ -129,8 +128,12 @@ cssclasses:
 |     | [The Tenant of Wildfell Hall](https://www.goodreads.com/book/show/337113.The_Tenant_of_Wildfell_Hall)                                                       | Anne Brontë            | 1848      | 576   |
 |     | [Small Gods](https://www.goodreads.com/book/show/34484.Small_Gods)                                                                                          | Terry Pratchett        | 1992      | 389   |
 |     | [The Woman in White](https://www.goodreads.com/book/show/5890.The_Woman_in_White)                                                                           | Wilkie Collins         | 1859      | 672   |
-|     | [The Bloody Chamber](https://www.goodreads.com/book/show/49011.The_Bloody_Chamber_and_Other_Stories)                                                        | Angela Carter          | 1979      | 126   |
 |     | [Fingersmith](https://www.goodreads.com/book/show/8913370-fingersmith)                                                                                      | Sarah Waters           | 2002      | 592   |
+|     | [The Flowers of Evil](https://www.goodreads.com/book/show/536387.The_Flowers_of_Evil)                                                                       | Charles Baudelaire     | 1857      | 464   |
+|     | [Eugene Onegin](https://www.goodreads.com/book/show/27822.Eugene_Onegin)                                                                                    | Alexander Pushkin      | 1833      | 240   |
+|     | [The Tunnel](https://www.goodreads.com/book/show/9574908-the-tunnel)                                                                                        | Ernesto Sabato         | 1948      | 140   |
+|     | [War with the Newts](https://www.goodreads.com/book/show/816440.War_with_the_Newts)                                                                         | Karel Čapek            | 1936      | 241   |
+|     | [Seven Gothic Tales](https://www.goodreads.com/book/show/669305.Seven_Gothic_Tales)                                                                         | Isak Dinesen           | 1934      | 420   |
 
 ### Non-Fiction
 

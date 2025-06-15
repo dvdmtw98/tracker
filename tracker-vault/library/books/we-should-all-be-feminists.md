@@ -8,14 +8,14 @@ genre:
   - Feminism
   - Educational
   - Commentary
-  - Human Rights
+  - Essay
 pages: 28
 ISBN: 9780008115289
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-05-23 14:48:35 -0500
 finished: 2025-05-23 14:48:35 -0500
-updated: 2025-05-23 15:48:11 -0500
+updated: 2025-06-11 23:07:33 -0500
 ---
 
 ![[we-should-all-be-feminists.jpg|300]]

@@ -5,7 +5,7 @@ tags:
   - list
   - comic
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-05-22 20:39:20 -0500
+updated: 2025-06-08 23:26:57 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -35,7 +35,6 @@ cssclasses:
 | No. | Name                                                                         | Author     | Published | Chapters |
 | :-- | :--------------------------------------------------------------------------- | :--------- | :-------- | :------- |
 |     | [Hellper](https://myanimelist.net/manga/61583/Hellper)                       | Sakk       | 2011      | 188      |
-|     | [Sweet Home](https://www.goodreads.com/book/show/63227747-sweet-home-tome-2) | Kim Carnby | 2017      | 141      |
 
 ### Comic
 

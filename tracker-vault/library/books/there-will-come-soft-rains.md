@@ -8,14 +8,14 @@ genre:
   - Science Fiction
   - Speculative
   - Philosophical
-  - Post-Apocalyptic
+  - Short Story
 pages: 8
 ISBN: 9780895989628
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-05-16 10:35:42 -0500
 finished: 2025-05-16 11:04:42 -0500
-updated: 2025-05-16 11:15:04 -0500
+updated: 2025-06-11 23:05:08 -0500
 ---
 
 ![[there-will-come-soft-rains.jpg|300]]

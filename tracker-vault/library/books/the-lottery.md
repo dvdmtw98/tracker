@@ -6,16 +6,16 @@ type: Fiction
 format: Digital
 genre:
   - Dystopian
-  - Horror
   - Psychological
   - Suspense
+  - Short Story
 pages: 14
 ISBN: 9781563127878
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-01-24T23:25:04
 finished: 2025-01-24T12:02:54
-updated: 2025-05-15 19:07:43 -0500
+updated: 2025-06-11 23:03:59 -0500
 ---
 
 ![[the-lottery.jpg|300]]

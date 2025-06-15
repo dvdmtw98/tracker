@@ -8,14 +8,14 @@ genre:
   - Philosophical
   - Dystopian
   - Speculative
-  - Fantasy
+  - Short Story
 pages: 20
 ISBN: 9780062470973
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-03-19 20:57:13 -0500
 finished: 2025-03-19T22:14:29
-updated: 2025-05-15 19:09:40 -0500
+updated: 2025-06-11 23:04:11 -0500
 ---
 
 ![[the-ones-who-walk-away-from-omelas.jpg|300]]

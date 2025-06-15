@@ -51,7 +51,7 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
 }
 
 const yearFormatter = (published) => {
-    return Math.sign(published) === 1 ? published : `${Math.abs(published)} BC`;
+    return Math.sign(published) === 1 ? published : `${Math.abs(published)} BCE`;
 }
 
 const pageCountFormatter = (book, bookType) => {
@@ -109,7 +109,7 @@ const getCoverImage = (book) => {
 const bookIndexGenerator = (groupedBooks, bookType) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
     const tableHeaders = [
-        "Cover", "Title", "Author", "Published", "Pages", "Genre", "Status", "Rating"
+        "Cover", "Title", "Author", "Published", "Pages", "Type", "Genre", "Status", "Rating"
     ];
 
     let outputMarkdown = "\n";
@@ -132,6 +132,7 @@ const bookIndexGenerator = (groupedBooks, bookType) => {
                         book.author,
                         yearFormatter(book.published),
                         pageCountFormatter(book, bookType),
+                        book.type,
                         book.genre,
                         book.status,
                         book.rating

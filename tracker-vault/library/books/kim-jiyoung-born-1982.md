@@ -8,15 +8,15 @@ format: Digital
 genre:
   - Commentary
   - Feminism
-  - Domestic
   - Psychological
+  - Novella
 pages: 98
 ISBN: 9781631496714
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2025-05-31 09:51:18 -0500
 finished: 2025-06-05 09:51:18 -0500
-updated: 2025-06-05 09:22:08 -0500
+updated: 2025-06-11 23:10:13 -0500
 ---
 
 ![[kim-jiyoung-born-1982.jpg|300]]

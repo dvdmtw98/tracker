@@ -6,17 +6,17 @@ published: 1995
 type: Fiction
 format: Digital
 genre:
-  - Science Fiction
   - Dystopian
   - Psychological
   - Speculative
+  - Novella
 pages: 136
 ISBN: 9781473570801
 rating: 🌕🌕🌕🌕🌕
 status: Completed
 date: 2025-01-03T18:06:00
 finished: 2025-04-08T12:48:02
-updated: 2025-05-30 23:40:02 -0500
+updated: 2025-06-11 23:09:59 -0500
 ---
 
 ![[i-who-have-never-known-men.jpg|300]]

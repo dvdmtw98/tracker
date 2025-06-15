@@ -9,14 +9,14 @@ genre:
   - Fantasy
   - Adventure
   - Magical Realism
-  - Fairy-tale
+  - Novella
 pages: 95
 ISBN: 9789358562958
 rating: 🌕🌕🌕🌕🌑
 status: Completed
 date: 2024-12-22 18:00:00 -0600
 finished: 2024-12-28 13:27:52 -0600
-updated: 2025-05-31 18:44:41 -0500
+updated: 2025-06-11 23:16:39 -0500
 ---
 
 ![[nutcracker.jpg|300]]

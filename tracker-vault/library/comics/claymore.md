@@ -12,11 +12,11 @@ genre:
   - Supernatural
 chapters: 159
 ISBN: 9781421583167
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌗
+status: Completed
 date: 2025-05-22 20:28:49 -0500
-finished: 2025-05-22 20:28:49 -0500
-updated: 2025-05-22 20:29:20 -0500
+finished: 2025-06-08 21:46:30 -0500
+updated: 2025-06-08 22:49:56 -0500
 ---
 
 ![[claymore.jpg|300]]

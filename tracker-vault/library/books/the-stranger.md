@@ -9,14 +9,14 @@ genre:
   - Philosophical
   - Psychological
   - Existentialism
-  - Drama
+  - Novella
 pages: 88
 ISBN: 9780679720201
 rating: 🌕🌕🌕🌗🌑
 status: Completed
 date: 2023-07-16 19:08:29 -0500
 finished: 2023-07-26 16:58:18 -0500
-updated: 2025-05-31 19:02:36 -0500
+updated: 2025-06-11 23:21:09 -0500
 ---
 
 ![[the-stranger.jpg|300]]

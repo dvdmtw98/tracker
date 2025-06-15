@@ -9,14 +9,14 @@ genre:
   - Philosophical
   - Spiritual
   - Psychological
-  - Allegory
+  - Novella
 pages: 142
 ISBN: 9781577153757
 rating: 🌕🌕🌕🌑🌑
 status: Completed
 date: 2023-01-11 18:52:41 -0500
 finished: 2023-01-28 16:57:19 -0500
-updated: 2025-05-31 19:00:04 -0500
+updated: 2025-06-11 23:20:58 -0500
 ---
 
 ![[siddhartha.jpg|300]]

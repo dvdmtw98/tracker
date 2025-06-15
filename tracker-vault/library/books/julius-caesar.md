@@ -3,7 +3,7 @@ name: The Tragedy of Julius Caesar
 shortname: Julius Caesar
 author: William Shakespeare
 published: 1599
-type: Fiction
+type: Play
 format: Digital
 genre:
   - Historical
@@ -12,11 +12,11 @@ genre:
   - Thriller
 pages: 253
 ISBN: 9781476788456
-rating: 🌑🌑🌑🌑🌑
-status: Reading
+rating: 🌕🌕🌕🌕🌑
+status: Completed
 date: 2025-06-05 16:07:58 -0500
-finished: 2025-06-05 16:07:58 -0500
-updated: 2025-06-05 16:11:22 -0500
+finished: 2025-06-13 12:32:16 -0500
+updated: 2025-06-13 12:32:57 -0500
 ---
 
 ![[julius-caesar.jpg|300]]
