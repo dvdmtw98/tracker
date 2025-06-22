@@ -4,18 +4,19 @@ shortname: Tracers in the Dark
 author: Andy Greenberg
 published: 2022
 type: Non-Fiction
-format: Digital
 genre:
   - Crime
   - Cybersecurity
   - Journalism
   - Technology
-pages: 367
-ISBN: 9780385548106
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-04-17 16:50:06 -0500
-finished: 2025-05-13T15:44:30
+readingHistory:
+  - format: Digital
+    pages: 367
+    ISBN: 9780385548106
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-04-17 16:50:06 -0500
+    end: 2025-05-13T15:44:30
 updated: 2025-05-15 19:16:42 -0500
 ---
 

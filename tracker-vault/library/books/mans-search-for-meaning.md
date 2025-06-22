@@ -3,18 +3,19 @@ name: Man's Search for Meaning
 author: Viktor E. Frankl
 published: 1946
 type: Non-Fiction
-format: Digital
 genre:
   - Psychology
   - Philosophy
   - Memoir
   - Self-Help
-pages: 148
-ISBN: 9780807014288
-rating: 🌕🌕🌕🌑🌑
-status: Completed
-date: 2022-07-04 15:24:51 -0500
-finished: 2022-07-22 16:56:59 -0500
+readingHistory:
+  - format: Digital
+    pages: 148
+    ISBN: 9780807014288
+    rating: 🌕🌕🌕🌑🌑
+    status: Completed
+    start: 2022-07-04 15:24:51 -0500
+    end: 2022-07-22 16:56:59 -0500
 updated: 2025-05-31 19:12:24 -0500
 ---
 

@@ -3,18 +3,19 @@ name: A Thousand Splendid Suns
 author: Khaled Hosseini
 published: 2007
 type: Fiction
-format: Digital
 genre:
   - Historical
   - Drama
   - Contemporary
   - Political
-pages: 348
-ISBN: 9781408803738
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2024-07-21 14:37:52 -0500
-finished: 2024-07-28 21:37:25 -0500
+readingHistory:
+  - format: Digital
+    pages: 348
+    ISBN: 9781408803738
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2024-07-21 14:37:52 -0500
+    end: 2024-07-28 21:37:25 -0500
 updated: 2025-05-30 23:47:54 -0500
 ---
 

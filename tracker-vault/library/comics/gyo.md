@@ -5,7 +5,6 @@ author: Junji Ito
 artist: Junji Ito
 published: 2002
 type: Manga
-format: Digital
 genre:
   - Horror
   - Mystery
@@ -13,10 +12,12 @@ genre:
   - Thriller
 chapters: 19
 ISBN: 9781421579153
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-04-13 11:00:27 -0500
-finished: 2025-04-14 20:00:27 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-04-13 11:00:27 -0500
+    end: 2025-04-14 20:00:27 -0500
 updated: 2025-05-21 13:42:15 -0500
 ---
 

@@ -3,18 +3,19 @@ name: The Ones Who Walk Away from Omelas
 author: Ursula K. Le Guin
 published: 1973
 type: Fiction
-format: Digital
 genre:
   - Philosophical
   - Dystopian
   - Speculative
   - Short Story
-pages: 20
-ISBN: 9780062470973
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-03-19 20:57:13 -0500
-finished: 2025-03-19T22:14:29
+readingHistory:
+  - format: Digital
+    pages: 20
+    ISBN: 9780062470973
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-03-19 20:57:13 -0500
+    end: 2025-03-19T22:14:29
 updated: 2025-06-11 23:04:11 -0500
 ---
 

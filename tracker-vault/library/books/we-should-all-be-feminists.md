@@ -3,18 +3,19 @@ name: We Should All Be Feminists
 author: Chimamanda Ngozi Adichie
 published: 2012
 type: Non-Fiction
-format: Digital
 genre:
   - Feminism
   - Educational
   - Commentary
   - Essay
-pages: 28
-ISBN: 9780008115289
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-05-23 14:48:35 -0500
-finished: 2025-05-23 14:48:35 -0500
+readingHistory:
+  - format: Digital
+    pages: 28
+    ISBN: 9780008115289
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-05-23 14:48:35 -0500
+    end: 2025-05-23 14:48:35 -0500
 updated: 2025-06-11 23:07:33 -0500
 ---
 

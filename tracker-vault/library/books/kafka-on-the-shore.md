@@ -1,21 +1,22 @@
 ---
 name: Kafka on the Shore
 author: Haruki Murakami
-translator: Philip Gabriel
 published: 2002
 type: Fiction
-format: Physical
 genre:
   - Magical Realism
   - Psychological
   - Mystery
   - Adventure
-pages: 492
-ISBN: 9781400044818
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2021-02-16 21:40:23 -0500
-finished: 2021-04-08 15:08:01 -0500
+readingHistory:
+  - format: Physical
+    translator: Philip Gabriel
+    pages: 492
+    ISBN: 9781400044818
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2021-02-16 21:40:23 -0500
+    end: 2021-04-08 15:08:01 -0500
 updated: 2025-05-31 19:09:41 -0500
 ---
 

@@ -1,21 +1,22 @@
 ---
 name: Story of the Eye
 author: Georges Bataille
-translator: Joachim Neugroschel
 published: 1928
 type: Fiction
-format: Digital
 genre:
   - Erotica
   - Psychological
   - Transgressive
   - Novella
-pages: 126
-ISBN: 9780141913674
-rating: 🌕🌕🌕🌑🌑
-status: Completed
-date: 2024-07-28 18:01:18 -0500
-finished: 2024-07-31 18:03:18 -0500
+readingHistory:
+  - format: Digital
+    translator: Joachim Neugroschel
+    pages: 126
+    ISBN: 9780141913674
+    rating: 🌕🌕🌕🌑🌑
+    status: Completed
+    start: 2024-07-28 18:01:18 -0500
+    end: 2024-07-31 18:03:18 -0500
 updated: 2025-06-11 23:16:57 -0500
 ---
 

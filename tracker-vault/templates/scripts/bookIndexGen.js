@@ -4,21 +4,27 @@ const dv = app.plugins.plugins["dataview"].api;
 // dv.array(arrayName): Convert JS array to DV array
 
 const groupBooksByYear = (bookDirectory, bookType) => {
-    // Group books by year finished
-    let groupedBooks = dv.pages(bookDirectory).groupBy((book) => {
-        if (bookType === 'comics' && book.chapters === -1) {
-            // For ongoing books current year is used
-            return new Date().getFullYear();
-        } else {
-            return new Date(book.finished).getFullYear();
-        }
+    // Flatten each read into a separate item
+    let allReads = dv.pages(bookDirectory).flatMap(book => {
+        return book.readingHistory.map(readingInfo => ({
+            ...book, current: readingInfo
+        }));
     });
+
+    // Group books by year finished
+    let groupedBooks = allReads.groupBy((book) => {
+        // For ongoing books current year is used
+        if (bookType === 'comics' && book.chapters === -1) {
+            return new Date().getFullYear();
+        }
+        return new Date(book.current.end).getFullYear();
+    });
+    // console.log(groupedBooks);
 
     // Sort groups (years) in descending order
     groupedBooks.values.sort((a, b) => {
         return Number(b.key) - Number(a.key);
     });
-    // console.log(groupedBooks);
 
     // Within each group (year), sort by title (ascending) 
     groupedBooks.forEach((group) => {
@@ -33,10 +39,10 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
     // Segregate books into groups based on status
     let statusGroups = {};
     for (const book of bookGroup.rows.array()) {
-        if (!statusGroups[book.status]) {
-            statusGroups[book.status] = [];
+        if (!statusGroups[book.current.status]) {
+            statusGroups[book.current.status] = [];
         }
-        statusGroups[book.status].push(book);
+        statusGroups[book.current.status].push(book);
     }
 
     // Concatenate the (status) groups back together 
@@ -57,11 +63,11 @@ const yearFormatter = (published) => {
 const pageCountFormatter = (book, bookType) => {
     if (bookType === 'books') {
         let pageCount;
-        if (book.pages !== null || book.pages !== undefined) {
-            if (Number.isInteger(book.pages)) {
-                pageCount = `${book.pages} pages`
+        if (book.current.pages !== null || book.current.pages !== undefined) {
+            if (Number.isInteger(book.current.pages)) {
+                pageCount = `${book.current.pages} pages`
             } else {
-                const [hoursStr, minutesStr] = book.pages.toString().split('.');
+                const [hoursStr, minutesStr] = book.current.pages.toString().split('.');
                 pageCount = `${hoursStr} hr ${minutesStr} mins`;
             }
         } else {
@@ -134,8 +140,8 @@ const bookIndexGenerator = (groupedBooks, bookType) => {
                         pageCountFormatter(book, bookType),
                         book.type,
                         book.genre,
-                        book.status,
-                        book.rating
+                        book.current.status,
+                        book.current.rating
                     ];
                 })
         );

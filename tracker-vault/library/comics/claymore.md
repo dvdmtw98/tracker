@@ -4,7 +4,6 @@ author: Norihiro Yagi
 artist: Norihiro Yagi
 published: 2001
 type: Manga
-format: Digital
 genre:
   - Fantasy
   - Action
@@ -12,10 +11,12 @@ genre:
   - Supernatural
 chapters: 159
 ISBN: 9781421583167
-rating: 🌕🌕🌕🌕🌗
-status: Completed
-date: 2025-05-22 20:28:49 -0500
-finished: 2025-06-08 21:46:30 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌗
+    status: Completed
+    start: 2025-05-22 20:28:49 -0500
+    end: 2025-06-08 21:46:30 -0500
 updated: 2025-06-08 22:49:56 -0500
 ---
 

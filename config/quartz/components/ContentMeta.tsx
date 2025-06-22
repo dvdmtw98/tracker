@@ -1,4 +1,4 @@
-import { Date } from "./Date"
+import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames, capitalize } from "../util/lang"
@@ -28,43 +28,65 @@ const defaultOptions: ContentMetaOptions = {
   rootDirectory: "content"
 }
 
+const frontmatterElement = (
+  displayClass: QuartzComponentProps["displayClass"], frontmatterKey: string, frontmatterValue: string
+) => {
+  return `
+    <p style="margin: 0;" class="${classNames(displayClass, "content-meta")}">
+      <span class="content-meta-title">${frontmatterKey}:</span>
+      <span class="content-meta-value">${frontmatterValue}</span>
+    </p>
+  `;
+}
+
 const customSegmentGenerator = (
   cfg: QuartzComponentProps["GlobalConfiguration"], fileData: QuartzComponentProps["fileData"],
-  displayClass: QuartzComponentProps["displayClass"], propertyList: string[],
-  createdTime: JSX.Element
+  displayClass: QuartzComponentProps["displayClass"]
 ) => {
-  const propertiesWithComma = ["author", "translator", "artist"];
+  const propertiesWithComma = ["Author", "Translator", "Artist"];
+  const propertiesWithDate = ["Start", "End"];
+  const propertiesToSkip = ["title", "name", "shortname", "tags", "genre", "created", "modified", "updated"];
+
   let customSegment = ``;
+  Object.entries(fileData.frontmatter ?? {})
+    .filter(([key]) => !propertiesToSkip.includes(key)).forEach(([mainKey, mainValue]) => {
 
-  for (const property of propertyList) {
-    let frontMatterValue = fileData.frontmatter?.[property] as string;
-    if (!frontMatterValue) {
-      continue;
-    }
+      if (!Array.isArray(mainValue)) {
+        let mainFrontmatterKey = capitalize(mainKey);
+        let mainFrontmatterValue = mainValue as string;
 
-    let frontMatterName = capitalize(property);
+        if (propertiesWithComma.includes(mainFrontmatterKey)) {
+          mainFrontmatterValue = mainFrontmatterValue.split(",").map(name => name.trim()).join("<br>");
+        }
 
-    if (property === "date") {
-      frontMatterName = "Started";
-      frontMatterValue = renderToString(createdTime);
-    }
+        customSegment += frontmatterElement(displayClass, mainFrontmatterKey, mainFrontmatterValue);
+      } else {
+        mainValue.forEach((history, index) => {
+          customSegment += `
+            <p style="margin: 0;" class="${classNames(displayClass, "content-meta")}">
+              <span class="content-meta-value" style="text-decoration: underline;">Reading ${index + 1}</span>
+            </p>
+          `;
 
-    if (property === "finished") {
-      const parsedDate = new globalThis.Date(frontMatterValue);
-      frontMatterValue = renderToString(<Date date={parsedDate} locale={cfg.locale} />)
-    }
+          Object.entries(history).forEach(([nestedKey, nestedValue]) => {
+            let nestedFrontmatterKey = capitalize(nestedKey);
+            let nestedFrontmatterValue = nestedValue as string;
 
-    if (propertiesWithComma.includes(property)) {
-      frontMatterValue = frontMatterValue.split(",").map(name => name.trim()).join("<br>");
-    }
+            if (propertiesWithDate.includes(nestedFrontmatterKey)) {
+              const parsedDate = new globalThis.Date(nestedFrontmatterValue);
+              nestedFrontmatterValue = renderToString(<Date date={parsedDate} locale={cfg.locale} />)
+            }
 
-    customSegment += `
-      <p style="margin: 0;" class="${classNames(displayClass, "content-meta")}">
-        <span class="content-meta-title">${frontMatterName}:</span>
-        <span class="content-meta-value">${frontMatterValue}</span>
-      </p>
-    `;
-  }
+            if (propertiesWithComma.includes(nestedFrontmatterKey)) {
+              nestedFrontmatterValue = nestedFrontmatterValue.split(",").map(name => name.trim()).join("<br>");
+            }
+
+            customSegment += frontmatterElement(displayClass, nestedFrontmatterKey, nestedFrontmatterValue);
+          });
+        });
+      }
+
+    });
 
   return customSegment;
 }
@@ -75,20 +97,8 @@ const frontmatterComponentGenerator = (
 ) => {
   let customSegment = ``;
 
-  const sharedProperties = [
-    'author', 'published', 'type', 'format', 'ISBN', 'rating', 'status', 'date', 'finished'
-  ];
-
-  if (fileData.slug?.includes("books/")) {
-    const bookProperties = [...sharedProperties];
-    bookProperties.splice(4, 0, 'pages');
-    bookProperties.splice(1, 0, 'translator');
-    customSegment = customSegmentGenerator(cfg, fileData, displayClass, bookProperties, createdTime);
-  } else if (fileData.slug?.includes("comics/")) {
-    const comicProperties = [...sharedProperties];
-    comicProperties.splice(4, 0, 'chapters');
-    comicProperties.splice(1, 0, 'artist');
-    customSegment = customSegmentGenerator(cfg, fileData, displayClass, comicProperties, createdTime);
+  if (fileData.slug?.includes("books/") || fileData.slug?.includes("comics/")) {
+    customSegment = customSegmentGenerator(cfg, fileData, displayClass);
   } else {
     customSegment = `
       <p style="margin: 0;" class="${classNames(displayClass, "content-meta", "date-meta")}">

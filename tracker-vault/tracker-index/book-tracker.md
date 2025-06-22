@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-06-11 23:15:21 -0500
+updated: 2025-06-20 15:11:48 -0500
 cssclasses:
   - cards
   - cards-cols-4

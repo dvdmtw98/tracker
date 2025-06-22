@@ -1,21 +1,22 @@
 ---
 name: Ficciones
 author: Jorge Luis Borges
-translator: Anthony Kerrigan, Alastair Reid, Anthony Bonner, Helen Temple, Ruthven Todd
 published: 1944
 type: Fiction
-format: Digital
 genre:
   - Philosophical
   - Speculative
   - Postmodern
   - Story Collection
-pages: 147
-ISBN: 9780802130303
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-05-16 21:44:13 -0500
-finished: 2025-05-20 13:05:04 -0500
+readingHistory:
+  - format: Digital
+    translator: Anthony Kerrigan, Alastair Reid, Anthony Bonner, Helen Temple, Ruthven Todd
+    pages: 147
+    ISBN: 9780802130303
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-05-16 21:44:13 -0500
+    end: 2025-05-20 13:05:04 -0500
 updated: 2025-06-11 23:12:06 -0500
 ---
 

@@ -4,18 +4,19 @@ shortname: Julius Caesar
 author: William Shakespeare
 published: 1599
 type: Play
-format: Digital
 genre:
   - Historical
   - Drama
   - Political
   - Thriller
-pages: 253
-ISBN: 9781476788456
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-06-05 16:07:58 -0500
-finished: 2025-06-13 12:32:16 -0500
+readingHistory:
+  - format: Digital
+    pages: 253
+    ISBN: 9781476788456
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-06-05 16:07:58 -0500
+    end: 2025-06-13 12:32:16 -0500
 updated: 2025-06-13 12:32:57 -0500
 ---
 

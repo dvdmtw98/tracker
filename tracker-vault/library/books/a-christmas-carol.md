@@ -3,18 +3,19 @@ name: A Christmas Carol
 author: Charles Dickens
 published: 1843
 type: Fiction
-format: Digital
 genre:
   - Fantasy
   - Gothic
   - Allegory
   - Novella
-pages: 121
-ISBN: 9780141901077
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2024-12-19 19:50:00 -0600
-finished: 2024-12-22 19:51:48 -0600
+readingHistory:
+  - format: Digital
+    pages: 121
+    ISBN: 9780141901077
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2024-12-19 19:50:00 -0600
+    end: 2024-12-22 19:51:48 -0600
 updated: 2025-06-11 23:14:54 -0500
 ---
 

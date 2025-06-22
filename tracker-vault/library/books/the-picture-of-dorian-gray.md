@@ -3,18 +3,19 @@ name: The Picture of Dorian Gray
 author: Oscar Wilde
 published: 1890
 type: Fiction
-format: Digital
 genre:
   - Gothic
   - Philosophical
   - Drama
   - Tragedy
-pages: 198
-ISBN: 9781542097437
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2024-07-14 21:03:51 -0500
-finished: 2024-07-19 23:52:00 -0500
+readingHistory:
+  - format: Digital
+    pages: 198
+    ISBN: 9781542097437
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2024-07-14 21:03:51 -0500
+    end: 2024-07-19 23:52:00 -0500
 updated: 2025-05-31 18:50:52 -0500
 ---
 

@@ -4,7 +4,6 @@ author: Naoki Urasawa, Osamu Tezuka
 artist: Naoki Urasawa
 published: 2003
 type: Manga
-format: Digital
 genre:
   - Science Fiction
   - Mystery
@@ -12,10 +11,12 @@ genre:
   - Action
 chapters: 65
 ISBN: 9781421519180
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2024-02-07 10:00:10 -0500
-finished: 2024-02-20 16:57:10 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2024-02-07 10:00:10 -0500
+    end: 2024-02-20 16:57:10 -0500
 updated: 2025-05-21 13:43:50 -0500
 ---
 

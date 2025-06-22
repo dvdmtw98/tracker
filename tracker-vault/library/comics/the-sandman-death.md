@@ -4,7 +4,6 @@ author: Neil Gaiman
 artist: Chris Bachalo
 published: 2012
 type: Comic
-format: Digital
 genre:
   - Fantasy
   - Supernatural
@@ -12,10 +11,12 @@ genre:
   - Philosophical
 chapters: 6
 ISBN: 9781401235482
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2022-12-16 15:42:21 -0500
-finished: 2022-12-16 16:28:10 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2022-12-16 15:42:21 -0500
+    end: 2022-12-16 16:28:10 -0500
 updated: 2025-05-21 13:45:46 -0500
 ---
 

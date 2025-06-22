@@ -5,11 +5,20 @@ const reorderKeys = (frontmatter, newKeysOrder) => {
     // Populate the temporary object with properties in the desired order
     newKeysOrder.forEach(key => {
         if (Object.prototype.hasOwnProperty.call(frontmatter, key)) {
-            if (key !== 'date_finished') {
-	            reorderedTempObject[key] = frontmatter[key];
-            } else {
-	            reorderedTempObject['finished'] = frontmatter['date_finished'];
+            if (key === 'reads') {
+                reorderedTempObject['readingHistory'] = [
+                    {
+                        format: frontmatter['format'],
+                        rating: frontmatter['rating'],
+                        status: frontmatter['status'],
+                        start: frontmatter['reads'][0].start,
+                        end: frontmatter['reads'][0].end
+                    }
+                ];
+                return;
             }
+
+            reorderedTempObject[key] = frontmatter[key];
         }
     });
 
@@ -26,16 +35,16 @@ const reorderKeys = (frontmatter, newKeysOrder) => {
 
 await Promise.all(
     app.vault.getMarkdownFiles().map(async file => {
-        if (file["path"].startsWith("library/")) {
+        if (file["path"].startsWith("library/comics/")) {
             // console.log(file["path"]);
             try {
                 await app.fileManager.processFrontMatter(file, (frontmatter) => {
-                    console.log(JSON.stringify(frontmatter));
+                    // console.log(JSON.stringify(frontmatter));
+                    // console.log(frontmatter);
 
                     const newKeysOrder = [
-                        'name', 'shortname', 'author', 'published',
-                        'type', 'format', 'genre', 'pages', 'ISBN',
-                        'rating', 'status', 'date', 'finished', 'updated'
+                        'name', 'shortname', 'author', 'artist', 'published', 'type', 'genre', 
+                        'chapters', 'ISBN', 'reads', 'updated'
                     ]
                     reorderKeys(frontmatter, newKeysOrder);
                 });

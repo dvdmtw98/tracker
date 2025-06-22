@@ -3,18 +3,19 @@ name: The Lottery
 author: Shirley Jackson
 published: 1948
 type: Fiction
-format: Digital
 genre:
   - Dystopian
   - Psychological
   - Suspense
   - Short Story
-pages: 14
-ISBN: 9781563127878
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2025-01-24T23:25:04
-finished: 2025-01-24T12:02:54
+readingHistory:
+  - format: Digital
+    pages: 14
+    ISBN: 9781563127878
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2025-01-24T23:25:04
+    end: 2025-01-24T12:02:54
 updated: 2025-06-11 23:03:59 -0500
 ---
 

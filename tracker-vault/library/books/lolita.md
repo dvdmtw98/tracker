@@ -3,18 +3,19 @@ name: Lolita
 author: Vladimir Nabokov
 published: 1955
 type: Fiction
-format: Digital
 genre:
   - Psychological
   - Drama
   - Romance
   - Tragedy
-pages: 362
-ISBN: 9780307744029
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2024-08-18 18:26:05 -0500
-finished: 2024-09-02 12:50:01 -0500
+readingHistory:
+  - format: Digital
+    pages: 362
+    ISBN: 9780307744029
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2024-08-18 18:26:05 -0500
+    end: 2024-09-02 12:50:01 -0500
 updated: 2025-05-30 23:51:56 -0500
 ---
 

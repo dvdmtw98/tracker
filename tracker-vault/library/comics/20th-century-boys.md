@@ -4,7 +4,6 @@ author: Naoki Urasawa
 artist: Naoki Urasawa
 published: 1999
 type: Manga
-format: Digital
 genre:
   - Mystery
   - Thriller
@@ -12,10 +11,12 @@ genre:
   - Psychological
 chapters: 249
 ISBN: 9781421599618
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2022-05-11 09:42:10 -0500
-finished: 2022-07-15 23:30:52 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2022-05-11 09:42:10 -0500
+    end: 2022-07-15 23:30:52 -0500
 updated: 2025-05-21 13:38:20 -0500
 ---
 

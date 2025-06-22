@@ -4,18 +4,19 @@ shortname: Dr. Jekyll and Mr. Hyde
 author: Robert Louis Stevenson
 published: 1886
 type: Fiction
-format: Digital
 genre:
   - Gothic
   - Horror
   - Mystery
   - Novella
-pages: 74
-ISBN: 9781620116722
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2024-07-02 12:56:11 -0500
-finished: 2024-07-04 15:45:08 -0500
+readingHistory:
+  - format: Digital
+    pages: 74
+    ISBN: 9781620116722
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2024-07-02 12:56:11 -0500
+    end: 2024-07-04 15:45:08 -0500
 updated: 2025-06-11 23:16:01 -0500
 ---
 

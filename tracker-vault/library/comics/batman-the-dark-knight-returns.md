@@ -4,7 +4,6 @@ author: Frank Miller
 artist: Frank Miller, Klaus Janson, Lynn Varley
 published: 1986
 type: Comic
-format: Digital
 genre:
   - Action
   - Crime
@@ -12,10 +11,12 @@ genre:
   - Drama
 chapters: 4
 ISBN: 9781401266783
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2024-06-08 17:07:59 -0500
-finished: 2024-06-09 22:34:02 -0600
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2024-06-08 17:07:59 -0500
+    end: 2024-06-09 22:34:02 -0600
 updated: 2025-05-21 13:40:38 -0500
 ---
 

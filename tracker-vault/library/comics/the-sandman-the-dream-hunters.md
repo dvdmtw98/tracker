@@ -4,7 +4,6 @@ author: Neil Gaiman
 artist: P. Craig Russell
 published: 1999
 type: Comic
-format: Digital
 genre:
   - Fantasy
   - Supernatural
@@ -12,10 +11,12 @@ genre:
   - Romance
 chapters: 4
 ISBN: 9781401224288
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2022-12-14 13:21:54 -0500
-finished: 2022-12-14 16:26:57 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2022-12-14 13:21:54 -0500
+    end: 2022-12-14 16:26:57 -0500
 updated: 2025-05-21 13:46:45 -0500
 ---
 

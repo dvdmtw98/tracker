@@ -13,16 +13,17 @@ cssclasses:
   - cards-align-bottom
 ---
 
-### 2025 (6)
+### 2025 (7)
 
-| Cover                           | Title                                      | Author           | Published | Pages          | Type   | Genre                                                                             | Status    | Rating     |
-| ------------------------------- | ------------------------------------------ | ---------------- | --------- | -------------- | ------ | --------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[chainsaw-man.jpg\|92]]       | [[chainsaw-man\|Chainsaw Man]]             | Tatsuki Fujimoto | 2018      | ? chapter(s)   | Manga  | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
-| ![[bastard.jpg\|92]]            | [[bastard\|Bastard]]                       | Carnby Kim       | 2014      | 94 chapter(s)  | Manhwa | <ul><li>Thriller</li><li>Mystery</li><li>Psychological</li><li>Crime</li></ul>    | Completed | 🌕🌕🌕🌕🌑 |
-| ![[claymore.jpg\|92]]           | [[claymore\|Claymore]]                     | Norihiro Yagi    | 2001      | 159 chapter(s) | Manga  | <ul><li>Fantasy</li><li>Action</li><li>Adventure</li><li>Supernatural</li></ul>   | Completed | 🌕🌕🌕🌕🌗 |
-| ![[emanon-wanderer.jpg\|92]]    | [[emanon-wanderer\|Emanon Wanderer]]       | Shinji Kajio     | 2008      | 37 chapter(s)  | Manga  | <ul><li>Adventure</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>   | Completed | 🌕🌕🌕🌑🌑 |
-| ![[gyo.jpg\|92]]                | [[gyo\|Gyo]]                               | Junji Ito        | 2002      | 19 chapter(s)  | Manga  | <ul><li>Horror</li><li>Mystery</li><li>Psychological</li><li>Thriller</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
-| ![[memories-of-emanon.jpg\|92]] | [[memories-of-emanon\|Memories of Emanon]] | Shinji Kajio     | 2006      | 9 chapter(s)   | Comic  | <ul><li>Mystery</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>     | Completed | 🌕🌕🌕🌕🌕 |
+| Cover                            | Title                                        | Author           | Published | Pages          | Type   | Genre                                                                             | Status    | Rating     |
+| -------------------------------- | -------------------------------------------- | ---------------- | --------- | -------------- | ------ | --------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[chainsaw-man.jpg\|92]]        | [[chainsaw-man\|Chainsaw Man]]               | Tatsuki Fujimoto | 2018      | ? chapter(s)   | Manga  | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[the-flowers-of-evil.jpg\|92]] | [[the-flowers-of-evil\|The Flowers of Evil]] | Shuuzou Oshimi   | 2009      | 58 chapter(s)  | Manga  | <ul><li>Psychological</li><li>Drama</li><li>Romance</li><li>Suspense</li></ul>    | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[bastard.jpg\|92]]             | [[bastard\|Bastard]]                         | Carnby Kim       | 2014      | 94 chapter(s)  | Manhwa | <ul><li>Thriller</li><li>Mystery</li><li>Psychological</li><li>Crime</li></ul>    | Completed | 🌕🌕🌕🌕🌑 |
+| ![[claymore.jpg\|92]]            | [[claymore\|Claymore]]                       | Norihiro Yagi    | 2001      | 159 chapter(s) | Manga  | <ul><li>Fantasy</li><li>Action</li><li>Adventure</li><li>Supernatural</li></ul>   | Completed | 🌕🌕🌕🌕🌗 |
+| ![[emanon-wanderer.jpg\|92]]     | [[emanon-wanderer\|Emanon Wanderer]]         | Shinji Kajio     | 2008      | 37 chapter(s)  | Manga  | <ul><li>Adventure</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>   | Completed | 🌕🌕🌕🌑🌑 |
+| ![[gyo.jpg\|92]]                 | [[gyo\|Gyo]]                                 | Junji Ito        | 2002      | 19 chapter(s)  | Manga  | <ul><li>Horror</li><li>Mystery</li><li>Psychological</li><li>Thriller</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
+| ![[memories-of-emanon.jpg\|92]]  | [[memories-of-emanon\|Memories of Emanon]]   | Shinji Kajio     | 2006      | 9 chapter(s)   | Comic  | <ul><li>Mystery</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>     | Completed | 🌕🌕🌕🌕🌕 |
 
 ### 2024 (11)
 

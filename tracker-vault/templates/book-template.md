@@ -38,27 +38,30 @@ name: "<% result.getValue('name') %>"
 shortname: "<% shortName %>"
 <%* } -%>
 author: <% result.getValue('author') %>
-<%* if (translator !== undefined) { -%>
-translator: "<% translator %>"
-<%* } -%>
 <%* if (artist !== undefined) { -%>
 artist: "<% artist %>"
 <%* } -%>
 published: <% result.getValue('published') %>
 type: <% result.getValue('type') %>
-format: <% result.getValue('format') %>
 genre: 
 <% result.getValue('genre').bullets %>
-<%* if (category === 'Book') { -%>
-pages: <% result.getValue('pages') %>
-<%* } else { -%>
+<%* if (category === 'Comic') { -%>
 chapters: <% result.getValue('pages') %>
-<%* } -%>
 ISBN: <% result.getValue('isbn') %>
-rating: 🌑🌑🌑🌑🌑
-status: Reading
-date: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
-finished: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
+<%* } -%>
+readingHistory:
+  - format: <% result.getValue('format') %>
+<%* if (translator !== undefined) { -%>
+    translator: "<% translator %>"
+<%* } -%>
+<%* if (category === 'Book') { -%>
+    pages: <% result.getValue('pages') %>
+    ISBN: <% result.getValue('isbn') %>
+<%* } -%>
+    rating: 🌑🌑🌑🌑🌑
+    status: Reading
+    start: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
+    end: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
 updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
 ---
 

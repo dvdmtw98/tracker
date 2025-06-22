@@ -4,7 +4,6 @@ author: Neil Gaiman
 artist: J.H. Williams III, Dave Stewart
 published: 2013
 type: Comic
-format: Digital
 genre:
   - Fantasy
   - Supernatural
@@ -12,10 +11,12 @@ genre:
   - Psychological
 chapters: 6
 ISBN: 9781401265199
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2022-12-14 20:21:54 -0500
-finished: 2022-12-14 23:12:57 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2022-12-14 20:21:54 -0500
+    end: 2022-12-14 23:12:57 -0500
 updated: 2025-05-21 13:46:21 -0500
 ---
 

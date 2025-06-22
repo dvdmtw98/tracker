@@ -4,18 +4,19 @@ shortname: Sandworm
 author: Andy Greenberg
 published: 2019
 type: Non-Fiction
-format: Digital
 genre:
   - Cybersecurity
   - Technology
   - Journalism
   - Politics
-pages: 371
-ISBN: 9780385544412
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2024-07-09 23:18:34 -0500
-finished: 2024-07-14 15:45:31 -0500
+readingHistory:
+  - format: Digital
+    pages: 371
+    ISBN: 9780385544412
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2024-07-09 23:18:34 -0500
+    end: 2024-07-14 15:45:31 -0500
 updated: 2025-05-15 22:47:05 -0500
 ---
 

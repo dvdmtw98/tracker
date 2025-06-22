@@ -1,21 +1,22 @@
 ---
 name: I Who Have Never Known Men
 author: Jacqueline Harpman
-translator: Ros Schwartz
 published: 1995
 type: Fiction
-format: Digital
 genre:
   - Dystopian
   - Psychological
   - Speculative
   - Novella
-pages: 136
-ISBN: 9781473570801
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2025-01-03T18:06:00
-finished: 2025-04-08T12:48:02
+readingHistory:
+  - format: Digital
+    translator: Ros Schwartz
+    pages: 136
+    ISBN: 9781473570801
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2025-01-03T18:06:00
+    end: 2025-04-08T12:48:02
 updated: 2025-06-11 23:09:59 -0500
 ---
 

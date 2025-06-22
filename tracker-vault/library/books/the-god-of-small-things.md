@@ -3,18 +3,19 @@ name: The God of Small Things
 author: Arundhati Roy
 published: 1997
 type: Fiction
-format: Digital
 genre:
   - Drama
   - Historical
   - Psychological
   - Tragedy
-pages: 351
-ISBN: 9781588367839
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2024-09-08 11:04:16 -0500
-finished: 2024-11-12 12:56:06 -0500
+readingHistory:
+  - format: Digital
+    pages: 351
+    ISBN: 9781588367839
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2024-09-08 11:04:16 -0500
+    end: 2024-11-12 12:56:06 -0500
 updated: 2025-05-30 23:53:07 -0500
 ---
 

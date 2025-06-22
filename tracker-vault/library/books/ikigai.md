@@ -2,21 +2,22 @@
 name: "Ikigai: The Japanese Secret to a Long and Happy Life"
 shortname: Ikigai
 author: Héctor García & Francesc Miralles
-translator: Heather Cleary
 published: 2016
 type: Non-Fiction
-format: Digital
 genre:
   - Philosophy
   - Psychology
   - Lifestyle
   - Self-Help
-pages: 131
-ISBN: 9780143130727
-rating: 🌕🌕🌕🌑🌑
-status: Completed
-date: 2023-02-12 16:54:48 -0500
-finished: 2024-02-22 15:45:59 -0500
+readingHistory:
+  - format: Digital
+    translator: Heather Cleary
+    pages: 131
+    ISBN: 9780143130727
+    rating: 🌕🌕🌕🌑🌑
+    status: Completed
+    start: 2023-02-12 16:54:48 -0500
+    end: 2024-02-22 15:45:59 -0500
 updated: 2025-05-31 19:12:39 -0500
 ---
 

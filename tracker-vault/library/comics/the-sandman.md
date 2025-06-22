@@ -4,7 +4,6 @@ author: Neil Gaiman
 artist: Sam Kieth, Mike Dringenberg, Jill Thompson, Marc Hempel, P. Craig Russell
 published: 1989
 type: Comic
-format: Digital
 genre:
   - Fantasy
   - Supernatural
@@ -12,10 +11,12 @@ genre:
   - Psychological
 chapters: 75
 ISBN: 9781401293949
-rating: 🌕🌕🌕🌕🌕
-status: Completed
-date: 2022-11-16 19:55:03 -0500
-finished: 2022-12-12 16:19:46 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
+    start: 2022-11-16 19:55:03 -0500
+    end: 2022-12-12 16:19:46 -0500
 updated: 2025-05-21 13:47:02 -0500
 ---
 

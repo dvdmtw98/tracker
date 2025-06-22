@@ -4,7 +4,6 @@ author: Il-Kwon Ha
 artist: Il-Kwon Ha
 published: 2010
 type: Manhwa
-format: Digital
 genre:
   - Fantasy
   - Drama
@@ -12,10 +11,12 @@ genre:
   - Psychological
 chapters: 28
 ISBN: 9788412930641
-rating: 🌕🌕🌕🌑🌑
-status: Completed
-date: 2024-06-13 11:52:25 -0500
-finished: 2024-06-16 16:54:49 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌑🌑
+    status: Completed
+    start: 2024-06-13 11:52:25 -0500
+    end: 2024-06-16 16:54:49 -0500
 updated: 2025-05-25 10:36:55 -0500
 ---
 

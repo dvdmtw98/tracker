@@ -4,7 +4,6 @@ author: Naoki Urasawa
 artist: Naoki Urasawa
 published: 2006
 type: Manga
-format: Digital
 genre:
   - Mystery
   - Thriller
@@ -12,10 +11,12 @@ genre:
   - Psychological
 chapters: 16
 ISBN: 9781421599724
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2022-07-16 12:30:10 -0500
-finished: 2022-07-16 16:37:31 -0500
+readingHistory:
+  - format: Digital
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2022-07-16 12:30:10 -0500
+    end: 2022-07-16 16:37:31 -0500
 updated: 2025-05-21 13:38:33 -0500
 ---
 

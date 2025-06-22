@@ -4,18 +4,19 @@ shortname: The Art of Invisibility
 author: Kevin D. Mitnick
 published: 2017
 type: Non-Fiction
-format: Digital
 genre:
   - Cybersecurity
   - Technology
   - Privacy
   - Science
-pages: 282
-ISBN: 9780316380492
-rating: 🌕🌕🌕🌑🌑
-status: Completed
-date: 2021-04-12 17:57:04 -0500
-finished: 2021-05-10 15:46:24 -0500
+readingHistory:
+  - format: Digital
+    pages: 282
+    ISBN: 9780316380492
+    rating: 🌕🌕🌕🌑🌑
+    status: Completed
+    start: 2021-04-12 17:57:04 -0500
+    end: 2021-05-10 15:46:24 -0500
 updated: 2025-05-16 11:40:51 -0500
 ---
 

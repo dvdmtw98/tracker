@@ -3,18 +3,19 @@ name: The Emperor's Soul
 author: Brandon Sanderson
 published: 2012
 type: Fiction
-format: Digital
 genre:
   - Fantasy
   - Adventure
   - Mystery
   - Novella
-pages: 119
-ISBN: 9781938570025
-rating: 🌕🌕🌕🌕🌑
-status: Completed
-date: 2024-06-22 16:00:32 -0500
-finished: 2024-06-23 22:05:37 -0500
+readingHistory:
+  - format: Digital
+    pages: 119
+    ISBN: 9781938570025
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
+    start: 2024-06-22 16:00:32 -0500
+    end: 2024-06-23 22:05:37 -0500
 updated: 2025-06-11 23:17:11 -0500
 ---
 
