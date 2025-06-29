@@ -13,11 +13,11 @@ readingHistory:
   - format: Digital
     pages: 255
     ISBN: 9781524705701
-    rating: 🌑🌑🌑🌑🌑
-    status: Reading
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
     start: 2025-06-13 15:34:04 -0500
-    end: 2025-06-13 15:34:04 -0500
-updated: 2025-06-16 10:10:44 -0500
+    end: 2025-06-23 10:06:19 -0500
+updated: 2025-06-23 10:06:19 -0500
 ---
 
 ![[frankenstein.jpg|300]]

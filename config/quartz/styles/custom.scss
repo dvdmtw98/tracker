@@ -334,7 +334,7 @@ article p>img+em {
 
   table {
     margin: auto;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 
     thead {
       display: none;
@@ -359,8 +359,12 @@ article p>img+em {
         --cards-columns: repeat(4, minmax(0, 1fr));
       }
 
-      @media all and (min-width: 1440px) {
+      @media all and (min-width: 1440px) and (max-width: 1600px) {
         --cards-columns: repeat(5, minmax(0, 1fr));
+      }
+
+      @media all and (min-width: 1600px) {
+        --cards-columns: repeat(6, minmax(0, 1fr));
       }
 
       >tr {

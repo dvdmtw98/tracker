@@ -7,7 +7,7 @@ tags:
   - movie
   - index
 date: 2024-02-08 20:02:38 -0600
-updated: 2025-05-08 21:16:48 -0500
+updated: 2025-06-24 22:03:31 -0500
 ---
 
 ### Books & Comics
@@ -20,6 +20,5 @@ updated: 2025-05-08 21:16:48 -0500
 
 ### Movies & Shows
 
-- [Movies Tracker](https://simkl.com/7153272/movies/completed/)
-- [TV Shows Tracker](https://simkl.com/7153272/tv/completed/)
-- [Anime Tracker](https://simkl.com/7153272/anime/completed/)
+- [Letterboxd \| Dashboard](https://letterboxd.com/davidvarghese/)
+- [SIMKL \| Overview](https://simkl.com/7153272/)

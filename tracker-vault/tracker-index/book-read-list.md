@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-06-13 15:35:16 -0500
+updated: 2025-06-27 11:41:10 -0500
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -123,7 +123,6 @@ cssclasses:
 |     | [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)                                                                   | J.D. Salinger          | 1951      | 277   |
 |     | [Franny and Zooey](https://www.goodreads.com/book/show/5113.Franny_and_Zooey)                                                                               | J.D. Salinger          | 1957      | 201   |
 |     | [The Idiot](https://www.goodreads.com/book/show/12505.The_Idiot)                                                                                            | Fyodor Dostoevsky      | 1869      | 667   |
-|     | [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot)                                                                                               | Isaac Asimov           | 1950      | 224   |
 |     | [The Painted Veil](https://www.goodreads.com/book/show/99664.The_Painted_Veil)                                                                              | W. Somerset Maugham    | 1925      | 246   |
 |     | [The Tenant of Wildfell Hall](https://www.goodreads.com/book/show/337113.The_Tenant_of_Wildfell_Hall)                                                       | Anne Brontë            | 1848      | 576   |
 |     | [Small Gods](https://www.goodreads.com/book/show/34484.Small_Gods)                                                                                          | Terry Pratchett        | 1992      | 389   |
@@ -140,7 +139,6 @@ cssclasses:
 | No. | Name                                                                                                                | Author               | Published | Pages |
 | :-- | :------------------------------------------------------------------------------------------------------------------ | :------------------- | :-------- | :---- |
 |     | [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) | Bill Bryson          | 2003      | 544   |
-|     | [In Cold Blood](https://www.goodreads.com/book/show/168642.In_Cold_Blood)                                           | Truman Capote        | 1959      | 343   |
 |     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                             | Patrick Radden Keefe | 2018      | 441   |
 |     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                               | Neil Bradbury        | 2022      | 304   |
 |     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                                   | Alfred Lansing       | 1959      | 282   |

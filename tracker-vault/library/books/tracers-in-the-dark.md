@@ -5,7 +5,7 @@ author: Andy Greenberg
 published: 2022
 type: Non-Fiction
 genre:
-  - Crime
+  - True Crime
   - Cybersecurity
   - Journalism
   - Technology
@@ -17,7 +17,7 @@ readingHistory:
     status: Completed
     start: 2025-04-17 16:50:06 -0500
     end: 2025-05-13T15:44:30
-updated: 2025-05-15 19:16:42 -0500
+updated: 2025-06-27 11:20:57 -0500
 ---
 
 ![[tracers-in-the-dark.jpg|300]]
