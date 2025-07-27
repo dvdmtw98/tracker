@@ -13,10 +13,11 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2025 (25)
+### 2025 (26)
 
 | Cover                                           | Title                                                                      | Author                      | Published | Pages     | Type        | Genre                                                                                                | Status    | Rating     |
 | ----------------------------------------------- | -------------------------------------------------------------------------- | --------------------------- | --------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[the-tempest.jpg\|92]]                        | [[the-tempest\|The Tempest]]                                               | William Shakespeare         | 1611      | 218 pages | Play        | <ul><li>Drama</li><li>Comedy</li><li>Romance</li><li>Political</li></ul>                             | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[2666.jpg\|92]]                               | [[2666\|2666]]                                                             | Roberto Bolaño              | 2004      | 864 pages | Fiction     | <ul><li>Crime</li><li>Mystery</li><li>Philosophical</li><li>Postmodern</li></ul>                     | Completed | 🌕🌕🌕🌗🌑 |
 | ![[a-psalm-for-the-wild-built.jpg\|92]]         | [[a-psalm-for-the-wild-built\|A Psalm for the Wild-Built]]                 | Becky Chambers              | 2021      | 151 pages | Fiction     | <ul><li>Science Fiction</li><li>Adventure</li><li>Speculative</li><li>Novella</li></ul>              | Completed | 🌕🌕🌕🌕🌑 |
 | ![[beowulf.jpg\|92]]                            | [[beowulf\|Beowulf]]                                                       | Anonymous                   | 1000      | 273 pages | Poetry      | <ul><li>Fantasy</li><li>Adventure</li><li>Folklore</li><li>Historical</li></ul>                      | Completed | 🌕🌕🌕🌗🌑 |
