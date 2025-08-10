@@ -12,11 +12,11 @@ readingHistory:
   - format: Physical
     pages: 218
     ISBN: 9780743482837
-    rating: 🌑🌑🌑🌑🌑
-    status: Reading
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
     start: 2025-07-13 13:40:54 -0500
-    end: 2025-07-13 13:40:54 -0500
-updated: 2025-07-13 13:45:04 -0500
+    end: 2025-07-26 22:49:44 -0500
+updated: 2025-07-26 22:49:44 -0500
 ---
 
 ![[the-tempest.jpg|300]]

@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-06-27 11:41:10 -0500
+updated: 2025-08-06 20:16:09 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -37,7 +37,6 @@ cssclasses:
 |     | [If We Were Villains](https://www.goodreads.com/book/show/30319086-if-we-were-villains)                                                                     | M.L. Rio               | 2017      | 354   |
 |     | [Slewfoot](https://www.goodreads.com/book/show/56179372-slewfoot)                                                                                           | Brom                   | 2021      | 305   |
 |     | [The Library at Mount Char](https://www.goodreads.com/book/show/26892110-the-library-at-mount-char)                                                         | Scott Hawkins          | 2015      | 390   |
-|     | [The God of the Woods](https://www.goodreads.com/book/show/199698485-the-god-of-the-woods)                                                                  | Liz Moore              | 2024      | 490   |
 |     | [The Last House on Needless Street](https://www.goodreads.com/book/show/54621094-the-last-house-on-needless-street)                                         | Catriona Ward          | 2021      | 337   |
 |     | [Moominland Midwinter](https://www.goodreads.com/book/show/443103.Moominland_Midwinter)                                                                     | Tove Jansson           | 1957      | 168   |
 |     | [The Night Circus](https://www.goodreads.com/book/show/9361589-the-night-circus)                                                                            | Erin Morgenstern       | 2011      | 506   |
@@ -55,7 +54,6 @@ cssclasses:
 |     | [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace)                                                                                      | Leo Tolstoy            | 1869      | 1392  |
 |     | [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)                                                                                 | Aldous Huxley          | 1932      | 268   |
 |     | [The Road](https://www.goodreads.com/book/show/6288.The_Road)                                                                                               | Cormac McCarthy        | 2006      | 241   |
-|     | [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness)                                                            | Ursula K. Le Guin      | 1969      | 304   |
 |     | [The Collector](https://www.goodreads.com/book/show/243705.The_Collector)                                                                                   | John Fowles            | 1963      | 283   |
 |     | [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina)                                                                                 | Leo Tolstoy            | 1878      | 964   |
 |     | [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)                                              | Cormac McCarthy        | 1985      | 351   |
