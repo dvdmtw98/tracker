@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-06-27 11:41:20 -0500
+updated: 2025-08-12 14:30:35 +0530
 cssclasses:
   - cards
   - cards-cols-4
@@ -13,7 +13,7 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2025 (27)
+### 2025 (28)
 
 | Cover                                           | Title                                                                      | Author                      | Published | Pages     | Type        | Genre                                                                                                | Status    | Rating     |
 | ----------------------------------------------- | -------------------------------------------------------------------------- | --------------------------- | --------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------- | --------- | ---------- |
@@ -43,6 +43,7 @@ cssclasses:
 | ![[the-tempest.jpg\|92]]                        | [[the-tempest\|The Tempest]]                                               | William Shakespeare         | 1611      | 218 pages | Play        | <ul><li>Drama</li><li>Comedy</li><li>Romance</li><li>Political</li></ul>                             | Completed | 🌕🌕🌕🌕🌑 |
 | ![[there-will-come-soft-rains.jpg\|92]]         | [[there-will-come-soft-rains\|There Will Come Soft Rains]]                 | Ray Bradbury                | 1950      | 8 pages   | Fiction     | <ul><li>Science Fiction</li><li>Speculative</li><li>Philosophical</li><li>Short Story</li></ul>      | Completed | 🌕🌕🌕🌕🌑 |
 | ![[tracers-in-the-dark.jpg\|92]]                | [[tracers-in-the-dark\|Tracers in the Dark]]                               | Andy Greenberg              | 2022      | 367 pages | Non-Fiction | <ul><li>True Crime</li><li>Cybersecurity</li><li>Journalism</li><li>Technology</li></ul>             | Completed | 🌕🌕🌕🌕🌑 |
+| ![[uncle-vanya.jpg\|92]]                        | [[uncle-vanya\|Uncle Vanya]]                                               | Anton Chekhov               | 1897      | 99 pages  | Play        | <ul><li>Drama</li><li>Realism</li><li>Psychological</li><li>Existentialism</li></ul>                 | Completed | 🌕🌕🌕🌕🌕 |
 | ![[we-should-all-be-feminists.jpg\|92]]         | [[we-should-all-be-feminists\|We Should All Be Feminists]]                 | Chimamanda Ngozi Adichie    | 2012      | 28 pages  | Non-Fiction | <ul><li>Feminism</li><li>Educational</li><li>Commentary</li><li>Essay</li></ul>                      | Completed | 🌕🌕🌕🌕🌑 |
 
 ### 2024 (29)
