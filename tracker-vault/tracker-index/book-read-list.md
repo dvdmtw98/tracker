@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-08-06 20:16:09 +0530
+updated: 2025-08-19 14:20:58 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -28,7 +28,6 @@ cssclasses:
 |     | [Razorblade Tears](https://www.goodreads.com/book/show/54860585-razorblade-tears)                                                                           | S.A. Cosby             | 2021      | 336   |
 |     | [The Poppy War](https://www.goodreads.com/book/show/35068705-the-poppy-war) (1/3)                                                                           | R.F. Kuang             | 2018      | 545   |
 |     | [Parable of the Sower](https://www.goodreads.com/book/show/52397.Parable_of_the_Sower) (1/2)                                                                | Octavia E. Butler      | 1993      | 345   |
-|     | [The Burning Girls](https://www.goodreads.com/book/show/53387949-the-burning-girls)                                                                         | C.J. Tudor             | 2021      | 333   |
 |     | [Circe](https://www.goodreads.com/book/show/35959740-circe)                                                                                                 | Madeline Miller        | 2018      | 393   |
 |     | [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season) (1/3)                                                                     | N.K. Jemisin           | 2015      | 468   |
 |     | [Five Decembers](https://www.goodreads.com/book/show/57522883-five-decembers)                                                                               | James Kestrel          | 2021      | 429   |
@@ -143,7 +142,6 @@ cssclasses:
 |     | [The Radium Girls](https://www.goodreads.com/book/show/31409135-the-radium-girls)                                   | Kate Moore           | 2016      | 479   |
 |     | [The Devil in the White City](https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City)               | Erik Larson          | 2003      | 464   |
 |     | [Stiff](https://www.goodreads.com/book/show/56769575-stiff)                                                         | Mary Roach           | 2003      | 320   |
-|     | [The Anthropocene Reviewed](https://www.goodreads.com/book/show/55145261-the-anthropocene-reviewed)                 | John Green           | 2021      | 304   |
 |     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                                   | Bill Bryson          | 2019      | 450   |
 |     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)              | Siddhartha Mukherjee | 2010      | 571   |
 |     | [Of Human Freedom](https://www.goodreads.com/book/show/9248625-of-human-freedom)                                    | Epictetus            | 100       | 112   |
