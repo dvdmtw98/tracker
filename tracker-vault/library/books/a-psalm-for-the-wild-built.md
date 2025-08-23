@@ -12,11 +12,11 @@ readingHistory:
   - format: Physical
     pages: 151
     ISBN: 9781250236210
-    rating: 🌕🌕🌕🌕🌑
+    rating: 🌕🌕🌕🌗🌑
     status: Completed
     start: 2025-05-20 17:31:05 -0500
     end: 2025-05-22 00:01:05 -0500
-updated: 2025-06-11 23:09:05 -0500
+updated: 2025-08-23 14:54:37 +0530
 ---
 
 ![[a-psalm-for-the-wild-built.jpg|300]]

@@ -191,5 +191,13 @@
       "modifiers": [],
       "key": "F5"
     }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1755940904621": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
   ]
 }

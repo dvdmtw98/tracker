@@ -13,12 +13,13 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2025 (28)
+### 2025 (29)
 
 | Cover                                           | Title                                                                      | Author                      | Published | Pages     | Type        | Genre                                                                                                | Status    | Rating     |
 | ----------------------------------------------- | -------------------------------------------------------------------------- | --------------------------- | --------- | --------- | ----------- | ---------------------------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[2666.jpg\|92]]                               | [[2666\|2666]]                                                             | Roberto Bolaño              | 2004      | 864 pages | Fiction     | <ul><li>Crime</li><li>Mystery</li><li>Philosophical</li><li>Postmodern</li></ul>                     | Completed | 🌕🌕🌕🌗🌑 |
-| ![[a-psalm-for-the-wild-built.jpg\|92]]         | [[a-psalm-for-the-wild-built\|A Psalm for the Wild-Built]]                 | Becky Chambers              | 2021      | 151 pages | Fiction     | <ul><li>Science Fiction</li><li>Adventure</li><li>Speculative</li><li>Novella</li></ul>              | Completed | 🌕🌕🌕🌕🌑 |
+| ![[a-psalm-for-the-wild-built.jpg\|92]]         | [[a-psalm-for-the-wild-built\|A Psalm for the Wild-Built]]                 | Becky Chambers              | 2021      | 151 pages | Fiction     | <ul><li>Science Fiction</li><li>Adventure</li><li>Speculative</li><li>Novella</li></ul>              | Completed | 🌕🌕🌕🌗🌑 |
+| ![[all-tomorrows.jpg\|92]]                      | [[all-tomorrows\|All Tomorrows]]                                           | C.M. Kosemen (Nemo Ramjet)  | 2006      | 148 pages | Fiction     | <ul><li>Science Fiction</li><li>Horror</li><li>Speculative</li><li>Dystopian</li></ul>               | Completed | 🌕🌕🌕🌕🌑 |
 | ![[beowulf.jpg\|92]]                            | [[beowulf\|Beowulf]]                                                       | Anonymous                   | 1000      | 273 pages | Poetry      | <ul><li>Fantasy</li><li>Adventure</li><li>Folklore</li><li>Historical</li></ul>                      | Completed | 🌕🌕🌕🌗🌑 |
 | ![[between-two-fires.jpg\|92]]                  | [[between-two-fires\|Between Two Fires]]                                   | Christopher Buehlman        | 2012      | 371 pages | Fiction     | <ul><li>Historical</li><li>Fantasy</li><li>Horror</li><li>Supernatural</li></ul>                     | Completed | 🌕🌕🌕🌕🌕 |
 | ![[emma.jpg\|92]]                               | [[emma\|Emma]]                                                             | Jane Austen                 | 1815      | 451 pages | Fiction     | <ul><li>Historical</li><li>Romance</li><li>Comedy</li><li>Domestic</li></ul>                         | Completed | 🌕🌕🌕🌕🌑 |
