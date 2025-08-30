@@ -56,37 +56,6 @@ const sortBooksByStatus = (bookGroup, statusOrder) => {
     return sortedBookGroup;
 }
 
-const yearFormatter = (published) => {
-    return Math.sign(published) === 1 ? published : `${Math.abs(published)} BCE`;
-}
-
-const pageCountFormatter = (book, bookType) => {
-    if (bookType === 'books') {
-        let pageCount;
-        if (book.current.pages !== null || book.current.pages !== undefined) {
-            if (Number.isInteger(book.current.pages)) {
-                pageCount = `${book.current.pages} pages`
-            } else {
-                const [hoursStr, minutesStr] = book.current.pages.toString().split('.');
-                pageCount = `${hoursStr} hr ${minutesStr} mins`;
-            }
-        } else {
-            pageCount = "0 pages"
-        }
-        return pageCount;
-    } else {
-        let chapterCount;
-        if (book.chapters === null || book.chapters === undefined) {
-            chapterCount = "0 chapter(s)";
-        } else if (book.chapters === -1) {
-            chapterCount = "? chapter(s)";
-        } else {
-            chapterCount = `${book.chapters} chapter(s)`;
-        }
-        return chapterCount;
-    }
-}
-
 const getBaseName = (filePath) => {
     const fileName = filePath.substring(filePath.lastIndexOf('/') + 1);
 
@@ -115,7 +84,7 @@ const getCoverImage = (book) => {
 const bookIndexGenerator = (groupedBooks, bookType) => {
     const statusOrder = ["Reading", "Completed", "DNF"];
     const tableHeaders = [
-        "Cover", "Title", "Author", "Published", "Pages", "Type", "Genre", "Status", "Rating"
+        "Cover", "Title", "Author", "Type", "Genre", "Status", "Rating"
     ];
 
     let outputMarkdown = "\n";
@@ -136,8 +105,6 @@ const bookIndexGenerator = (groupedBooks, bookType) => {
                         dv.fileLink(getCoverImage(book), true, "92"),
                         dv.fileLink(book.file.name, false, book.shortname ? book.shortname : book.name),
                         book.author,
-                        yearFormatter(book.published),
-                        pageCountFormatter(book, bookType),
                         book.type,
                         book.genre,
                         book.current.status,

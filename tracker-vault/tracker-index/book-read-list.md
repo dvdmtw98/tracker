@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-08-19 14:20:58 +0530
+updated: 2025-08-29 20:07:17 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -69,7 +69,6 @@ cssclasses:
 |     | [The Phantom of the Opera](https://www.goodreads.com/book/show/480204.The_Phantom_of_the_Opera)                                                             | Gaston Leroux          | 1910      | 360   |
 |     | [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo)                                         | Taylor Jenkins Reid    | 2017      | 389   |
 |     | [The Snow Child](https://www.goodreads.com/book/show/33597976-the-snow-child)                                                                               | Eowyn Ivey             | 2012      | 423   |
-|     | [The Stand](https://www.goodreads.com/book/show/87591651-the-stand)                                                                                         | Stephen King           | 1978      |       |
 |     | [The Sun Down Motel](https://www.goodreads.com/book/show/45885644-the-sun-down-motel)                                                                       | Simone St. James       | 2020      | 327   |
 |     | [Blindness](https://www.goodreads.com/book/show/2526.Blindness)                                                                                             | José Saramago          | 1995      | 326   |
 |     | [1Q84](https://www.goodreads.com/book/show/10357575-1q84)                                                                                                   | Haruki Murakami        | 2009      | 944   |
@@ -135,7 +134,6 @@ cssclasses:
 
 | No. | Name                                                                                                                | Author               | Published | Pages |
 | :-- | :------------------------------------------------------------------------------------------------------------------ | :------------------- | :-------- | :---- |
-|     | [A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) | Bill Bryson          | 2003      | 544   |
 |     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                             | Patrick Radden Keefe | 2018      | 441   |
 |     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                               | Neil Bradbury        | 2022      | 304   |
 |     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                                   | Alfred Lansing       | 1959      | 282   |
