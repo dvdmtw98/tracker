@@ -7,8 +7,8 @@ type: Fiction
 genre:
   - Science Fiction
   - Horror
-  - Speculative
   - Dystopian
+  - Novella
 readingHistory:
   - format: Digital
     pages: 148
@@ -17,7 +17,7 @@ readingHistory:
     status: Completed
     start: 2025-08-21 18:01:49 +0530
     end: 2025-08-23 09:01:49 +0530
-updated: 2025-08-23 14:53:49 +0530
+updated: 2025-09-01 17:17:01 +0530
 ---
 
 ![[all-tomorrows.jpg|300]]
