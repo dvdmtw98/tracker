@@ -16,7 +16,7 @@ readingHistory:
     status: Reading
     start: 2025-08-28 21:03:23 +0530
     end: 2025-08-30 22:03:53 +0530
-updated: 2025-09-01 17:32:50 +0530
+updated: 2025-10-05 15:20:53 +0530
 ---
 
 ![[a-short-history-of-nearly-everything.jpg|300]]
