@@ -17,7 +17,7 @@ readingHistory:
     status: Completed
     start: 2025-05-22 20:28:49 -0500
     end: 2025-06-08 21:46:30 -0500
-updated: 2025-06-08 22:49:56 -0500
+updated: 2025-10-19 17:54:08 +0530
 ---
 
 ![[claymore.jpg|300]]

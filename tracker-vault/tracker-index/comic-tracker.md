@@ -5,7 +5,7 @@ tags:
   - index
   - comic
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-06-08 22:51:42 -0500
+updated: 2025-10-19 17:40:40 +0530
 cssclasses:
   - cards
   - cards-2-3
@@ -18,12 +18,12 @@ cssclasses:
 | Cover                            | Title                                        | Author           | Type   | Genre                                                                             | Status    | Rating     |
 | -------------------------------- | -------------------------------------------- | ---------------- | ------ | --------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[chainsaw-man.jpg\|92]]        | [[chainsaw-man\|Chainsaw Man]]               | Tatsuki Fujimoto | Manga  | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
-| ![[the-flowers-of-evil.jpg\|92]] | [[the-flowers-of-evil\|The Flowers of Evil]] | Shuuzou Oshimi   | Manga  | <ul><li>Psychological</li><li>Drama</li><li>Romance</li><li>Suspense</li></ul>    | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[bastard.jpg\|92]]             | [[bastard\|Bastard]]                         | Carnby Kim       | Manhwa | <ul><li>Thriller</li><li>Mystery</li><li>Psychological</li><li>Crime</li></ul>    | Completed | 🌕🌕🌕🌕🌑 |
 | ![[claymore.jpg\|92]]            | [[claymore\|Claymore]]                       | Norihiro Yagi    | Manga  | <ul><li>Fantasy</li><li>Action</li><li>Adventure</li><li>Supernatural</li></ul>   | Completed | 🌕🌕🌕🌕🌗 |
 | ![[emanon-wanderer.jpg\|92]]     | [[emanon-wanderer\|Emanon Wanderer]]         | Shinji Kajio     | Manga  | <ul><li>Adventure</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>   | Completed | 🌕🌕🌕🌑🌑 |
 | ![[gyo.jpg\|92]]                 | [[gyo\|Gyo]]                                 | Junji Ito        | Manga  | <ul><li>Horror</li><li>Mystery</li><li>Psychological</li><li>Thriller</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
 | ![[memories-of-emanon.jpg\|92]]  | [[memories-of-emanon\|Memories of Emanon]]   | Shinji Kajio     | Comic  | <ul><li>Mystery</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>     | Completed | 🌕🌕🌕🌕🌕 |
+| ![[the-flowers-of-evil.jpg\|92]] | [[the-flowers-of-evil\|The Flowers of Evil]] | Shuuzou Oshimi   | Manga  | <ul><li>Psychological</li><li>Drama</li><li>Romance</li><li>Suspense</li></ul>    | Completed | 🌕🌕🌕🌕🌕 |
 
 ### 2024 (11)
 
