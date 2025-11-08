@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-08-25 21:14:02 +0530
+updated: 2025-11-08 21:03:13 +0530
 cssclasses:
   - cards
   - cards-cols-4
@@ -17,10 +17,10 @@ cssclasses:
 
 | Cover                                             | Title                                                                          | Author                      | Type        | Genre                                                                                                | Status    | Rating     |
 | ------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------- | ----------- | ---------------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[a-short-history-of-nearly-everything.jpg\|92]] | [[a-short-history-of-nearly-everything\|A Short History of Nearly Everything]] | Bill Bryson                 | Non-Fiction | <ul><li>Science</li><li>History</li><li>Educational</li><li>Big Idea</li></ul>                       | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[2666.jpg\|92]]                                 | [[2666\|2666]]                                                                 | Roberto Bolaño              | Fiction     | <ul><li>Crime</li><li>Mystery</li><li>Philosophical</li><li>Postmodern</li></ul>                     | Completed | 🌕🌕🌕🌗🌑 |
 | ![[a-modest-proposal.jpg\|92]]                    | [[a-modest-proposal\|A Modest Proposal]]                                       | Jonathan Swift              | Fiction     | <ul><li>Short Story</li><li>Satire</li><li>Commentary</li><li>Political</li></ul>                    | Completed | 🌕🌕🌕🌗🌑 |
 | ![[a-psalm-for-the-wild-built.jpg\|92]]           | [[a-psalm-for-the-wild-built\|A Psalm for the Wild-Built]]                     | Becky Chambers              | Fiction     | <ul><li>Science Fiction</li><li>Adventure</li><li>Speculative</li><li>Novella</li></ul>              | Completed | 🌕🌕🌕🌗🌑 |
+| ![[a-short-history-of-nearly-everything.jpg\|92]] | [[a-short-history-of-nearly-everything\|A Short History of Nearly Everything]] | Bill Bryson                 | Non-Fiction | <ul><li>Science</li><li>History</li><li>Educational</li><li>Big Idea</li></ul>                       | Completed | 🌕🌕🌕🌕🌗 |
 | ![[all-tomorrows.jpg\|92]]                        | [[all-tomorrows\|All Tomorrows]]                                               | C.M. Kosemen (Nemo Ramjet)  | Fiction     | <ul><li>Science Fiction</li><li>Horror</li><li>Dystopian</li><li>Novella</li></ul>                   | Completed | 🌕🌕🌕🌕🌑 |
 | ![[beowulf.jpg\|92]]                              | [[beowulf\|Beowulf]]                                                           | Anonymous                   | Poetry      | <ul><li>Fantasy</li><li>Adventure</li><li>Folklore</li><li>Historical</li></ul>                      | Completed | 🌕🌕🌕🌗🌑 |
 | ![[between-two-fires.jpg\|92]]                    | [[between-two-fires\|Between Two Fires]]                                       | Christopher Buehlman        | Fiction     | <ul><li>Historical</li><li>Fantasy</li><li>Horror</li><li>Supernatural</li></ul>                     | Completed | 🌕🌕🌕🌕🌕 |
@@ -30,7 +30,7 @@ cssclasses:
 | ![[gullivers-travels.jpg\|92]]                    | [[gullivers-travels\|Gulliver's Travels]]                                      | Jonathan Swift              | Fiction     | <ul><li>Satire</li><li>Adventure</li><li>Fantasy</li><li>Philosophical</li></ul>                     | Completed | 🌕🌕🌕🌗🌑 |
 | ![[i-robot.jpg\|92]]                              | [[i-robot\|I, Robot]]                                                          | Isaac Asimov                | Fiction     | <ul><li>Science Fiction</li><li>Story Collection</li><li>Speculative</li><li>Philosophical</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
 | ![[i-who-have-never-known-men.jpg\|92]]           | [[i-who-have-never-known-men\|I Who Have Never Known Men]]                     | Jacqueline Harpman          | Fiction     | <ul><li>Dystopian</li><li>Psychological</li><li>Speculative</li><li>Novella</li></ul>                | Completed | 🌕🌕🌕🌕🌕 |
-| ![[in-cold-blood.jpg\|92]]                        | [[in-cold-blood\|In Cold Blood]]                                               | Truman Capote               | Non-Fiction | <ul><li>True Crime</li><li>Mystery</li><li>Thriller</li><li>Historical</li></ul>                     | Completed | 🌕🌕🌕🌕🌑 |
+| ![[in-cold-blood.jpg\|92]]                        | [[in-cold-blood\|In Cold Blood]]                                               | Truman Capote               | Non-Fiction | <ul><li>True Crime</li><li>Mystery</li><li>Thriller</li><li>Historical</li></ul>                     | Completed | 🌕🌕🌕🌗🌑 |
 | ![[julius-caesar.jpg\|92]]                        | [[julius-caesar\|Julius Caesar]]                                               | William Shakespeare         | Play        | <ul><li>Historical</li><li>Drama</li><li>Political</li><li>Thriller</li></ul>                        | Completed | 🌕🌕🌕🌕🌑 |
 | ![[kim-jiyoung-born-1982.jpg\|92]]                | [[kim-jiyoung-born-1982\|Kim Jiyoung, Born 1982]]                              | Cho Nam-Joo                 | Fiction     | <ul><li>Commentary</li><li>Feminism</li><li>Psychological</li><li>Novella</li></ul>                  | Completed | 🌕🌕🌕🌕🌑 |
 | ![[kindred.jpg\|92]]                              | [[kindred\|Kindred]]                                                           | Octavia E. Butler           | Fiction     | <ul><li>Science Fiction</li><li>Historical</li><li>Fantasy</li><li>Drama</li></ul>                   | Completed | 🌕🌕🌕🌕🌕 |

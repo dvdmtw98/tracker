@@ -12,11 +12,11 @@ readingHistory:
   - format: Physical
     pages: 343
     ISBN: 9780679745587
-    rating: 🌕🌕🌕🌕🌑
+    rating: 🌕🌕🌕🌗🌑
     status: Completed
     start: 2025-06-27 11:16:16 -0500
     end: 2025-07-07 13:09:16 -0500
-updated: 2025-07-07 13:10:06 -0500
+updated: 2025-11-08 21:03:08 +0530
 ---
 
 ![[in-cold-blood.jpg|300]]
