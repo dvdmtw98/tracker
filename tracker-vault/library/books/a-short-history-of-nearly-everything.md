@@ -10,13 +10,13 @@ genre:
   - Big Idea
 readingHistory:
   - format: Physical
-    pages: 668
+    pages: 572
     ISBN: 9781784161859
     rating: 🌕🌕🌕🌕🌗
     status: Completed
     start: 2025-08-28 21:03:23 +0530
     end: 2025-11-08 21:00:00 +0530
-updated: 2025-11-08 21:01:21 +0530
+updated: 2025-11-09 15:06:00 +0530
 ---
 
 ![[a-short-history-of-nearly-everything.jpg|300]]
