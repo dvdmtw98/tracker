@@ -7,7 +7,7 @@ genre:
   - Mystery
   - Gothic
   - Thriller
-  - Horror
+  - Suspense
 readingHistory:
   - format: Physical
     pages: 440
@@ -16,7 +16,7 @@ readingHistory:
     status: Reading
     start: 2025-11-11 23:25:08 +0530
     end: 2025-11-14 23:25:08 +0530
-updated: 2025-11-16 22:46:18 +0530
+updated: 2025-12-13 16:22:07 +0530
 ---
 
 ![[rebecca.jpg|300]]
