@@ -3,7 +3,7 @@ name: Memories of Emanon
 author: Shinji Kajio
 artist: Kenji Tsuruta
 published: 2006
-type: Comic
+type: Manga
 genre:
   - Mystery
   - Fantasy
@@ -17,7 +17,7 @@ readingHistory:
     status: Completed
     start: 2025-04-11 14:23:45 -0500
     end: 2025-04-11 16:48:52 -0500
-updated: 2025-05-21 13:43:14 -0500
+updated: 2025-12-28 20:08:37 +0530
 ---
 
 ![[memories-of-emanon.jpg|300]]

@@ -29,7 +29,6 @@ cssclasses:
 |     | [Circe](https://www.goodreads.com/book/show/35959740-circe)                                                                                                     | Madeline Miller            | 2018      | 393   |
 |     | [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season) (1/3)                                                                         | N.K. Jemisin               | 2015      | 468   |
 |     | [Five Decembers](https://www.goodreads.com/book/show/57522883-five-decembers)                                                                                   | James Kestrel              | 2021      | 429   |
-|     | [Babel](https://www.goodreads.com/book/show/57945316-babel)                                                                                                     | R.F. Kuang                 | 2022      | 544   |
 |     | [Bright Young Women](https://www.goodreads.com/book/show/101124639-bright-young-women)                                                                          | Jessica Knoll              | 2023      | 384   |
 |     | [If We Were Villains](https://www.goodreads.com/book/show/30319086-if-we-were-villains)                                                                         | M.L. Rio                   | 2017      | 354   |
 |     | [Slewfoot](https://www.goodreads.com/book/show/56179372-slewfoot)                                                                                               | Brom                       | 2021      | 305   |
