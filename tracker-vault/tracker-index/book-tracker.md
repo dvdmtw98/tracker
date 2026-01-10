@@ -13,6 +13,12 @@ cssclasses:
   - cards-2-3
 ---
 
+### 2026 (1)
+
+| Cover                                         | Title                                                                   | Author        | Type    | Genre                                                                                      | Status  | Rating     |
+| --------------------------------------------- | ----------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------------------------------------------------------ | ------- | ---------- |
+| ![[if-on-a-winters-night-a-traveler.jpg\|92]] | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]] | Italo Calvino | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul> | Reading | 🌑🌑🌑🌑🌑 |
+
 ### 2025 (36)
 
 | Cover                                             | Title                                                                          | Author                      | Type        | Genre                                                                                                | Status    | Rating     |

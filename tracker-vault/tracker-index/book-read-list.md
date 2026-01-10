@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2025-12-14 14:57:30 +0530
+updated: 2026-01-06 21:35:07 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -82,7 +82,6 @@ cssclasses:
 |     | [Sophie’s World](https://www.goodreads.com/book/show/10959.Sophie_s_World)                                                                                      | Jostein Gaarder            | 1991      | 403   |
 |     | [Small Things Like These](https://www.goodreads.com/book/show/58662236-small-things-like-these)                                                                 | Claire Keegan              | 2021      | 128   |
 |     | [Les Misérables](https://www.goodreads.com/book/show/24280.Les_Mis_rables)                                                                                      | Victor Hugo                | 1862      | 1463  |
-|     | [If on a Winter’s Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler)                                               | Italo Calvino              | 1979      | 260   |
 |     | [Macbeth](https://www.goodreads.com/book/show/43913694-macbeth)                                                                                                 | William Shakespeare        | 1623      | 214   |
 |     | [Memoirs of a Geisha](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha)                                                                              | Arthur Golden              | 1997      | 503   |
 |     | [Norwegian Wood](https://www.goodreads.com/book/show/11297.Norwegian_Wood)                                                                                      | Haruki Murakami            | 1987      | 296   |
