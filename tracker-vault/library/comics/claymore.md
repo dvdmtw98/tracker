@@ -13,11 +13,11 @@ chapters: 159
 ISBN: 9781421583167
 readingHistory:
   - format: Digital
-    rating: 🌕🌕🌕🌕🌗
+    rating: 🌕🌕🌕🌕🌕
     status: Completed
     start: 2025-05-22 20:28:49 -0500
     end: 2025-06-08 21:46:30 -0500
-updated: 2025-10-19 17:54:08 +0530
+updated: 2026-01-15 23:28:45 +0530
 ---
 
 ![[claymore.jpg|300]]

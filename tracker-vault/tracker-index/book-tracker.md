@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-11-08 21:03:13 +0530
+updated: 2026-01-15 23:28:03 +0530
 cssclasses:
   - cards
   - cards-cols-4
@@ -13,11 +13,12 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (1)
+### 2026 (2)
 
-| Cover                                         | Title                                                                   | Author        | Type    | Genre                                                                                      | Status  | Rating     |
-| --------------------------------------------- | ----------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------------------------------------------------------ | ------- | ---------- |
-| ![[if-on-a-winters-night-a-traveler.jpg\|92]] | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]] | Italo Calvino | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul> | Reading | 🌑🌑🌑🌑🌑 |
+| Cover                                         | Title                                                                   | Author        | Type    | Genre                                                                                      | Status    | Rating     |
+| --------------------------------------------- | ----------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------------------------------------------------------ | --------- | ---------- |
+| ![[the-grave-tattoo.jpg\|92]]                 | [[the-grave-tattoo\|The Grave Tattoo]]                                  | Val McDermid  | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                  | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[if-on-a-winters-night-a-traveler.jpg\|92]] | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]] | Italo Calvino | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul> | Completed | 🌕🌕🌕🌕🌑 |
 
 ### 2025 (36)
 
@@ -26,7 +27,7 @@ cssclasses:
 | ![[2666.jpg\|92]]                                 | [[2666\|2666]]                                                                 | Roberto Bolaño              | Fiction     | <ul><li>Crime</li><li>Mystery</li><li>Philosophical</li><li>Postmodern</li></ul>                     | Completed | 🌕🌕🌕🌗🌑 |
 | ![[a-modest-proposal.jpg\|92]]                    | [[a-modest-proposal\|A Modest Proposal]]                                       | Jonathan Swift              | Fiction     | <ul><li>Short Story</li><li>Satire</li><li>Commentary</li><li>Political</li></ul>                    | Completed | 🌕🌕🌕🌗🌑 |
 | ![[a-psalm-for-the-wild-built.jpg\|92]]           | [[a-psalm-for-the-wild-built\|A Psalm for the Wild-Built]]                     | Becky Chambers              | Fiction     | <ul><li>Science Fiction</li><li>Adventure</li><li>Speculative</li><li>Novella</li></ul>              | Completed | 🌕🌕🌕🌗🌑 |
-| ![[a-short-history-of-nearly-everything.jpg\|92]] | [[a-short-history-of-nearly-everything\|A Short History of Nearly Everything]] | Bill Bryson                 | Non-Fiction | <ul><li>Science</li><li>History</li><li>Educational</li><li>Big Idea</li></ul>                       | Completed | 🌕🌕🌕🌕🌗 |
+| ![[a-short-history-of-nearly-everything.jpg\|92]] | [[a-short-history-of-nearly-everything\|A Short History of Nearly Everything]] | Bill Bryson                 | Non-Fiction | <ul><li>Science</li><li>History</li><li>Educational</li><li>Big Idea</li></ul>                       | Completed | 🌕🌕🌕🌕🌑 |
 | ![[all-tomorrows.jpg\|92]]                        | [[all-tomorrows\|All Tomorrows]]                                               | C.M. Kosemen (Nemo Ramjet)  | Fiction     | <ul><li>Science Fiction</li><li>Horror</li><li>Dystopian</li><li>Novella</li></ul>                   | Completed | 🌕🌕🌕🌕🌑 |
 | ![[beowulf.jpg\|92]]                              | [[beowulf\|Beowulf]]                                                           | Anonymous                   | Poetry      | <ul><li>Fantasy</li><li>Adventure</li><li>Folklore</li><li>Historical</li></ul>                      | Completed | 🌕🌕🌕🌗🌑 |
 | ![[between-two-fires.jpg\|92]]                    | [[between-two-fires\|Between Two Fires]]                                       | Christopher Buehlman        | Fiction     | <ul><li>Historical</li><li>Fantasy</li><li>Horror</li><li>Supernatural</li></ul>                     | Completed | 🌕🌕🌕🌕🌕 |
@@ -74,9 +75,9 @@ cssclasses:
 | ![[dr-jekyll-and-mr-hyde.jpg\|92]]                   | [[dr-jekyll-and-mr-hyde\|Dr. Jekyll and Mr. Hyde]]                                   | Robert Louis Stevenson            | Fiction     | <ul><li>Gothic</li><li>Horror</li><li>Mystery</li><li>Novella</li></ul>                       | Completed | 🌕🌕🌕🌕🌑 |
 | ![[evil-eye.jpg\|92]]                                | [[evil-eye\|Evil Eye]]                                                               | Madhuri Shekar                    | Fiction     | <ul><li>Thriller</li><li>Mystery</li><li>Suspense</li><li>Supernatural</li></ul>              | Completed | 🌕🌕🌕🌗🌑 |
 | ![[ikigai.jpg\|92]]                                  | [[ikigai\|Ikigai]]                                                                   | Héctor García & Francesc Miralles | Non-Fiction | <ul><li>Philosophy</li><li>Psychology</li><li>Lifestyle</li><li>Self-Help</li></ul>           | Completed | 🌕🌕🌕🌑🌑 |
-| ![[lolita.jpg\|92]]                                  | [[lolita\|Lolita]]                                                                   | Vladimir Nabokov                  | Fiction     | <ul><li>Psychological</li><li>Drama</li><li>Romance</li><li>Tragedy</li></ul>                 | Completed | 🌕🌕🌕🌕🌑 |
+| ![[lolita.jpg\|92]]                                  | [[lolita\|Lolita]]                                                                   | Vladimir Nabokov                  | Fiction     | <ul><li>Psychological</li><li>Drama</li><li>Romance</li><li>Tragedy</li></ul>                 | Completed | 🌕🌕🌕🌕🌕 |
 | ![[mythos.jpg\|92]]                                  | [[mythos\|Mythos]]                                                                   | Stephen Fry                       | Non-Fiction | <ul><li>Mythology</li><li>Retelling</li><li>History</li><li>Adventure</li></ul>               | Completed | 🌕🌕🌕🌕🌑 |
-| ![[nettle-and-bone.jpg\|92]]                         | [[nettle-and-bone\|Nettle & Bone]]                                                   | T. Kingfisher                     | Fiction     | <ul><li>Fantasy</li><li>Adventure</li><li>Fairy-tale</li><li>Gothic</li></ul>                 | Completed | 🌕🌕🌕🌑🌑 |
+| ![[nettle-and-bone.jpg\|92]]                         | [[nettle-and-bone\|Nettle & Bone]]                                                   | T. Kingfisher                     | Fiction     | <ul><li>Fantasy</li><li>Adventure</li><li>Fairy-tale</li><li>Gothic</li></ul>                 | Completed | 🌕🌕🌕🌗🌑 |
 | ![[never-let-me-go.jpg\|92]]                         | [[never-let-me-go\|Never Let Me Go]]                                                 | Kazuo Ishiguro                    | Fiction     | <ul><li>Dystopian</li><li>Science Fiction</li><li>Psychological</li><li>Speculative</li></ul> | Completed | 🌕🌕🌕🌕🌑 |
 | ![[nutcracker.jpg\|92]]                              | [[nutcracker\|Nutcracker]]                                                           | E.T.A. Hoffmann                   | Fiction     | <ul><li>Fantasy</li><li>Adventure</li><li>Magical Realism</li><li>Novella</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
 | ![[project-hail-mary.jpg\|92]]                       | [[project-hail-mary\|Project Hail Mary]]                                             | Andy Weir                         | Fiction     | <ul><li>Science Fiction</li><li>Adventure</li><li>Thriller</li><li>Mystery</li></ul>          | Completed | 🌕🌕🌕🌕🌕 |
@@ -88,8 +89,8 @@ cssclasses:
 | ![[the-god-of-small-things.jpg\|92]]                 | [[the-god-of-small-things\|The God of Small Things]]                                 | Arundhati Roy                     | Fiction     | <ul><li>Drama</li><li>Historical</li><li>Psychological</li><li>Tragedy</li></ul>              | Completed | 🌕🌕🌕🌕🌑 |
 | ![[the-kite-runner.jpg\|92]]                         | [[the-kite-runner\|The Kite Runner]]                                                 | Khaled Hosseini                   | Fiction     | <ul><li>Drama</li><li>Historical</li><li>Psychological</li><li>Commentary</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
 | ![[the-metamorphosis.jpg\|92]]                       | [[the-metamorphosis\|The Metamorphosis]]                                             | Franz Kafka                       | Fiction     | <ul><li>Psychological</li><li>Philosophical</li><li>Allegory</li><li>Novella</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
-| ![[the-one.jpg\|92]]                                 | [[the-one\|The One]]                                                                 | John Marrs                        | Fiction     | <ul><li>Thriller</li><li>Psychological</li><li>Mystery</li><li>Drama</li></ul>                | Completed | 🌕🌕🌕🌑🌑 |
-| ![[the-picture-of-dorian-gray.jpg\|92]]              | [[the-picture-of-dorian-gray\|The Picture of Dorian Gray]]                           | Oscar Wilde                       | Fiction     | <ul><li>Gothic</li><li>Philosophical</li><li>Drama</li><li>Tragedy</li></ul>                  | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-one.jpg\|92]]                                 | [[the-one\|The One]]                                                                 | John Marrs                        | Fiction     | <ul><li>Thriller</li><li>Psychological</li><li>Mystery</li><li>Drama</li></ul>                | Completed | 🌕🌕🌕🌗🌑 |
+| ![[the-picture-of-dorian-gray.jpg\|92]]              | [[the-picture-of-dorian-gray\|The Picture of Dorian Gray]]                           | Oscar Wilde                       | Fiction     | <ul><li>Gothic</li><li>Philosophical</li><li>Drama</li><li>Tragedy</li></ul>                  | Completed | 🌕🌕🌕🌕🌗 |
 | ![[the-yellow-wallpaper.jpg\|92]]                    | [[the-yellow-wallpaper\|The Yellow Wallpaper]]                                       | Charlotte Perkins Gilman          | Fiction     | <ul><li>Gothic</li><li>Psychological</li><li>Feminism</li><li>Short Story</li></ul>           | Completed | 🌕🌕🌕🌕🌕 |
 | ![[this-is-how-they-tell-me-the-world-ends.jpg\|92]] | [[this-is-how-they-tell-me-the-world-ends\|This Is How They Tell Me the World Ends]] | Nicole Perlroth                   | Non-Fiction | <ul><li>Cybersecurity</li><li>Politics</li><li>Technology</li><li>Journalism</li></ul>        | Completed | 🌕🌕🌕🌑🌑 |
 | ![[to-kill-a-mockingbird.jpg\|92]]                   | [[to-kill-a-mockingbird\|To Kill a Mockingbird]]                                     | Harper Lee                        | Fiction     | <ul><li>Drama</li><li>Historical</li><li>Psychological</li><li>Commentary</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
@@ -110,10 +111,10 @@ cssclasses:
 | ---------------------------------------- | ------------------------------------------------------------ | ------------------- | ----------- | -------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[and-then-there-where-none.jpg\|92]]   | [[and-then-there-where-none\|And Then There Were None]]      | Agatha Christie     | Fiction     | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
 | ![[hamlet.jpg\|92]]                      | [[hamlet\|Hamlet]]                                           | William Shakespeare | Play        | <ul><li>Tragedy</li><li>Drama</li><li>Political</li><li>Psychological</li></ul>  | Completed | 🌕🌕🌕🌑🌑 |
-| ![[mans-search-for-meaning.jpg\|92]]     | [[mans-search-for-meaning\|Man's Search for Meaning]]        | Viktor E. Frankl    | Non-Fiction | <ul><li>Psychology</li><li>Philosophy</li><li>Memoir</li><li>Self-Help</li></ul> | Completed | 🌕🌕🌕🌑🌑 |
+| ![[mans-search-for-meaning.jpg\|92]]     | [[mans-search-for-meaning\|Man's Search for Meaning]]        | Viktor E. Frankl    | Non-Fiction | <ul><li>Psychology</li><li>Philosophy</li><li>Memoir</li><li>Self-Help</li></ul> | Completed | 🌕🌕🌕🌗🌑 |
 | ![[the-murder-of-roger-ackroyd.jpg\|92]] | [[the-murder-of-roger-ackroyd\|The Murder of Roger Ackroyd]] | Agatha Christie     | Fiction     | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
 | ![[why-we-sleep.jpg\|92]]                | [[why-we-sleep\|Why We Sleep]]                               | Matthew Walker      | Non-Fiction | <ul><li>Science</li><li>Psychology</li><li>Health</li><li>Educational</li></ul>  | Completed | 🌕🌕🌕🌑🌑 |
-| ![[zero-day.jpg\|92]]                    | [[zero-day\|Zero Day]]                                       | David Baldacci      | Fiction     | <ul><li>Thriller</li><li>Mystery</li><li>Crime</li><li>Suspense</li></ul>        | Completed | 🌕🌕🌑🌑🌑 |
+| ![[zero-day.jpg\|92]]                    | [[zero-day\|Zero Day]]                                       | David Baldacci      | Fiction     | <ul><li>Thriller</li><li>Mystery</li><li>Crime</li><li>Suspense</li></ul>        | Completed | 🌕🌕🌗🌑🌑 |
 
 ### 2021 (4)
 
@@ -130,15 +131,15 @@ cssclasses:
 | --------------------------------- | ---------------------------------------------- | ----------------- | ------- | ------------------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[1984.jpg\|92]]                 | [[1984\|1984]]                                 | George Orwell     | Fiction | <ul><li>Dystopian</li><li>Science Fiction</li><li>Political</li><li>Philosophical</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
 | ![[crime-and-punishment.jpg\|92]] | [[crime-and-punishment\|Crime and Punishment]] | Fyodor Dostoevsky | Fiction | <ul><li>Physiological</li><li>Philosophical</li><li>Crime</li><li>Drama</li></ul>           | Completed | 🌕🌕🌕🌑🌑 |
-| ![[the-alchemist.jpg\|92]]        | [[the-alchemist\|The Alchemist]]               | Paulo Coelho      | Fiction | <ul><li>Philosophical</li><li>Adventure</li><li>Fantasy</li><li>Novella</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-alchemist.jpg\|92]]        | [[the-alchemist\|The Alchemist]]               | Paulo Coelho      | Fiction | <ul><li>Philosophical</li><li>Adventure</li><li>Fantasy</li><li>Novella</li></ul>           | Completed | 🌕🌕🌕🌕🌕 |
 
 ### 2019 (5)
 
 | Cover                                | Title                                                | Author          | Type    | Genre                                                                              | Status    | Rating     |
 | ------------------------------------ | ---------------------------------------------------- | --------------- | ------- | ---------------------------------------------------------------------------------- | --------- | ---------- |
 | ![[angels-and-demons.jpg\|92]]       | [[angels-and-demons\|Angels & Demons]]               | Dan Brown       | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>          | Completed | 🌕🌕🌕🌗🌑 |
-| ![[the-da-vinci-code.jpg\|92]]       | [[the-da-vinci-code\|The Da Vinci Code]]             | Dan Brown       | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>          | Completed | 🌕🌕🌕🌑🌑 |
-| ![[the-last-avatar.jpg\|92]]         | [[the-last-avatar\|The Last Avatar]]                 | Vishwas Mudagal | Fiction | <ul><li>Fantasy</li><li>Adventure</li><li>Action</li><li>Science Fiction</li></ul> | Completed | 🌕🌕🌑🌑🌑 |
+| ![[the-da-vinci-code.jpg\|92]]       | [[the-da-vinci-code\|The Da Vinci Code]]             | Dan Brown       | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>          | Completed | 🌕🌕🌕🌗🌑 |
+| ![[the-last-avatar.jpg\|92]]         | [[the-last-avatar\|The Last Avatar]]                 | Vishwas Mudagal | Fiction | <ul><li>Fantasy</li><li>Adventure</li><li>Action</li><li>Science Fiction</li></ul> | Completed | 🌕🌕🌗🌑🌑 |
 | ![[the-lost-symbol.jpg\|92]]         | [[the-lost-symbol\|The Lost Symbol]]                 | Dan Brown       | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>          | Completed | 🌕🌕🌕🌕🌕 |
 | ![[they-do-it-with-mirrors.jpg\|92]] | [[they-do-it-with-mirrors\|They Do It with Mirrors]] | Agatha Christie | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>          | Completed | 🌕🌕🌕🌑🌑 |
 

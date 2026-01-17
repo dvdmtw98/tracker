@@ -5,7 +5,7 @@ tags:
   - index
   - comic
 date: 2024-02-06 18:22:01 -0600
-updated: 2025-12-31 23:31:52 +0530
+updated: 2026-01-15 23:30:14 +0530
 cssclasses:
   - cards
   - cards-2-3
@@ -24,11 +24,11 @@ cssclasses:
 | Cover                            | Title                                        | Author             | Type   | Genre                                                                                | Status    | Rating     |
 | -------------------------------- | -------------------------------------------- | ------------------ | ------ | ------------------------------------------------------------------------------------ | --------- | ---------- |
 | ![[bastard.jpg\|92]]             | [[bastard\|Bastard]]                         | Carnby Kim         | Manhwa | <ul><li>Thriller</li><li>Mystery</li><li>Psychological</li><li>Crime</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
-| ![[claymore.jpg\|92]]            | [[claymore\|Claymore]]                       | Norihiro Yagi      | Manga  | <ul><li>Fantasy</li><li>Action</li><li>Adventure</li><li>Supernatural</li></ul>      | Completed | 🌕🌕🌕🌕🌗 |
+| ![[claymore.jpg\|92]]            | [[claymore\|Claymore]]                       | Norihiro Yagi      | Manga  | <ul><li>Fantasy</li><li>Action</li><li>Adventure</li><li>Supernatural</li></ul>      | Completed | 🌕🌕🌕🌕🌕 |
 | ![[emanon-wanderer.jpg\|92]]     | [[emanon-wanderer\|Emanon Wanderer]]         | Shinji Kajio       | Manga  | <ul><li>Adventure</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>      | Completed | 🌕🌕🌕🌑🌑 |
 | ![[gyo.jpg\|92]]                 | [[gyo\|Gyo]]                                 | Junji Ito          | Manga  | <ul><li>Horror</li><li>Mystery</li><li>Psychological</li><li>Thriller</li></ul>      | Completed | 🌕🌕🌕🌕🌑 |
 | ![[memories-of-emanon.jpg\|92]]  | [[memories-of-emanon\|Memories of Emanon]]   | Shinji Kajio       | Manga  | <ul><li>Mystery</li><li>Fantasy</li><li>Philosophical</li><li>Drama</li></ul>        | Completed | 🌕🌕🌕🌕🌕 |
-| ![[seconds.jpg\|92]]             | [[seconds\|Seconds]]                         | Bryan Lee O'Malley | Comic  | <ul><li>Fantasy</li><li>Magical Realism</li><li>Drama</li><li>Contemporary</li></ul> | Completed | 🌕🌕🌕🌕   |
+| ![[seconds.jpg\|92]]             | [[seconds\|Seconds]]                         | Bryan Lee O'Malley | Comic  | <ul><li>Fantasy</li><li>Magical Realism</li><li>Drama</li><li>Contemporary</li></ul> | Completed | 🌕🌕🌕🌕🌑 |
 | ![[the-arrival.jpg\|92]]         | [[the-arrival\|The Arrival]]                 | Shaun Tan          | Comic  | <ul><li>Fantasy</li><li>Historical</li><li>Drama</li><li>Adventure</li></ul>         | Completed | 🌕🌕🌕🌕🌕 |
 | ![[the-flowers-of-evil.jpg\|92]] | [[the-flowers-of-evil\|The Flowers of Evil]] | Shuuzou Oshimi     | Manga  | <ul><li>Psychological</li><li>Drama</li><li>Romance</li><li>Suspense</li></ul>       | Completed | 🌕🌕🌕🌕🌕 |
 
@@ -71,6 +71,6 @@ cssclasses:
 | ![[the-sandman-endless-nights.jpg\|92]]    | [[the-sandman-endless-nights\|The Sandman: Endless Nights]]       | Neil Gaiman     | Comic | <ul><li>Fantasy</li><li>Speculative</li><li>Psychological</li><li>Supernatural</li></ul>   | Completed | 🌕🌕🌕🌕🌑 |
 | ![[the-sandman-overtune.jpg\|92]]          | [[the-sandman-overtune\|The Sandman: Overtune]]                   | Neil Gaiman     | Comic | <ul><li>Fantasy</li><li>Supernatural</li><li>Mystery</li><li>Psychological</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
 | ![[the-sandman-the-dream-hunters.jpg\|92]] | [[the-sandman-the-dream-hunters\|The Sandman: The Dream Hunters]] | Neil Gaiman     | Comic | <ul><li>Fantasy</li><li>Supernatural</li><li>Mythology</li><li>Romance</li></ul>           | Completed | 🌕🌕🌕🌕🌕 |
-| ![[tomie.jpg\|92]]                         | [[tomie\|Tomie]]                                                  | Junji Ito       | Manga | <ul><li>Supernatural</li><li>Psychological</li><li>Horror</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌑🌑 |
+| ![[tomie.jpg\|92]]                         | [[tomie\|Tomie]]                                                  | Junji Ito       | Manga | <ul><li>Supernatural</li><li>Psychological</li><li>Horror</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌗🌑 |
 | ![[uzumaki.jpg\|92]]                       | [[uzumaki\|Uzumaki]]                                              | Junji Ito       | Manga | <ul><li>Horror</li><li>Supernatural</li><li>Psychological</li><li>Thriller</li></ul>       | Completed | 🌕🌕🌕🌕🌕 |
 

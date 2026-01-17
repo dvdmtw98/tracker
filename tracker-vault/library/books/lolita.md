@@ -12,11 +12,11 @@ readingHistory:
   - format: Digital
     pages: 362
     ISBN: 9780307744029
-    rating: 🌕🌕🌕🌕🌑
+    rating: 🌕🌕🌕🌕🌕
     status: Completed
     start: 2024-08-18 18:26:05 -0500
     end: 2024-09-02 12:50:01 -0500
-updated: 2025-05-30 23:51:56 -0500
+updated: 2026-01-15 23:25:27 +0530
 ---
 
 ![[lolita.jpg|300]]

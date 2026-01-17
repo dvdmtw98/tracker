@@ -12,11 +12,11 @@ readingHistory:
   - format: Digital
     pages: 198
     ISBN: 9781542097437
-    rating: 🌕🌕🌕🌕🌑
+    rating: 🌕🌕🌕🌕🌗
     status: Completed
     start: 2024-07-14 21:03:51 -0500
     end: 2024-07-19 23:52:00 -0500
-updated: 2025-05-31 18:50:52 -0500
+updated: 2026-01-15 23:23:56 +0530
 ---
 
 ![[the-picture-of-dorian-gray.jpg|300]]

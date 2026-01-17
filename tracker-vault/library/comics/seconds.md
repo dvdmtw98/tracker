@@ -13,11 +13,11 @@ chapters: 7
 ISBN: 9780345529374
 readingHistory:
   - format: Digital
-    rating: 🌕🌕🌕🌕
+    rating: 🌕🌕🌕🌕🌑
     status: Completed
     start: 2025-12-29 21:26:38 +0530
     end: 2025-12-30 23:10:38 +0530
-updated: 2025-12-31 23:32:24 +0530
+updated: 2026-01-15 23:29:07 +0530
 ---
 
 ![[seconds.jpg|300]]
