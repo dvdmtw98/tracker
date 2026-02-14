@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2026-01-18 12:12:30 +0530
+updated: 2026-02-14 12:44:01 +0530
 cssclasses:
   - cards
   - cards-cols-4
@@ -13,12 +13,13 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (2)
+### 2026 (3)
 
-| Cover                                         | Title                                                                   | Author        | Type    | Genre                                                                                      | Status    | Rating     |
-| --------------------------------------------- | ----------------------------------------------------------------------- | ------------- | ------- | ------------------------------------------------------------------------------------------ | --------- | ---------- |
-| ![[the-grave-tattoo.jpg\|92]]                 | [[the-grave-tattoo\|The Grave Tattoo]]                                  | Val McDermid  | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                  | Reading   | 🌑🌑🌑🌑🌑 |
-| ![[if-on-a-winters-night-a-traveler.jpg\|92]] | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]] | Italo Calvino | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul> | Completed | 🌕🌕🌕🌕🌑 |
+| Cover                                         | Title                                                                   | Author           | Type    | Genre                                                                                          | Status    | Rating     |
+| --------------------------------------------- | ----------------------------------------------------------------------- | ---------------- | ------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[the-nine-billion-names-of-god.jpg\|92]]    | [[the-nine-billion-names-of-god\|The Nine Billion Names of God]]        | Arthur C. Clarke | Fiction | <ul><li>Science Fiction</li><li>Fantasy</li><li>Story Collection</li><li>Speculative</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[if-on-a-winters-night-a-traveler.jpg\|92]] | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]] | Italo Calvino    | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul>     | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-grave-tattoo.jpg\|92]]                 | [[the-grave-tattoo\|The Grave Tattoo]]                                  | Val McDermid     | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
 
 ### 2025 (36)
 

@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2026-01-06 21:35:07 +0530
+updated: 2026-02-14 12:51:11 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -123,7 +123,7 @@ cssclasses:
 |     | [Seven Gothic Tales](https://www.goodreads.com/book/show/669305.Seven_Gothic_Tales)                                                                             | Isak Dinesen               | 1934      | 420   |
 |     | [No Exit](https://www.goodreads.com/book/show/123933.No_Exit)                                                                                                   | Jean-Paul Sartre           | 1944      | 60    |
 |     | [Anne of Green Gables](https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables)                                                                           | L.M. Montgomery            | 1908      | 320   |
-|     | [Dead Soulss](https://www.goodreads.com/book/show/28381.Dead_Souls)                                                                                             | Nikolai Gogol              | 1842      | 464   |
+|     | [Dead Souls](https://www.goodreads.com/book/show/28381.Dead_Souls)                                                                                              | Nikolai Gogol              | 1842      | 464   |
 |     | [Friday Black](https://www.goodreads.com/book/show/37570595-friday-black)                                                                                       | Nana Kwame Adjei-Brenyah   | 2018      | 194   |
 |     | [Matilda](https://www.goodreads.com/book/show/39988.Matilda)                                                                                                    | Roald Dahl                 | 1988      | 240   |
 |     | [Sold](https://www.goodreads.com/book/show/201114.Sold)                                                                                                         | Patricia McCormick         | 2006      | 268   |
