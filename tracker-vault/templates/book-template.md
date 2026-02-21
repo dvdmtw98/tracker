@@ -24,6 +24,8 @@ const imageName = `${fileName}.jpg`;
 const translator = result.getValue('translator')?.value;
 const artist = result.getValue('artist')?.value;
 
+const original = result.getValue('original')?.value;
+
 // Move and rename file
 const category = result.getValue('category').value;
 const filePath = (
@@ -68,6 +70,10 @@ updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
 ![[<% imageName %>|300]]
 
 Book Link: [<% shortName || name %>](<% result.getValue('book-url') %>)
+
+<%* if (original !== undefined) { -%>
+    Original: <% original %>
+<%* } -%>
 <%*
 tp.hooks.on_all_templates_executed(async () => {
 	await new Promise(r => setTimeout(r, 2000));

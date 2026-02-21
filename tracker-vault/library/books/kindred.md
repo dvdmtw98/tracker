@@ -15,7 +15,7 @@ readingHistory:
     rating: 🌕🌕🌕🌕🌕
     status: Completed
     start: 2025-03-20 00:07:03 -0500
-    end: 2025-03-29T12:12:07
+    end: 2025-03-29 12:12:07 -0500
 updated: 2025-05-15 21:31:40 -0500
 ---
 

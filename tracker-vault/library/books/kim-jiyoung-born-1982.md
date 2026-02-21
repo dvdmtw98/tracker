@@ -17,9 +17,11 @@ readingHistory:
     status: Completed
     start: 2025-05-31 09:51:18 -0500
     end: 2025-06-05 09:51:18 -0500
-updated: 2025-06-11 23:10:13 -0500
+updated: 2026-02-14 21:57:58 +0530
 ---
 
 ![[kim-jiyoung-born-1982.jpg|300]]
 
 Book Link: [Kim Jiyoung, Born 1982](https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982)
+
+Original: Korean

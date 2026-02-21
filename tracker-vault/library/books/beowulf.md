@@ -17,9 +17,11 @@ readingHistory:
     status: Completed
     start: 2025-05-25 18:59:46 -0500
     end: 2025-05-30 22:28:03 -0500
-updated: 2025-06-22 18:17:36 -0500
+updated: 2026-02-14 21:56:15 +0530
 ---
 
 ![[beowulf.jpg|300]]
 
 Book Link: [Beowulf](https://www.goodreads.com/book/show/52357.Beowulf)
+
+Original: Old English
