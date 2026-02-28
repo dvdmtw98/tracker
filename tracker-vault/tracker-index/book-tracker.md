@@ -13,13 +13,14 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (3)
+### 2026 (4)
 
-| Cover                                         | Title                                                                   | Author           | Type    | Genre                                                                                          | Status    | Rating     |
-| --------------------------------------------- | ----------------------------------------------------------------------- | ---------------- | ------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[the-nine-billion-names-of-god.jpg\|92]]    | [[the-nine-billion-names-of-god\|The Nine Billion Names of God]]        | Arthur C. Clarke | Fiction | <ul><li>Science Fiction</li><li>Fantasy</li><li>Story Collection</li><li>Speculative</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
-| ![[if-on-a-winters-night-a-traveler.jpg\|92]] | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]] | Italo Calvino    | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul>     | Completed | 🌕🌕🌕🌕🌑 |
-| ![[the-grave-tattoo.jpg\|92]]                 | [[the-grave-tattoo\|The Grave Tattoo]]                                  | Val McDermid     | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
+| Cover                                               | Title                                                                                | Author           | Type    | Genre                                                                                          | Status    | Rating     |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- | ------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[the-nine-billion-names-of-god.jpg\|92]]          | [[the-nine-billion-names-of-god\|The Nine Billion Names of God]]                     | Arthur C. Clarke | Fiction | <ul><li>Science Fiction</li><li>Fantasy</li><li>Story Collection</li><li>Speculative</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[if-on-a-winters-night-a-traveler.jpg\|92]]       | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]]              | Italo Calvino    | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul>     | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-boy-the-mole-the-fox-and-the-horse.jpg\|92]] | [[the-boy-the-mole-the-fox-and-the-horse\|The Boy, the Mole, the Fox and the Horse]] | Charlie Mackesy  | Fiction | <ul><li>Philosophical</li><li>Short Story</li><li>Children's</li><li>Self-Help</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-grave-tattoo.jpg\|92]]                       | [[the-grave-tattoo\|The Grave Tattoo]]                                               | Val McDermid     | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
 
 ### 2025 (36)
 
