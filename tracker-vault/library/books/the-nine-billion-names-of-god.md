@@ -12,11 +12,11 @@ readingHistory:
   - format: Digital
     pages: 285
     ISBN: 9780451147554
-    rating: 🌑🌑🌑🌑🌑
-    status: Reading
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
     start: 2026-02-12 22:30:41 +0530
-    end: 2026-02-12 22:30:41 +0530
-updated: 2026-02-14 22:20:35 +0530
+    end: 2026-03-14 18:29:31 +0530
+updated: 2026-03-14 18:29:31 +0530
 ---
 
 ![[the-nine-billion-names-of-god.jpg|300]]
