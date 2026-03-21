@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2026-02-14 12:51:11 +0530
+updated: 2026-03-21 12:44:54 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -97,7 +97,6 @@ cssclasses:
 |     | [The Palace of Dreams](https://www.goodreads.com/book/show/797635.The_Palace_of_Dreams)                                                                         | Ismail Kadare              | 1981      | 208   |
 |     | [The Hour of the Star](https://www.goodreads.com/book/show/762390.The_Hour_of_the_Star)                                                                         | Clarice Lispector          | 1977      | 96    |
 |     | [The Death of Vivek Oji](https://www.goodreads.com/book/show/48595550-the-death-of-vivek-oji)                                                                   | Akwaeke Emezi              | 2020      | 248   |
-|     | [The Blind Owl](https://www.goodreads.com/book/show/45967.The_Blind_Owl)                                                                                        | Sadegh Hedayat             | 1937      | 148   |
 |     | [Stoner](https://www.goodreads.com/book/show/166997.Stoner)                                                                                                     | John Williams              | 1965      | 292   |
 |     | [Pedro Páramo](https://www.goodreads.com/book/show/38787.Pedro_P_ramo)                                                                                          | Juan Rulfo                 | 1955      | 124   |
 |     | [On Earth We're Briefly Gorgeous](https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous)                                                 | Ocean Vuong                | 2019      | 246   |

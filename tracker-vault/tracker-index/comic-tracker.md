@@ -5,7 +5,7 @@ tags:
   - index
   - comic
 date: 2024-02-06 18:22:01 -0600
-updated: 2026-01-15 23:30:14 +0530
+updated: 2026-03-21 09:41:34 +0530
 cssclasses:
   - cards
   - cards-2-3
@@ -13,11 +13,12 @@ cssclasses:
   - cards-align-bottom
 ---
 
-### 2026 (1)
+### 2026 (2)
 
-| Cover                     | Title                          | Author           | Type  | Genre                                                                             | Status  | Rating     |
-| ------------------------- | ------------------------------ | ---------------- | ----- | --------------------------------------------------------------------------------- | ------- | ---------- |
-| ![[chainsaw-man.jpg\|92]] | [[chainsaw-man\|Chainsaw Man]] | Tatsuki Fujimoto | Manga | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading | 🌑🌑🌑🌑🌑 |
+| Cover                                       | Title                                                               | Author           | Type  | Genre                                                                             | Status    | Rating     |
+| ------------------------------------------- | ------------------------------------------------------------------- | ---------------- | ----- | --------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[chainsaw-man.jpg\|92]]                   | [[chainsaw-man\|Chainsaw Man]]                                      | Tatsuki Fujimoto | Manga | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[daredevil-the-man-without-fear.jpg\|92]] | [[daredevil-the-man-without-fear\|Daredevil: The Man Without Fear]] | Frank Miller     | Comic | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>             | Completed | 🌕🌕🌕🌕🌑 |
 
 ### 2025 (8)
 
