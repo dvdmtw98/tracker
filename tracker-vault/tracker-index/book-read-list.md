@@ -105,7 +105,6 @@ cssclasses:
 |     | [Foster](https://www.goodreads.com/book/show/8143909-foster)                                                                                                    | Claire Keegan              | 2010      | 89    |
 |     | [And Every Morning the Way Home Gets Longer and Longer](https://www.goodreads.com/book/show/31373633-and-every-morning-the-way-home-gets-longer-and-longer)     | Fredrik Backman            | 2015      | 97    |
 |     | [Midnight’s Children](https://www.goodreads.com/book/show/14836.Midnight_s_Children)                                                                            | Salman Rushdie             | 1981      | 647   |
-|     | [Malgudi Days](https://www.goodreads.com/book/show/14082.Malgudi_Days)                                                                                          | R.K. Narayan               | 1943      | 264   |
 |     | [Can You Hear the Nightbird Call?](https://www.goodreads.com/book/show/473846.Can_You_Hear_the_Nightbird_Call_)                                                 | Anita Rau Badami           | 2006      | 432   |
 |     | [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)                                                                       | J.D. Salinger              | 1951      | 277   |
 |     | [Franny and Zooey](https://www.goodreads.com/book/show/5113.Franny_and_Zooey)                                                                                   | J.D. Salinger              | 1957      | 201   |
