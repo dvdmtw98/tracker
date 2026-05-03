@@ -12,11 +12,11 @@ readingHistory:
   - format: Digital
     pages: 279
     ISBN: 9780143039655
-    rating: 🌑🌑🌑🌑🌑
-    status: Reading
+    rating: 🌕🌕🌕🌕🌑
+    status: Completed
     start: 2026-03-21 20:15:06 +0530
-    end: 2026-03-21 20:15:06 +0530
-updated: 2026-03-21 20:23:27 +0530
+    end: 2026-04-19 22:05:06 +0530
+updated: 2026-04-19 22:24:06 +0530
 ---
 
 ![[malgudi-days.jpg|300]]
