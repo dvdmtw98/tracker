@@ -24,4 +24,6 @@ updated: 2026-02-14 21:57:58 +0530
 
 Book Link: [Kim Jiyoung, Born 1982](https://www.goodreads.com/book/show/46041199-kim-jiyoung-born-1982)
 
+```
 Original: Korean
+```

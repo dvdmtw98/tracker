@@ -24,4 +24,6 @@ updated: 2025-05-31 19:07:06 -0500
 
 Book Link: [The Divine Comedy](https://www.goodreads.com/book/show/6656.The_Divine_Comedy)
 
+```
 Original: Italian
+```

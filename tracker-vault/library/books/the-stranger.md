@@ -24,4 +24,6 @@ updated: 2025-06-11 23:21:09 -0500
 
 Book Link: [The Stranger](https://www.goodreads.com/book/show/49552.The_Stranger)
 
+```
 Original: French
+```

@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2026-03-21 12:44:54 +0530
+updated: 2026-05-09 22:47:58 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -17,7 +17,6 @@ cssclasses:
 | No. | Name                                                                                                                                                            | Author                     | Published | Pages |
 | :-- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- | :-------- | :---- |
 |     | [Blood Over Bright Haven](https://www.goodreads.com/book/show/57915993-blood-over-bright-haven)                                                                 | M.L. Wang                  | 2023      | 527   |
-|     | [Cloud Atlas](https://www.goodreads.com/book/show/49628.Cloud_Atlas)                                                                                            | David Mitchell             | 2004      | 509   |
 |     | [Perfume](https://www.goodreads.com/book/show/343.Perfume)                                                                                                      | Patrick Süskind            | 1985      | 263   |
 |     | [Sharp Objects](https://www.goodreads.com/book/show/18045891-sharp-objects)                                                                                     | Gillian Flynn              | 2006      | 254   |
 |     | [The Sword of Kaigen](https://www.goodreads.com/book/show/41886271-the-sword-of-kaigen)                                                                         | M.L. Wang                  | 2018      | 651   |
@@ -30,7 +29,6 @@ cssclasses:
 |     | [The Fifth Season](https://www.goodreads.com/book/show/19161852-the-fifth-season) (1/3)                                                                         | N.K. Jemisin               | 2015      | 468   |
 |     | [Five Decembers](https://www.goodreads.com/book/show/57522883-five-decembers)                                                                                   | James Kestrel              | 2021      | 429   |
 |     | [Bright Young Women](https://www.goodreads.com/book/show/101124639-bright-young-women)                                                                          | Jessica Knoll              | 2023      | 384   |
-|     | [If We Were Villains](https://www.goodreads.com/book/show/30319086-if-we-were-villains)                                                                         | M.L. Rio                   | 2017      | 354   |
 |     | [Slewfoot](https://www.goodreads.com/book/show/56179372-slewfoot)                                                                                               | Brom                       | 2021      | 305   |
 |     | [The Library at Mount Char](https://www.goodreads.com/book/show/26892110-the-library-at-mount-char)                                                             | Scott Hawkins              | 2015      | 390   |
 |     | [Moominland Midwinter](https://www.goodreads.com/book/show/443103.Moominland_Midwinter)                                                                         | Tove Jansson               | 1957      | 168   |
@@ -38,19 +36,16 @@ cssclasses:
 |     | [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon)                                                                          | Daniel Keyes               | 1966      | 311   |
 |     | [Of Mice and Men](https://www.goodreads.com/book/show/890.Of_Mice_and_Men)                                                                                      | John Steinbeck             | 1937      | 107   |
 |     | [One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)                                                          | Gabriel García Márquez     | 1967      | 417   |
-|     | [Pale Fire](https://www.goodreads.com/book/show/7805.Pale_Fire)                                                                                                 | Vladimir Nabokov           | 1962      | 246   |
 |     | [Slaughterhouse-Five](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five)                                                                             | Kurt Vonnegut Jr.          | 1969      | 275   |
 |     | [The Book Thief](https://www.goodreads.com/book/show/19063.The_Book_Thief)                                                                                      | Markus Zusak               | 2005      | 592   |
 |     | [The Brothers Karamazov](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)                                                                       | Fyodor Dostoevsky          | 1880      | 796   |
 |     | [The Count of Monte Cristo](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)                                                                 | Alexandre Dumas            | 1844      | 1276  |
 |     | [The Master and Margarita](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)                                                                 | Mikhail Bulgakov           | 1967      | 372   |
 |     | [The Pillowman](https://www.goodreads.com/book/show/133974.The_Pillowman)                                                                                       | Martin McDonagh            | 2003      | 104   |
-|     | [War and Peace](https://www.goodreads.com/book/show/656.War_and_Peace)                                                                                          | Leo Tolstoy                | 1869      | 1392  |
 |     | [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World)                                                                                     | Aldous Huxley              | 1932      | 268   |
 |     | [The Road](https://www.goodreads.com/book/show/6288.The_Road)                                                                                                   | Cormac McCarthy            | 2006      | 241   |
 |     | [The Collector](https://www.goodreads.com/book/show/243705.The_Collector)                                                                                       | John Fowles                | 1963      | 283   |
 |     | [Anna Karenina](https://www.goodreads.com/book/show/15823480-anna-karenina)                                                                                     | Leo Tolstoy                | 1878      | 964   |
-|     | [Blood Meridian](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)                                                  | Cormac McCarthy            | 1985      | 351   |
 |     | [Dracula](https://www.goodreads.com/book/show/17245.Dracula)                                                                                                    | Bram Stoker                | 1897      | 488   |
 |     | [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves)                                                                                    | Mark Z. Danielewski        | 2000      | 710   |
 |     | [Jane Eyre](https://www.goodreads.com/book/show/10210.Jane_Eyre)                                                                                                | Charlotte Brontë           | 1847      | 532   |
@@ -58,13 +53,11 @@ cssclasses:
 |     | [The Death of Ivan Ilych](https://www.goodreads.com/book/show/18386.The_Death_of_Ivan_Ilych)                                                                    | Leo Tolstoy                | 1886      | 86    |
 |     | [Cat’s Cradle](https://www.goodreads.com/book/show/135479.Cat_s_Cradle)                                                                                         | Kurt Vonnegut Jr.          | 1963      | 306   |
 |     | [Dom Casmurro](https://www.goodreads.com/book/show/82888.Dom_Casmurro)                                                                                          | Machado de Assis           | 1899      | 176   |
-|     | [Lonesome Dove](https://www.goodreads.com/book/show/256008.Lonesome_Dove)                                                                                       | Larry McMurtry             | 1985      | 960   |
 |     | [The Phantom of the Opera](https://www.goodreads.com/book/show/480204.The_Phantom_of_the_Opera)                                                                 | Gaston Leroux              | 1910      | 360   |
 |     | [The Seven Husbands of Evelyn Hugo](https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo)                                             | Taylor Jenkins Reid        | 2017      | 389   |
 |     | [The Snow Child](https://www.goodreads.com/book/show/33597976-the-snow-child)                                                                                   | Eowyn Ivey                 | 2012      | 423   |
 |     | [The Sun Down Motel](https://www.goodreads.com/book/show/45885644-the-sun-down-motel)                                                                           | Simone St. James           | 2020      | 327   |
 |     | [Blindness](https://www.goodreads.com/book/show/2526.Blindness)                                                                                                 | José Saramago              | 1995      | 326   |
-|     | [1Q84](https://www.goodreads.com/book/show/10357575-1q84)                                                                                                       | Haruki Murakami            | 2009      | 944   |
 |     | [A Fine Balance](https://www.goodreads.com/book/show/5211.A_Fine_Balance)                                                                                       | Rohinton Mistry            | 1995      | 603   |
 |     | [Wuthering Heights](https://www.goodreads.com/book/show/6185.Wuthering_Heights)                                                                                 | Emily Brontë               | 1847      | 464   |
 |     | [White Nights](https://www.goodreads.com/book/show/1772910.White_Nights)                                                                                        | Fyodor Dostoevsky          | 1848      | 82    |
@@ -81,7 +74,6 @@ cssclasses:
 |     | [The Grapes of Wrath](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath)                                                                         | John Steinbeck             | 1939      | 496   |
 |     | [Sophie’s World](https://www.goodreads.com/book/show/10959.Sophie_s_World)                                                                                      | Jostein Gaarder            | 1991      | 403   |
 |     | [Small Things Like These](https://www.goodreads.com/book/show/58662236-small-things-like-these)                                                                 | Claire Keegan              | 2021      | 128   |
-|     | [Les Misérables](https://www.goodreads.com/book/show/24280.Les_Mis_rables)                                                                                      | Victor Hugo                | 1862      | 1463  |
 |     | [Macbeth](https://www.goodreads.com/book/show/43913694-macbeth)                                                                                                 | William Shakespeare        | 1623      | 214   |
 |     | [Memoirs of a Geisha](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha)                                                                              | Arthur Golden              | 1997      | 503   |
 |     | [Norwegian Wood](https://www.goodreads.com/book/show/11297.Norwegian_Wood)                                                                                      | Haruki Murakami            | 1987      | 296   |
@@ -97,25 +89,17 @@ cssclasses:
 |     | [The Palace of Dreams](https://www.goodreads.com/book/show/797635.The_Palace_of_Dreams)                                                                         | Ismail Kadare              | 1981      | 208   |
 |     | [The Hour of the Star](https://www.goodreads.com/book/show/762390.The_Hour_of_the_Star)                                                                         | Clarice Lispector          | 1977      | 96    |
 |     | [The Death of Vivek Oji](https://www.goodreads.com/book/show/48595550-the-death-of-vivek-oji)                                                                   | Akwaeke Emezi              | 2020      | 248   |
-|     | [Stoner](https://www.goodreads.com/book/show/166997.Stoner)                                                                                                     | John Williams              | 1965      | 292   |
 |     | [Pedro Páramo](https://www.goodreads.com/book/show/38787.Pedro_P_ramo)                                                                                          | Juan Rulfo                 | 1955      | 124   |
-|     | [On Earth We're Briefly Gorgeous](https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous)                                                 | Ocean Vuong                | 2019      | 246   |
 |     | [Martyr!](https://www.goodreads.com/book/show/139400713-martyr)                                                                                                 | Kaveh Akbar<br>            | 2024      | 331   |
-|     | [Great Expectations](https://www.goodreads.com/book/show/2623.Great_Expectations)                                                                               | Charles Dickens            | 1861      | 544   |
 |     | [Foster](https://www.goodreads.com/book/show/8143909-foster)                                                                                                    | Claire Keegan              | 2010      | 89    |
 |     | [And Every Morning the Way Home Gets Longer and Longer](https://www.goodreads.com/book/show/31373633-and-every-morning-the-way-home-gets-longer-and-longer)     | Fredrik Backman            | 2015      | 97    |
-|     | [Midnight’s Children](https://www.goodreads.com/book/show/14836.Midnight_s_Children)                                                                            | Salman Rushdie             | 1981      | 647   |
 |     | [Can You Hear the Nightbird Call?](https://www.goodreads.com/book/show/473846.Can_You_Hear_the_Nightbird_Call_)                                                 | Anita Rau Badami           | 2006      | 432   |
 |     | [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)                                                                       | J.D. Salinger              | 1951      | 277   |
-|     | [Franny and Zooey](https://www.goodreads.com/book/show/5113.Franny_and_Zooey)                                                                                   | J.D. Salinger              | 1957      | 201   |
-|     | [The Idiot](https://www.goodreads.com/book/show/12505.The_Idiot)                                                                                                | Fyodor Dostoevsky          | 1869      | 667   |
 |     | [The Painted Veil](https://www.goodreads.com/book/show/99664.The_Painted_Veil)                                                                                  | W. Somerset Maugham        | 1925      | 246   |
 |     | [The Tenant of Wildfell Hall](https://www.goodreads.com/book/show/337113.The_Tenant_of_Wildfell_Hall)                                                           | Anne Brontë                | 1848      | 576   |
 |     | [Small Gods](https://www.goodreads.com/book/show/34484.Small_Gods)                                                                                              | Terry Pratchett            | 1992      | 389   |
 |     | [The Woman in White](https://www.goodreads.com/book/show/5890.The_Woman_in_White)                                                                               | Wilkie Collins             | 1859      | 672   |
 |     | [Fingersmith](https://www.goodreads.com/book/show/8913370-fingersmith)                                                                                          | Sarah Waters               | 2002      | 592   |
-|     | [The Flowers of Evil](https://www.goodreads.com/book/show/536387.The_Flowers_of_Evil)                                                                           | Charles Baudelaire         | 1857      | 464   |
-|     | [Eugene Onegin](https://www.goodreads.com/book/show/27822.Eugene_Onegin)                                                                                        | Alexander Pushkin          | 1833      | 240   |
 |     | [The Tunnel](https://www.goodreads.com/book/show/9574908-the-tunnel)                                                                                            | Ernesto Sabato             | 1948      | 140   |
 |     | [War with the Newts](https://www.goodreads.com/book/show/816440.War_with_the_Newts)                                                                             | Karel Čapek                | 1936      | 241   |
 |     | [Seven Gothic Tales](https://www.goodreads.com/book/show/669305.Seven_Gothic_Tales)                                                                             | Isak Dinesen               | 1934      | 420   |
@@ -128,7 +112,6 @@ cssclasses:
 |     | [The Last Unicorn](https://www.goodreads.com/book/show/29127.The_Last_Unicorn)                                                                                  | Peter S. Beagle            | 1968      | 294   |
 |     | [The Original Folk and Fairy Tales of the Brothers Grimm](https://www.goodreads.com/book/show/21981650-the-original-folk-and-fairy-tales-of-the-brothers-grimm) | Jacob Grimm, Wilhelm Grimm | 1812      | 568   |
 |     | [The Trees](https://www.goodreads.com/book/show/56269278-the-trees)                                                                                             | Percival Everett           | 2021      | 309   |
-|     | [The Waves](https://www.goodreads.com/book/show/46114.The_Waves)                                                                                                | Virginia Woolf             | 1931      | 297   |
 
 ### Non-Fiction
 
@@ -142,8 +125,6 @@ cssclasses:
 |     | [Stiff](https://www.goodreads.com/book/show/56769575-stiff)                                            | Mary Roach           | 2003      | 320   |
 |     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                      | Bill Bryson          | 2019      | 450   |
 |     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) | Siddhartha Mukherjee | 2010      | 571   |
-|     | [Of Human Freedom](https://www.goodreads.com/book/show/9248625-of-human-freedom)                       | Epictetus            | 100       | 112   |
-|     | [Tao Te Ching](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)                                 | Lao Tzu              | 350       | 107   |
 |     | [The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet)                                    | Kahlil Gibran        | 1923      | 127   |
 |     | [Nothing to Envy](https://www.goodreads.com/book/show/40604846-nothing-to-envy)                        | Barbara Demick       | 2009      | 338   |
 |     | [What If?](https://www.goodreads.com/book/show/21413662-what-if)                                       | Randall Munroe       | 2014      | 303   |

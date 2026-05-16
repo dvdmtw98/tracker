@@ -24,4 +24,6 @@ updated: 2026-02-14 21:56:33 +0530
 
 Book Link: [Hell Screen](https://www.goodreads.com/book/show/61761700-hell-screen)
 
+```
 Original: Japanese
+```

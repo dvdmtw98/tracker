@@ -72,7 +72,9 @@ updated: <% tp.date.now("YYYY-MM-DD HH:mm:ss ZZ") %>
 Book Link: [<% shortName || name %>](<% result.getValue('book-url') %>)
 
 <%* if (original !== undefined) { -%>
-    Original: <% original %>
+```
+Original: <% original %>
+```
 <%* } -%>
 <%*
 tp.hooks.on_all_templates_executed(async () => {

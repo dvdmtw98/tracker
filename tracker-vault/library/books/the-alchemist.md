@@ -24,4 +24,6 @@ updated: 2026-01-15 23:22:05 +0530
 
 Book Link: [The Alchemist](https://www.goodreads.com/en/book/show/18144590)
 
+```
 Original: Portuguese
+```

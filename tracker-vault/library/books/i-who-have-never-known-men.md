@@ -24,7 +24,9 @@ updated: 2025-06-11 23:09:59 -0500
 
 Book Link: [I Who Have Never Known Men](https://www.goodreads.com/book/show/43208407-i-who-have-never-known-men)
 
+```
 Original: French
+```
 
 ---
 

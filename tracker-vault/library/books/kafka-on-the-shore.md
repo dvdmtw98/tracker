@@ -24,4 +24,6 @@ updated: 2025-05-31 19:09:41 -0500
 
 Book Link: [Kafka on the Shore](https://www.goodreads.com/en/book/show/4929)
 
+```
 Original: Japanese
+```

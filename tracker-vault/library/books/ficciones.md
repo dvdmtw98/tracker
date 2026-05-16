@@ -24,7 +24,9 @@ updated: 2025-06-11 23:12:06 -0500
 
 Book Link: [Ficciones](https://www.goodreads.com/book/show/426504.Ficciones)
 
+```
 Original: Spanish
+```
 
 Reference: [Chapter Summaries](https://en.wikipedia.org/wiki/Ficciones#Contents)
 

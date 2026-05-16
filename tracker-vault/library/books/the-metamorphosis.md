@@ -24,4 +24,6 @@ updated: 2025-06-11 23:17:28 -0500
 
 Book Link: [The Metamorphosis](https://www.goodreads.com/book/show/485894.The_Metamorphosis)
 
+```
 Original: German
+```

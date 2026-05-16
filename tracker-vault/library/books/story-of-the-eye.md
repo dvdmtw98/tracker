@@ -24,4 +24,6 @@ updated: 2025-06-11 23:16:57 -0500
 
 Book Link: [Story of the Eye](https://www.goodreads.com/book/show/436806.Story_of_the_Eye)
 
+```
 Original: French
+```

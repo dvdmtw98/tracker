@@ -24,4 +24,6 @@ updated: 2025-06-11 23:20:58 -0500
 
 Book Link: [Siddhartha](https://www.goodreads.com/book/show/52036.Siddhartha)
 
+```
 Original: German
+```

@@ -24,4 +24,6 @@ updated: 2025-05-30 23:06:26 -0500
 
 Book Link: [The Epic of Gilgamesh](https://www.goodreads.com/book/show/19351.The_Epic_of_Gilgamesh)
 
+```
 Original: Akkadian
+```

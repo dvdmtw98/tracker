@@ -24,7 +24,9 @@ updated: 2026-02-14 22:21:47 +0530
 
 Book Link: [If on a Winter’s Night a Traveler](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler)
 
+```
 Original: Italian
+```
 
 > [!IMPORTANT] Summary
 > **If on a Winter’s Night a Traveler** by Italo Calvino is a playful, postmodern novel that explores the act of reading itself. You are placed in the role of the Reader who starts a book that keeps breaking off just as the story gets interesting, and each time you chase down the next piece of the text you are drawn into a new opening chapter of a different novel. Along the way you meet other readers, including a woman named Ludmilla, and the narrative becomes a thoughtful and surprising commentary on how stories work, how we connect with them, and what it means to seek meaning in literature.

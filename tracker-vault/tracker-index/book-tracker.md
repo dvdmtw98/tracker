@@ -13,17 +13,18 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (7)
+### 2026 (8)
 
-| Cover                                               | Title                                                                                | Author           | Type    | Genre                                                                                          | Status    | Rating     |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------- | ------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[human-acts.jpg\|92]]                             | [[human-acts\|Human Acts]]                                                           | Han Kang         | Fiction | <ul><li>Literary Fiction</li><li>Historical</li><li>Contemporary</li><li>Political</li></ul>   | Reading   | 🌑🌑🌑🌑🌑 |
-| ![[if-on-a-winters-night-a-traveler.jpg\|92]]       | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]]              | Italo Calvino    | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul>     | Completed | 🌕🌕🌕🌕🌑 |
-| ![[malgudi-days.jpg\|92]]                           | [[malgudi-days\|Malgudi Days]]                                                       | R.K. Narayan     | Fiction | <ul><li>Drama</li><li>Comedy</li><li>Slice of Life</li><li>Realism</li></ul>                   | Completed | 🌕🌕🌕🌕🌑 |
-| ![[the-boy-the-mole-the-fox-and-the-horse.jpg\|92]] | [[the-boy-the-mole-the-fox-and-the-horse\|The Boy, the Mole, the Fox and the Horse]] | Charlie Mackesy  | Fiction | <ul><li>Philosophical</li><li>Short Story</li><li>Children's</li><li>Self-Help</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
-| ![[the-enemy.jpg\|92]]                              | [[the-enemy\|The Enemy]]                                                             | Charlie Higson   | Fiction | <ul><li>Thriller</li><li>Adventure</li><li>Action</li><li>Post-Apocalyptic</li></ul>           | Completed | 🌕🌕🌕🌗🌑 |
-| ![[the-grave-tattoo.jpg\|92]]                       | [[the-grave-tattoo\|The Grave Tattoo]]                                               | Val McDermid     | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
-| ![[the-nine-billion-names-of-god.jpg\|92]]          | [[the-nine-billion-names-of-god\|The Nine Billion Names of God]]                     | Arthur C. Clarke | Fiction | <ul><li>Science Fiction</li><li>Fantasy</li><li>Story Collection</li><li>Speculative</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
+| Cover                                               | Title                                                                                | Author                         | Type    | Genre                                                                                          | Status    | Rating     |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------ | ------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[8th-confession.jpg\|92]]                         | [[8th-confession\|8th Confession]]                                                   | James Patterson, Maxine Paetro | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>                      | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[human-acts.jpg\|92]]                             | [[human-acts\|Human Acts]]                                                           | Han Kang                       | Fiction | <ul><li>Literary Fiction</li><li>Historical</li><li>Contemporary</li><li>Political</li></ul>   | Completed | 🌕🌕🌕🌕🌗 |
+| ![[if-on-a-winters-night-a-traveler.jpg\|92]]       | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]]              | Italo Calvino                  | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul>     | Completed | 🌕🌕🌕🌕🌑 |
+| ![[malgudi-days.jpg\|92]]                           | [[malgudi-days\|Malgudi Days]]                                                       | R.K. Narayan                   | Fiction | <ul><li>Drama</li><li>Comedy</li><li>Slice of Life</li><li>Realism</li></ul>                   | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-boy-the-mole-the-fox-and-the-horse.jpg\|92]] | [[the-boy-the-mole-the-fox-and-the-horse\|The Boy, the Mole, the Fox and the Horse]] | Charlie Mackesy                | Fiction | <ul><li>Philosophical</li><li>Short Story</li><li>Children's</li><li>Self-Help</li></ul>       | Completed | 🌕🌕🌕🌕🌑 |
+| ![[the-enemy.jpg\|92]]                              | [[the-enemy\|The Enemy]]                                                             | Charlie Higson                 | Fiction | <ul><li>Thriller</li><li>Adventure</li><li>Action</li><li>Post-Apocalyptic</li></ul>           | Completed | 🌕🌕🌕🌗🌑 |
+| ![[the-grave-tattoo.jpg\|92]]                       | [[the-grave-tattoo\|The Grave Tattoo]]                                               | Val McDermid                   | Fiction | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
+| ![[the-nine-billion-names-of-god.jpg\|92]]          | [[the-nine-billion-names-of-god\|The Nine Billion Names of God]]                     | Arthur C. Clarke               | Fiction | <ul><li>Science Fiction</li><li>Fantasy</li><li>Story Collection</li><li>Speculative</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
 
 ### 2025 (36)
 

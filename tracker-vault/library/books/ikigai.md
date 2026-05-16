@@ -25,7 +25,9 @@ updated: 2026-01-15 23:25:55 +0530
 
 Book Link: [Ikigai](https://www.goodreads.com/en/book/show/40534545)
 
+```
 Original: Spanish
+```
 
 ---
 
