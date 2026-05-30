@@ -13,11 +13,12 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (8)
+### 2026 (9)
 
 | Cover                                               | Title                                                                                | Author                         | Type    | Genre                                                                                          | Status    | Rating     |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------ | ------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[8th-confession.jpg\|92]]                         | [[8th-confession\|8th Confession]]                                                   | James Patterson, Maxine Paetro | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>                      | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[8th-confession.jpg\|92]]                         | [[8th-confession\|8th Confession]]                                                   | James Patterson, Maxine Paetro | Fiction | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
+| ![[chess-story.jpg\|92]]                            | [[chess-story\|Chess Story]]                                                         | Stefan Zweig                   | Fiction | <ul><li>Novella</li><li>Psychological</li><li>Thriller</li><li>Historical</li></ul>            | Completed | 🌕🌕🌕🌕🌑 |
 | ![[human-acts.jpg\|92]]                             | [[human-acts\|Human Acts]]                                                           | Han Kang                       | Fiction | <ul><li>Literary Fiction</li><li>Historical</li><li>Contemporary</li><li>Political</li></ul>   | Completed | 🌕🌕🌕🌕🌗 |
 | ![[if-on-a-winters-night-a-traveler.jpg\|92]]       | [[if-on-a-winters-night-a-traveler\|If on a Winter's Night a Traveler]]              | Italo Calvino                  | Fiction | <ul><li>Avant-garde</li><li>Philosophical</li><li>Postmodern</li><li>Metafiction</li></ul>     | Completed | 🌕🌕🌕🌕🌑 |
 | ![[malgudi-days.jpg\|92]]                           | [[malgudi-days\|Malgudi Days]]                                                       | R.K. Narayan                   | Fiction | <ul><li>Drama</li><li>Comedy</li><li>Slice of Life</li><li>Realism</li></ul>                   | Completed | 🌕🌕🌕🌕🌑 |

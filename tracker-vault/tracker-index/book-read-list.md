@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2026-05-09 22:47:58 +0530
+updated: 2026-05-28 21:49:18 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -64,7 +64,6 @@ cssclasses:
 |     | [A Man Called Ove](https://www.goodreads.com/book/show/18774964-a-man-called-ove)                                                                               | Fredrik Backman            | 2012      | 337   |
 |     | [A Tale for the Time Being](https://www.goodreads.com/book/show/15811545-a-tale-for-the-time-being)                                                             | Ruth Ozeki                 | 2013      | 432   |
 |     | [Beloved](https://www.goodreads.com/book/show/6149.Beloved)                                                                                                     | Toni Morrison              | 1987      | 325   |
-|     | [Chess Story](https://www.goodreads.com/book/show/59151.Chess_Story)                                                                                            | Stefan Zweig               | 1942      | 104   |
 |     | [Drive Your Plow Over the Bones of the Dead](https://www.goodreads.com/book/show/51648276-drive-your-plow-over-the-bones-of-the-dead)                           | Olga Tokarczuk             | 2009      | 274   |
 |     | [Elena Knows](https://www.goodreads.com/book/show/56802275-elena-knows)                                                                                         | Claudia Piñeiro            | 2007      | 143   |
 |     | [Unaccustomed Earth](https://www.goodreads.com/book/show/85301.Unaccustomed_Earth)                                                                              | Jhumpa Lahiri              | 2008      | 352   |
@@ -72,7 +71,6 @@ cssclasses:
 |     | [The Secret History](https://www.goodreads.com/book/show/29044.The_Secret_History)                                                                              | Donna Tartt                | 1992      | 559   |
 |     | [The Handmaid’s Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)                                                                            | Margaret Atwood            | 1985      | 311   |
 |     | [The Grapes of Wrath](https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath)                                                                         | John Steinbeck             | 1939      | 496   |
-|     | [Sophie’s World](https://www.goodreads.com/book/show/10959.Sophie_s_World)                                                                                      | Jostein Gaarder            | 1991      | 403   |
 |     | [Small Things Like These](https://www.goodreads.com/book/show/58662236-small-things-like-these)                                                                 | Claire Keegan              | 2021      | 128   |
 |     | [Macbeth](https://www.goodreads.com/book/show/43913694-macbeth)                                                                                                 | William Shakespeare        | 1623      | 214   |
 |     | [Memoirs of a Geisha](https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha)                                                                              | Arthur Golden              | 1997      | 503   |
@@ -112,19 +110,43 @@ cssclasses:
 |     | [The Last Unicorn](https://www.goodreads.com/book/show/29127.The_Last_Unicorn)                                                                                  | Peter S. Beagle            | 1968      | 294   |
 |     | [The Original Folk and Fairy Tales of the Brothers Grimm](https://www.goodreads.com/book/show/21981650-the-original-folk-and-fairy-tales-of-the-brothers-grimm) | Jacob Grimm, Wilhelm Grimm | 1812      | 568   |
 |     | [The Trees](https://www.goodreads.com/book/show/56269278-the-trees)                                                                                             | Percival Everett           | 2021      | 309   |
+|     | [11/22/63](https://www.goodreads.com/book/show/10644930-11-22-63)                                                                                               | Stephen King               | 2011      | 849   |
+|     | [A Hero of Our Time](https://www.goodreads.com/book/show/226378.A_Hero_of_Our_Time)                                                                             | Mikhail Lermontov          | 1840      | 185   |
+|     | [Indian Horse](https://www.goodreads.com/book/show/11994903-indian-horse)                                                                                       | Richard Wagamese           | 2012      | 221   |
+|     | [Life for Sale](https://www.goodreads.com/book/show/43685241-life-for-sale)                                                                                     | Yukio Mishima              | 1968      | 192   |
+|     | [Minor Detail](https://www.goodreads.com/book/show/52045757-minor-detail)                                                                                       | Adania Shibli              | 2017      | 112   |
+|     | [Monkey King](https://www.goodreads.com/book/show/53403847-monkey-king)                                                                                         | Wu Cheng'en                | 1592      | 339   |
+|     | [Murder on the Orient Express](https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express)                                                         | Agatha Christie            | 1934      | 347   |
+|     | [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground)                                                                      | Fyodor Dostoevsky          | 1864      | 136   |
+|     | [Pet Sematary](https://www.goodreads.com/book/show/233682.Pet_Sematary)                                                                                         | Stephen King               | 1983      | 562   |
+|     | [Smaller and Smaller Circles](https://www.goodreads.com/book/show/1431558.Smaller_and_Smaller_Circles)                                                          | F.H. Batacan               | 2002      | 155   |
+|     | [The Big Sleep](https://www.goodreads.com/book/show/2052.The_Big_Sleep)                                                                                         | Raymond Chandler           | 1939      | 231   |
+|     | [The Collected Tales of Nikolai Gogol](https://www.goodreads.com/book/show/252981.The_Collected_Tales_of_Nikolai_Gogol)                                         | Nikolai Gogol              | 1835      | 435   |
+|     | [The Door](https://www.goodreads.com/book/show/497499.The_Door)                                                                                                 | Magda Szabó                | 1987      | 262   |
+|     | [The Forever War](https://www.goodreads.com/book/show/21611.The_Forever_War)                                                                                    | Joe Haldeman               | 1974      | 278   |
+|     | [The Machine Stops](https://www.goodreads.com/book/show/4711854-the-machine-stops)                                                                              | E.M. Forster               | 1909      | 35    |
+|     | [The Nine Tailors](https://www.goodreads.com/book/show/126675.The_Nine_Tailors)                                                                                 | Dorothy L. Sayers          | 1934      | 397   |
+|     | [The Safekeep](https://www.goodreads.com/book/show/199798201-the-safekeep)                                                                                      | Yael van der Wouden        | 2024      | 272   |
+|     | [The Song of Achilles](https://www.goodreads.com/book/show/13623848-the-song-of-achilles)                                                                       | Madeline Miller            | 2011      | 408   |
+|     | [The Wall](https://www.goodreads.com/book/show/10031.The_Wall)                                                                                                  | Jean-Paul Sartre           | 1939      | 183   |
+|     | [The Setting Sun](https://www.goodreads.com/book/show/194740.The_Setting_Sun)                                                                                   | Osamu Dazai                | 1947      | 175   |
 
 ### Non-Fiction
 
-| No. | Name                                                                                                   | Author               | Published | Pages |
-| :-- | :----------------------------------------------------------------------------------------------------- | :------------------- | :-------- | :---- |
-|     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                | Patrick Radden Keefe | 2018      | 441   |
-|     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                  | Neil Bradbury        | 2022      | 304   |
-|     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                      | Alfred Lansing       | 1959      | 282   |
-|     | [The Radium Girls](https://www.goodreads.com/book/show/31409135-the-radium-girls)                      | Kate Moore           | 2016      | 479   |
-|     | [The Devil in the White City](https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City)  | Erik Larson          | 2003      | 464   |
-|     | [Stiff](https://www.goodreads.com/book/show/56769575-stiff)                                            | Mary Roach           | 2003      | 320   |
-|     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                      | Bill Bryson          | 2019      | 450   |
-|     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) | Siddhartha Mukherjee | 2010      | 571   |
-|     | [The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet)                                    | Kahlil Gibran        | 1923      | 127   |
-|     | [Nothing to Envy](https://www.goodreads.com/book/show/40604846-nothing-to-envy)                        | Barbara Demick       | 2009      | 338   |
-|     | [What If?](https://www.goodreads.com/book/show/21413662-what-if)                                       | Randall Munroe       | 2014      | 303   |
+| No. | Name                                                                                                                                                      | Author               | Published | Pages |
+| :-- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------- | :-------- | :---- |
+|     | [Say Nothing](https://www.goodreads.com/book/show/40163119-say-nothing)                                                                                   | Patrick Radden Keefe | 2018      | 441   |
+|     | [A Taste for Poison](https://www.goodreads.com/book/show/56269163-a-taste-for-poison)                                                                     | Neil Bradbury        | 2022      | 304   |
+|     | [Endurance](https://www.goodreads.com/book/show/139069.Endurance)                                                                                         | Alfred Lansing       | 1959      | 282   |
+|     | [The Radium Girls](https://www.goodreads.com/book/show/31409135-the-radium-girls)                                                                         | Kate Moore           | 2016      | 479   |
+|     | [The Devil in the White City](https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City)                                                     | Erik Larson          | 2003      | 464   |
+|     | [Stiff](https://www.goodreads.com/book/show/56769575-stiff)                                                                                               | Mary Roach           | 2003      | 320   |
+|     | [The Body](https://www.goodreads.com/book/show/43582376-the-body)                                                                                         | Bill Bryson          | 2019      | 450   |
+|     | [The Emperor of All Maladies](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies)                                                    | Siddhartha Mukherjee | 2010      | 571   |
+|     | [Nothing to Envy](https://www.goodreads.com/book/show/40604846-nothing-to-envy)                                                                           | Barbara Demick       | 2009      | 338   |
+|     | [What If?](https://www.goodreads.com/book/show/21413662-what-if)                                                                                          | Randall Munroe       | 2014      | 303   |
+|     | [Night](https://www.goodreads.com/book/show/1617.Night)                                                                                                   | Elie Wiesel          | 1956      | 120   |
+|     | [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/book/show/213870084-one-day-everyone-will-have-always-been-against-this) | Omar El Akkad        | 2025      | 208   |
+|     | [The Hot Zone](https://www.goodreads.com/book/show/16213.The_Hot_Zone)                                                                                    | Richard Preston      | 1994      | 352   |
+|     | [The Rape of Nanking](https://www.goodreads.com/book/show/95784.The_Rape_of_Nanking)                                                                      | Iris Chang           | 1997      | 290   |
+|     | [A Small Place](https://www.goodreads.com/book/show/19274444-a-small-place)                                                                               | Jamaica Kincaid      | 1988      | 98    |
