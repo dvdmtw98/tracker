@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2026-05-28 21:49:18 +0530
+updated: 2026-05-31 14:20:07 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -90,7 +90,6 @@ cssclasses:
 |     | [Pedro Páramo](https://www.goodreads.com/book/show/38787.Pedro_P_ramo)                                                                                          | Juan Rulfo                 | 1955      | 124   |
 |     | [Martyr!](https://www.goodreads.com/book/show/139400713-martyr)                                                                                                 | Kaveh Akbar<br>            | 2024      | 331   |
 |     | [Foster](https://www.goodreads.com/book/show/8143909-foster)                                                                                                    | Claire Keegan              | 2010      | 89    |
-|     | [And Every Morning the Way Home Gets Longer and Longer](https://www.goodreads.com/book/show/31373633-and-every-morning-the-way-home-gets-longer-and-longer)     | Fredrik Backman            | 2015      | 97    |
 |     | [Can You Hear the Nightbird Call?](https://www.goodreads.com/book/show/473846.Can_You_Hear_the_Nightbird_Call_)                                                 | Anita Rau Badami           | 2006      | 432   |
 |     | [The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)                                                                       | J.D. Salinger              | 1951      | 277   |
 |     | [The Painted Veil](https://www.goodreads.com/book/show/99664.The_Painted_Veil)                                                                                  | W. Somerset Maugham        | 1925      | 246   |
@@ -149,4 +148,3 @@ cssclasses:
 |     | [One Day, Everyone Will Have Always Been Against This](https://www.goodreads.com/book/show/213870084-one-day-everyone-will-have-always-been-against-this) | Omar El Akkad        | 2025      | 208   |
 |     | [The Hot Zone](https://www.goodreads.com/book/show/16213.The_Hot_Zone)                                                                                    | Richard Preston      | 1994      | 352   |
 |     | [The Rape of Nanking](https://www.goodreads.com/book/show/95784.The_Rape_of_Nanking)                                                                      | Iris Chang           | 1997      | 290   |
-|     | [A Small Place](https://www.goodreads.com/book/show/19274444-a-small-place)                                                                               | Jamaica Kincaid      | 1988      | 98    |
