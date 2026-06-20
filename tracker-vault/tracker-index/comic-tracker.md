@@ -17,9 +17,9 @@ cssclasses:
 
 | Cover                                       | Title                                                               | Author                 | Type  | Genre                                                                                         | Status    | Rating     |
 | ------------------------------------------- | ------------------------------------------------------------------- | ---------------------- | ----- | --------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[daytripper.jpg\|92]]                     | [[daytripper\|Daytripper]]                                          | Fábio Moon, Gabriel Bá | Comic | <ul><li>Fantasy</li><li>Magical Realism</li><li>Philosophical</li><li>Slice of Life</li></ul> | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[chainsaw-man.jpg\|92]]                   | [[chainsaw-man\|Chainsaw Man]]                                      | Tatsuki Fujimoto       | Manga | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul>             | Completed | 🌕🌕🌕🌑🌑 |
 | ![[daredevil-the-man-without-fear.jpg\|92]] | [[daredevil-the-man-without-fear\|Daredevil: The Man Without Fear]] | Frank Miller           | Comic | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>                         | Completed | 🌕🌕🌕🌕🌑 |
+| ![[daytripper.jpg\|92]]                     | [[daytripper\|Daytripper]]                                          | Fábio Moon, Gabriel Bá | Comic | <ul><li>Fantasy</li><li>Magical Realism</li><li>Philosophical</li><li>Slice of Life</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
 
 ### 2025 (8)
 

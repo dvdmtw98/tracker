@@ -13,11 +13,11 @@ chapters: 10
 ISBN: 9781401229696
 readingHistory:
   - format: Digital
-    rating: 🌑🌑🌑🌑🌑
-    status: Reading
+    rating: 🌕🌕🌕🌕🌕
+    status: Completed
     start: 2026-05-12 20:40:54 +0530
-    end: 2026-05-12 20:40:54 +0530
-updated: 2026-05-12 20:47:12 +0530
+    end: 2026-06-14 15:20:00 +0530
+updated: 2026-06-14 15:47:45 +0530
 ---
 
 ![[daytripper.jpg|300]]
