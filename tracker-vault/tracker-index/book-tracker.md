@@ -5,7 +5,7 @@ tags:
   - book
   - index
 date: 2024-02-06 18:22:01 -0600
-updated: 2026-02-14 12:44:01 +0530
+updated: 2026-07-11 11:37:11 +0530
 cssclasses:
   - cards
   - cards-cols-4
@@ -17,7 +17,7 @@ cssclasses:
 
 | Cover                                                              | Title                                                                                                            | Author                         | Type        | Genre                                                                                          | Status    | Rating     |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[112263.jpg\|92]]                                                | [[112263\|11/22/63]]                                                                                             | Stephen King                   | Fiction     | <ul><li>Science Fiction</li><li>Thriller</li><li>Historical</li><li>Suspense</li></ul>         | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[112263.jpg\|92]]                                                | [[112263\|11.22.63]]                                                                                             | Stephen King                   | Fiction     | <ul><li>Science Fiction</li><li>Thriller</li><li>Historical</li><li>Suspense</li></ul>         | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[8th-confession.jpg\|92]]                                        | [[8th-confession\|8th Confession]]                                                                               | James Patterson, Maxine Paetro | Fiction     | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
 | ![[a-small-place.jpg\|92]]                                         | [[a-small-place\|A Small Place]]                                                                                 | Jamaica Kincaid                | Non-Fiction | <ul><li>Memoir</li><li>Essay</li><li>History</li><li>Politics</li></ul>                        | Completed | 🌕🌕🌕🌑🌑 |
 | ![[and-every-morning-the-way-home-gets-longer-and-longer.jpg\|92]] | [[and-every-morning-the-way-home-gets-longer-and-longer\|And Every Morning the Way Home Gets Longer and Longer]] | Fredrik Backman                | Fiction     | <ul><li>Contemporary</li><li>Novella</li><li>Psychological</li><li>Drama</li></ul>             | Completed | 🌕🌕🌕🌕🌕 |
