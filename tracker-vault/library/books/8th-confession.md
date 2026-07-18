@@ -16,7 +16,7 @@ readingHistory:
     status: Completed
     start: 2026-05-12 20:51:07 +0530
     end: 2026-05-25 22:09:21 +0530
-updated: 2026-05-25 22:12:03 +0530
+updated: 2026-07-15 20:22:18 +0530
 ---
 
 ![[8th-confession.jpg|300]]
