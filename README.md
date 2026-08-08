@@ -2,7 +2,7 @@
 
 - This repository houses reading/watching information on books, shows, and movies.
 - The notes are written in Markdown using [Obsidian](https://obsidian.md/).
-- The files in this repository are viewable at [Media Tracker](https://tracker.davidvarghese.net).
+- The files in this repository are viewable at [Media Tracker](https://tracker.davidvarghese.com).
 - This website is build using [Quartz](https://quartz.jzhao.xyz/).
 
 The website uses the following custom components:

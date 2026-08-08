@@ -7,10 +7,10 @@ tags:
   - movie
   - index
 date: 2024-02-08 20:02:38 -0600
-updated: 2026-07-12 12:29:35 +0530
+updated: 2026-08-03 22:26:38 +0530
 ---
 
-### Books & Comics
+### Reading
 
 * [[book-tracker|Book Tracker]]
 * [[comic-tracker|Comic Tracker]]
