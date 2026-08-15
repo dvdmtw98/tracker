@@ -19,6 +19,7 @@ export const sharedPageComponents: SharedLayout = {
     ],
     footer: Component.Footer({
         links: {
+            Email: { url: "mailto:contact@davidvarghese.com", icon: "fa-solid fa-envelope" },
             GitHub: { url: "https://github.com/dvdmtw98", icon: "fa-brands fa-github" },
             Notes: { url: "https://notes.davidvarghese.com", icon: "fa-solid fa-book" },
             Blog: { url: "https://blog.davidvarghese.com", icon: "fa-brands fa-blogger-b" },
