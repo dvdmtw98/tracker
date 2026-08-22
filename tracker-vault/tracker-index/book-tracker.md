@@ -13,11 +13,12 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (12)
+### 2026 (13)
 
 | Cover                                                              | Title                                                                                                            | Author                         | Type        | Genre                                                                                          | Status    | Rating     |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[112263.jpg\|92]]                                                | [[112263\|11.22.63]]                                                                                             | Stephen King                   | Fiction     | <ul><li>Science Fiction</li><li>Thriller</li><li>Historical</li><li>Suspense</li></ul>         | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[murder-on-the-orient-express.jpg\|92]]                          | [[murder-on-the-orient-express\|Murder on the Orient Express]]                                                   | Agatha Christie                | Fiction     | <ul><li>Mystery</li><li>Crime</li><li>Thriller</li><li>Classics</li></ul>                      | Reading   | 🌑🌑🌑🌑🌑 |
+| ![[112263.jpg\|92]]                                                | [[112263\|11/22/63]]                                                                                             | Stephen King                   | Fiction     | <ul><li>Science Fiction</li><li>Thriller</li><li>Historical</li><li>Suspense</li></ul>         | Completed | 🌕🌕🌕🌕🌗 |
 | ![[8th-confession.jpg\|92]]                                        | [[8th-confession\|8th Confession]]                                                                               | James Patterson, Maxine Paetro | Fiction     | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
 | ![[a-small-place.jpg\|92]]                                         | [[a-small-place\|A Small Place]]                                                                                 | Jamaica Kincaid                | Non-Fiction | <ul><li>Memoir</li><li>Essay</li><li>History</li><li>Politics</li></ul>                        | Completed | 🌕🌕🌕🌑🌑 |
 | ![[and-every-morning-the-way-home-gets-longer-and-longer.jpg\|92]] | [[and-every-morning-the-way-home-gets-longer-and-longer\|And Every Morning the Way Home Gets Longer and Longer]] | Fredrik Backman                | Fiction     | <ul><li>Contemporary</li><li>Novella</li><li>Psychological</li><li>Drama</li></ul>             | Completed | 🌕🌕🌕🌕🌕 |
