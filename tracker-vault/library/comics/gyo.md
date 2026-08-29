@@ -7,9 +7,9 @@ published: 2002
 type: Manga
 genre:
   - Horror
-  - Mystery
   - Psychological
   - Thriller
+  - Supernatural
 chapters: 19
 ISBN: 9781421579153
 readingHistory:
@@ -18,7 +18,7 @@ readingHistory:
     status: Completed
     start: 2025-04-13 11:00:27 -0500
     end: 2025-04-14 20:00:27 -0500
-updated: 2025-05-21 13:42:15 -0500
+updated: 2026-08-28 20:42:14 +0530
 ---
 
 ![[gyo.jpg|300]]

@@ -9,7 +9,7 @@ genre:
   - Horror
   - Supernatural
   - Thriller
-  - Fantasy
+  - Mystery
 chapters: 13
 ISBN: 9781421598468
 readingHistory:
