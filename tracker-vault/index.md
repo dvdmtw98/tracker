@@ -7,13 +7,14 @@ tags:
   - movie
   - index
 date: 2024-02-08 20:02:38 -0600
-updated: 2026-08-03 22:26:38 +0530
+updated: 2026-09-02 21:00:46 +0530
 ---
 
 ### Reading
 
 * [[book-tracker|Book Tracker]]
 * [[comic-tracker|Comic Tracker]]
+* [[article-tracker|Article Tracker]]
 * **To Be Read**
 	* [[book-read-list|Book Read List]]
 	* [[comic-read-list|Comic Read List]]

@@ -6,4 +6,8 @@ tp.user.bookIndexGen(
 tp.user.bookIndexGen(
 	"comic-tracker", tp, '"library/comics"'
 );
+
+tp.user.articleIndexGen(
+    "article-tracker", tp, '"articles"'
+);
 -%>

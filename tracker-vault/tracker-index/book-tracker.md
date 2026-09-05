@@ -13,10 +13,11 @@ cssclasses:
   - cards-2-3
 ---
 
-### 2026 (13)
+### 2026 (14)
 
 | Cover                                                              | Title                                                                                                            | Author                         | Type        | Genre                                                                                          | Status    | Rating     |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------- | ---------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[exit-wound.jpg\|92]]                                            | [[exit-wound\|Exit Wound]]                                                                                       | Andy McNab                     | Fiction     | <ul><li>Thriller</li><li>Action</li><li>Espionage</li><li>Military</li></ul>                   | Reading   | 🌑🌑🌑🌑🌑 |
 | ![[112263.jpg\|92]]                                                | [[112263\|11/22/63]]                                                                                             | Stephen King                   | Fiction     | <ul><li>Science Fiction</li><li>Thriller</li><li>Historical</li><li>Suspense</li></ul>         | Completed | 🌕🌕🌕🌕🌑 |
 | ![[8th-confession.jpg\|92]]                                        | [[8th-confession\|8th Confession]]                                                                               | James Patterson, Maxine Paetro | Fiction     | <ul><li>Mystery</li><li>Thriller</li><li>Crime</li><li>Suspense</li></ul>                      | Completed | 🌕🌕🌕🌑🌑 |
 | ![[a-small-place.jpg\|92]]                                         | [[a-small-place\|A Small Place]]                                                                                 | Jamaica Kincaid                | Non-Fiction | <ul><li>Memoir</li><li>Essay</li><li>History</li><li>Politics</li></ul>                        | Completed | 🌕🌕🌕🌑🌑 |

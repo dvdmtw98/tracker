@@ -13,14 +13,16 @@ cssclasses:
   - cards-align-bottom
 ---
 
-### 2026 (4)
+### 2026 (6)
 
-| Cover                                       | Title                                                               | Author                 | Type  | Genre                                                                                         | Status    | Rating     |
-| ------------------------------------------- | ------------------------------------------------------------------- | ---------------------- | ----- | --------------------------------------------------------------------------------------------- | --------- | ---------- |
-| ![[chainsaw-man.jpg\|92]]                   | [[chainsaw-man\|Chainsaw Man]]                                      | Tatsuki Fujimoto       | Manga | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul>             | Completed | 🌕🌕🌕🌑🌑 |
-| ![[daredevil-the-man-without-fear.jpg\|92]] | [[daredevil-the-man-without-fear\|Daredevil: The Man Without Fear]] | Frank Miller           | Comic | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>                         | Completed | 🌕🌕🌕🌕🌑 |
-| ![[daytripper.jpg\|92]]                     | [[daytripper\|Daytripper]]                                          | Fábio Moon, Gabriel Bá | Comic | <ul><li>Fantasy</li><li>Magical Realism</li><li>Philosophical</li><li>Slice of Life</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
-| ![[tombs.jpg\|92]]                          | [[tombs\|Tombs]]                                                    | Junji Ito              | Manga | <ul><li>Horror</li><li>Psychological</li><li>Supernatural</li><li>Mystery</li></ul>           | Completed | 🌕🌕🌕🌑🌑 |
+| Cover                                       | Title                                                               | Author                     | Type  | Genre                                                                                         | Status    | Rating     |
+| ------------------------------------------- | ------------------------------------------------------------------- | -------------------------- | ----- | --------------------------------------------------------------------------------------------- | --------- | ---------- |
+| ![[beautiful-darkness.jpg\|92]]             | [[beautiful-darkness\|Beautiful Darkness]]                          | Fabien Vehlmann, Kerascoët | Comic | <ul><li>Horror</li><li>Allegory</li><li>Dark Fantasy</li><li>Fairy Tale</li></ul>             | Completed | 🌕🌕🌕🌕🌕 |
+| ![[chainsaw-man.jpg\|92]]                   | [[chainsaw-man\|Chainsaw Man]]                                      | Tatsuki Fujimoto           | Manga | <ul><li>Action</li><li>Dark Fantasy</li><li>Supernatural</li><li>Comedy</li></ul>             | Completed | 🌕🌕🌕🌑🌑 |
+| ![[daredevil-the-man-without-fear.jpg\|92]] | [[daredevil-the-man-without-fear\|Daredevil: The Man Without Fear]] | Frank Miller               | Comic | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>                         | Completed | 🌕🌕🌕🌕🌑 |
+| ![[daytripper.jpg\|92]]                     | [[daytripper\|Daytripper]]                                          | Fábio Moon, Gabriel Bá     | Comic | <ul><li>Fantasy</li><li>Magical Realism</li><li>Philosophical</li><li>Slice of Life</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
+| ![[hellstar-remina.jpg\|92]]                | [[hellstar-remina\|Hellstar Remina]]                                | Junji Ito                  | Manga | <ul><li>Horror</li><li>Science Fiction</li><li>Apocalyptic</li><li>Psychological</li></ul>    | Completed | 🌕🌕🌕🌑🌑 |
+| ![[tombs.jpg\|92]]                          | [[tombs\|Tombs]]                                                    | Junji Ito                  | Manga | <ul><li>Horror</li><li>Psychological</li><li>Supernatural</li><li>Mystery</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
 
 ### 2025 (8)
 

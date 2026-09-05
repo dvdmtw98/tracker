@@ -14,11 +14,11 @@ chapters: 9
 ISBN: 9781974736041
 readingHistory:
   - format: Digital
-    rating: 🌕🌕🌕🌑🌑
+    rating: 🌕🌕🌕🌕🌑
     status: Completed
     start: 2026-08-26 20:40:57 +0530
     end: 2026-08-27 20:40:57 +0530
-updated: 2026-08-28 20:46:52 +0530
+updated: 2026-08-30 19:02:14 +0530
 ---
 
 ![[tombs.jpg|300]]
