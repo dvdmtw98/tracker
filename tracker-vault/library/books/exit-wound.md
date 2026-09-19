@@ -12,11 +12,11 @@ readingHistory:
   - format: Physical
     pages: 400
     ISBN: 9780593059521
-    rating: 🌑🌑🌑🌑🌑
-    status: Reading
+    rating: 🌕🌕🌕🌑🌑
+    status: Completed
     start: 2026-09-03 22:47:45 +0530
-    end: 2026-09-04 22:47:45 +0530
-updated: 2026-09-04 22:47:45 +0530
+    end: 2026-09-19 10:49:45 +0530
+updated: 2026-09-19 10:55:50 +0530
 ---
 
 ![[exit-wound.jpg|300]]
