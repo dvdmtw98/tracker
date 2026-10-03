@@ -1,7 +1,7 @@
 ---
 title: Eight Patterns I Keep Seeing in Miserable People
 author: Singh Bhai
-source: Substck
+source: Substack
 date: 2026-09-03
 updated: 2026-09-03 20:29:41 +0530
 ---

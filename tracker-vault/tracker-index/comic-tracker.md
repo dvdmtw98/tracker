@@ -13,7 +13,7 @@ cssclasses:
   - cards-align-bottom
 ---
 
-### 2026 (6)
+### 2026 (7)
 
 | Cover                                       | Title                                                               | Author                     | Type  | Genre                                                                                         | Status    | Rating     |
 | ------------------------------------------- | ------------------------------------------------------------------- | -------------------------- | ----- | --------------------------------------------------------------------------------------------- | --------- | ---------- |
@@ -22,6 +22,7 @@ cssclasses:
 | ![[daredevil-the-man-without-fear.jpg\|92]] | [[daredevil-the-man-without-fear\|Daredevil: The Man Without Fear]] | Frank Miller               | Comic | <ul><li>Action</li><li>Crime</li><li>Thriller</li><li>Drama</li></ul>                         | Completed | 🌕🌕🌕🌕🌑 |
 | ![[daytripper.jpg\|92]]                     | [[daytripper\|Daytripper]]                                          | Fábio Moon, Gabriel Bá     | Comic | <ul><li>Fantasy</li><li>Magical Realism</li><li>Philosophical</li><li>Slice of Life</li></ul> | Completed | 🌕🌕🌕🌕🌕 |
 | ![[hellstar-remina.jpg\|92]]                | [[hellstar-remina\|Hellstar Remina]]                                | Junji Ito                  | Manga | <ul><li>Horror</li><li>Science Fiction</li><li>Apocalyptic</li><li>Psychological</li></ul>    | Completed | 🌕🌕🌕🌑🌑 |
+| ![[i-kill-giants.jpg\|92]]                  | [[i-kill-giants\|I Kill Giants]]                                    | Joe Kelly                  | Comic | <ul><li>Fantasy</li><li>Psychological</li><li>Drama</li><li>Coming-of-Age</li></ul>           | Completed | 🌕🌕🌕🌕🌕 |
 | ![[tombs.jpg\|92]]                          | [[tombs\|Tombs]]                                                    | Junji Ito                  | Manga | <ul><li>Horror</li><li>Psychological</li><li>Supernatural</li><li>Mystery</li></ul>           | Completed | 🌕🌕🌕🌕🌑 |
 
 ### 2025 (8)
