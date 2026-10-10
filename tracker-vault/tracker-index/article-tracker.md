@@ -12,10 +12,12 @@ cssclasses:
   - table-lines
 ---
 
-### 2026 (11)
+### 2026 (13)
 
 | SN | Title                                                                                                                                                                                          | Author                             | Source                         | Date       |
 | -- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ------------------------------ | ---------- |
+|    | [[2026-10-05-what-makes-humans-stupid\|What Makes Humans Stupid]]                                                                                                                              | David C. Krakauer                  | Nautilus                       | 10/05/2026 |
+|    | [[2026-10-03-why-am-i-left-handed\|Why Am I Left-Handed?]]                                                                                                                                     | Natalie Wolchover                  | Quanta Magazine                | 10/03/2026 |
 |    | [[2026-09-26-how-india-learnt-to-hate-competence\|How India Learnt To Hate Competence]]                                                                                                        | Shinjani Agnihotri, Ritik Bhandari | Substack                       | 09/26/2026 |
 |    | [[2026-09-26-the-muslim-the-migrant-the-dalit-the-feminist-and-everything-else-thats-ruined-india\|The Muslim, the Migrant, the Dalit, the Feminist, and Everything Else That’s Ruined India]] | Swarna                             | Substack                       | 09/26/2026 |
 |    | [[2026-09-12-face-it-youre-a-crazy-person\|Face It: You're a Crazy Person]]                                                                                                                    | Adam Mastroianni                   | Experimental History           | 09/12/2026 |

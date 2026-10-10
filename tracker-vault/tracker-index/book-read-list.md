@@ -5,7 +5,7 @@ tags:
   - list
   - book
 date: 2024-07-21 18:49:51 -0500
-updated: 2026-05-31 14:20:07 +0530
+updated: 2026-10-06 22:41:31 +0530
 cssclasses:
   - table-lines
   - table-row-numbers
@@ -109,13 +109,11 @@ cssclasses:
 |     | [The Last Unicorn](https://www.goodreads.com/book/show/29127.The_Last_Unicorn)                                                                                  | Peter S. Beagle            | 1968      | 294   |
 |     | [The Original Folk and Fairy Tales of the Brothers Grimm](https://www.goodreads.com/book/show/21981650-the-original-folk-and-fairy-tales-of-the-brothers-grimm) | Jacob Grimm, Wilhelm Grimm | 1812      | 568   |
 |     | [The Trees](https://www.goodreads.com/book/show/56269278-the-trees)                                                                                             | Percival Everett           | 2021      | 309   |
-|     | [11/22/63](https://www.goodreads.com/book/show/10644930-11-22-63)                                                                                               | Stephen King               | 2011      | 849   |
 |     | [A Hero of Our Time](https://www.goodreads.com/book/show/226378.A_Hero_of_Our_Time)                                                                             | Mikhail Lermontov          | 1840      | 185   |
 |     | [Indian Horse](https://www.goodreads.com/book/show/11994903-indian-horse)                                                                                       | Richard Wagamese           | 2012      | 221   |
 |     | [Life for Sale](https://www.goodreads.com/book/show/43685241-life-for-sale)                                                                                     | Yukio Mishima              | 1968      | 192   |
 |     | [Minor Detail](https://www.goodreads.com/book/show/52045757-minor-detail)                                                                                       | Adania Shibli              | 2017      | 112   |
 |     | [Monkey King](https://www.goodreads.com/book/show/53403847-monkey-king)                                                                                         | Wu Cheng'en                | 1592      | 339   |
-|     | [Murder on the Orient Express](https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express)                                                         | Agatha Christie            | 1934      | 347   |
 |     | [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground)                                                                      | Fyodor Dostoevsky          | 1864      | 136   |
 |     | [Pet Sematary](https://www.goodreads.com/book/show/233682.Pet_Sematary)                                                                                         | Stephen King               | 1983      | 562   |
 |     | [Smaller and Smaller Circles](https://www.goodreads.com/book/show/1431558.Smaller_and_Smaller_Circles)                                                          | F.H. Batacan               | 2002      | 155   |
